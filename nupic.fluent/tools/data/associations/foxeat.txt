@@ -1,0 +1,9 @@
+subject,verb,object
+string,string,string
+,,
+cow,eat,grain
+lion,eat,cow
+cow,eat,grass
+cow,eat,grain
+lion,eat,cow
+cow,eat,grass
