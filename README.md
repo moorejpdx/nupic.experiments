@@ -1,2 +1,3 @@
-nupic.experiements
+nupic.experiments
 ==================
+
