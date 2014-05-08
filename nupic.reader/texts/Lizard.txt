@@ -1,0 +1,142 @@
+Lizards are a widespread group of squamate reptiles, with more than 9,766 species, [1] ranging across all continents except Antarctica, as well as most oceanic island chains. The group, traditionally recognized as the suborder Lacertilia, is defined as all extant members of the Lepidosauria (reptiles with overlapping scales) that are neither sphenodonts (i.e., tuatara) nor snakes – they form an evolutionary grade. [2] While the snakes are recognized as falling phylogenetically within the Toxicofera clade from which they evolved, the sphenodonts are the sister group to the squamates, the larger monophyletic group, which includes both the lizards and the snakes.
+
+Lizards typically have feet and external ears, while snakes lack both of these characteristics. However, because they are defined negatively as excluding snakes, lizards have no unique distinguishing characteristic as a group. Lizards and snakes share a movable quadrate bone, distinguishing them from the sphenodonts, which have more primitive and solid diapsid skulls. Many lizards can detach their tails to escape from predators, an act called autotomy. Vision, including color vision, is particularly well developed in most lizards, and most communicate with body language or bright colors on their bodies, as well as with pheromones.
+
+The adult length of species within the suborder ranges from a few centimeters for chameleons such as Brookesia micra and geckos such as Sphaerodactylus ariasae to nearly 3 m (9.8 ft) in the case of the largest living varanid lizard, the Komodo dragon. Some extinct varanids reached great size. The extinct aquatic mosasaurs reached 17 m (56 ft), and the giant monitor Megalania is estimated to have reached perhaps 7 m (23 ft).
+
+Contents
+
+* 1 Physiology* 1.1 Shedding and regenerating tails
+
+* 2 Evolution and relationships* 2.1 Lizard diversification* 2.1.1 Iguania
+* 2.1.2 Gekkota
+
+* 3 Relationship with humans
+* 4 Classification
+* 5 Notes
+* 6 References
+* 7 External links
+
+PhysiologySight is very important for most lizards, both for locating prey and for communication, and, as such, many lizards have highly acute color vision. Most lizards rely heavily on body language, using specific postures, gestures, and movements to define territory, resolve disputes, and entice mates. Some species of lizards also use bright colors, such as the iridescent patches on the belly of Sceloporus. These colors would be highly visible to predators, so are often hidden on the underside or between scales and only revealed when necessary.
+
+The particular innovation in this respect is the dewlap, a brightly colored patch of skin on the throat, usually hidden between scales. When a display is needed, a lizard can erect the hyoid bone of its throat, resulting in a large vertical flap of brightly colored skin beneath the head which can be then used for communication. Anoles are particularly famous for this display, with each species having specific colors, including patterns only visible under ultraviolet (UV) light, as many lizards can see UV light. [citation needed]
+
+Shedding and regenerating tailsLizard tails are often a different and dramatically more vivid color than the rest of the body so as to encourage potential predators to strike for the tail first.
+
+Many lizard species (including geckos, skinks, and others) are capable of shedding part of their tails through a process called autotomy. This is an example of the pars pro toto principle, sacrificing "a part for the whole", and is employed by lizards to allow them to escape when captured by the tail by a predator. The detached tail writhes and wiggles, creating a deceptive sense of continued struggle, distracting the predator's attention from the fleeing prey animal.
+
+The lizard will partially regenerate its tail over a period of weeks. The new section will contain cartilage rather than bone, and the skin may be distinctly discolored compared to the rest of the body.
+
+Evolution and relationshipsThe retention of the basic 'reptilian' amniote body form by lizards makes it tempting to assume any similar animal, alive or extinct, is also a lizard. However, this is not the case, and lizards as squamates are part of a well-defined group.
+
+The earliest amniotes were superficially lizard-like, but had solid, box-like skulls, with openings only for eyes and nostrils, termed the anapsid condition. Turtles retain this skull form. Early anapsids later gave rise to two new groups with additional holes in their skulls to make room for and anchor larger jaw muscles. The synapsids, with a single fenestra, gave rise to the superficially lizard-like pelycosaurs, which include Dimetrodon and the therapsids, including the cynodonts, from which the modern mammals would evolve.
+
+The modern Tuatara retains the basic lepidosaur skull, distinguishing it from true lizards in spite of superficial similarities. Squamates, including snakes and all true lizards, further lightened the skull by eliminating the lower margin of the lower skull opening.
+
+The earliest known fossil remains of a lizard belong to the iguanian species Tikiguania estesi, found in the Tiki Formation of India, which dates to the Carnian stage of the Triassic period, about 220 million years ago. [3] However, doubt has been raised over the age of Tikiguania because it is almost indistinguishable from modern agamid lizards. The Tikiguania remains may instead be late Tertiary or Quaternary in age, having been washed into much older Triassic sediments. [4] Lizards are most closely related to a group called Rhynchocephalia, which includes the tuatara. Rhynchocephalians first appeared in the Late Triassic, so it can be inferred that the lizard-rhynchocephalian divergence occurred at this time and that the earliest lizards appeared in the Triassic. [4]
+
+Mitochondrial phylogenetics suggest that the first lizards evolved in the late Permian. Most evolutionary relationships within the squamates are not yet completely worked out, with the relationship of snakes to other groups being the most problematic. On the basis of morphological data, iguanid lizards were thought to have diverged from other squamates very early on, but recent molecular phylogenies, both from mitochondrial and nuclear DNA, do not support this. [5] Because snakes have a faster molecular clock than other squamates, [5] and few early snake and snake ancestor fossils have been found, [6] resolving the relationship between snakes and other squamate groups is difficult.
+
+Lizard diversificationLacertilia comprises four generally recognized suborders, Iguania, Gekkota, Amphisbaenia and Autarchoglossa, with the "blind skinks" in the family Dibamidae having an uncertain position. While traditionally excluded from the lizards, the snakes are usually classified as a clade with a similar subordinal rank. [7]
+
+IguaniaThe suborder Iguania, found in Africa, southern Asia, Australia, the New World and the islands of the west Pacific, forms the sister group to the remainder of the squamata. The various species are largely arboreal, and have primitively fleshy, non-prehensile tongues, some even have scales, but this condition is obviously highly modified in the chameleons. This clade includes the following families:
+
+* Family Agamidae – agamid lizards, Old World arboreal lizards
+* Family Chamaeleonidae – chameleons
+* Family Corytophanidae – helmet lizards
+* Family Crotaphytidae – collared lizards, leopard lizards
+* Family Hoplocercidae – dwarf and spiny-tail iguanas
+* Family Iguanidae – American arboreal lizards, chuckwallas, iguanas, iguanids
+* Family Opluridae – Malagasy iguanas
+* Family Phrynosomatidae – North American spiny lizards
+* Family Polychrotidae – anoles and kin
+* Family Tropiduridae – tropidurid lizards
+
+GekkotaActive hunters, the Gekkota include three families comprising the distinctive cosmopolitan geckos and the legless, flap-footed lizards of Australia and New Zealand. Like snakes, the flap-footed lizards and most geckos lack eyelids. Unlike snakes, they use their tongues to clean their often highly developed eyes. While gecko feet have unique surfaces that allow them to cling to glass and run on ceilings, [8] the flap-foot has lost its limbs. The three families of this suborder are:
+
+* Family Eublepharinae – 'eyelid' geckos
+* Family Gekkonidae – geckos
+* Family Pygopodidae – flap-footed lizards
+
+Relationship with humansMost lizard species are harmless to humans. Only the largest lizard species, the Komodo dragon, which reaches 3.3 m (11 ft) in length and weighs up to 166 kg (365 lb), has been known to stalk, attack, and, on occasion, kill humans. An eight-year-old Indonesian boy died from blood loss after an attack in 2007. [9] The venoms of the Gila monster and beaded lizard are not usually deadly, but they can inflict extremely painful bites due to powerful jaws.
+
+Numerous species of lizard are kept as pets, including iguanas, anoles, and geckos (such as the popular leopard gecko). Some lizards have an affinity for humans, but many are suspicious or skittish around them. Lizards that bite humans are very rare. Lizards are predominantly insectivorous, but some eat fruit, or vegetables. Live crickets and worms are the most typical foods for pet lizards, though the crested gecko (not a friendly lizard to humans) can feed entirely on fruit.
+
+Lizard symbolism plays important, though rarely predominant, roles in some cultures (e.g., Tarrotarro in Australian Aboriginal mythology). The Moche people of ancient Peru worshipped animals and often depicted lizards in their art. [10] According to a popular legend in Maharashtra, a common Indian monitor, with ropes attached, was used to scale the walls of the Sinhagad fort in the Battle of Sinhagad. [11]
+
+Green iguanas are eaten in Central America, and spiny-tailed lizards are eaten in Africa. In North Africa, Uromastyx species are considered dhaab or 'fish of the desert' and eaten by nomadic tribes. [12]
+
+ClassificationSuborder Lacertilia (Sauria) – (lizards)
+
+* Family †Bavarisauridae
+* Family †Eichstaettisauridae
+* Infraorder Iguania* Family †Arretosauridae
+* Family †Euposauridae
+* Family Corytophanidae (casquehead lizards)
+* Family Iguanidae (iguanas and spinytail iguanas)
+* Family Phrynosomatidae (earless, spiny, tree, side-blotched and horned lizards)
+* Family Polychrotidae (anoles)* Family Leiosauridae (see Polychrotinae)
+
+* Family Tropiduridae (neotropical ground lizards)* Family Liolaemidae (see Tropidurinae)
+* Family Leiocephalidae (see Tropidurinae)
+
+* Family Crotaphytidae (collared and leopard lizards)
+* Family Opluridae (Madagascar iguanids)
+* Family Hoplocercidae (wood lizards, clubtails)
+* Family †Priscagamidae
+* Family †Isodontosauridae
+* Family Agamidae (agamas)
+* Family Chamaeleonidae (chameleons)
+
+* Infraorder Gekkota* Family Gekkonidae (geckos)
+* Family Pygopodidae (legless lizards)
+* Family Dibamidae (blind lizards)
+
+* Infraorder Scincomorpha* Family †Paramacellodidae
+* Family †Slavoiidae
+* Family Scincidae (skinks)
+* Family Cordylidae (spinytail lizards)
+* Family Gerrhosauridae (plated lizards)
+* Family Xantusiidae (night lizards)
+* Family Lacertidae (wall lizards or true lizards)
+* Family †Mongolochamopidae
+* Family †Adamisauridae
+* Family Teiidae (tegus and whiptails)
+* Family Gymnophthalmidae (spectacled lizards)
+
+* Infraorder Diploglossa* Family Anguidae (glass lizards)
+* Family Anniellidae (American legless lizards)
+* Family Xenosauridae (knob-scaled lizards)
+
+* Infraorder Platynota (Varanoidea)* Family Varanidae (monitor lizards)
+* Family Lanthanotidae (earless monitor lizards)
+* Family Helodermatidae (Gila monsters and beaded lizards)
+* Family †Mosasauridae (marine lizards)
+
+Notes* ^ Reptile Database. Retrieved on 2012-04-22
+* ^ Gibbons, J. Whitfield; Gibbons, Whit (1983). Their Blood Runs Cold: Adventures With Reptiles and Amphibians. Alabama: University of Alabama Press. p. 164. ISBN 978-0-8173-0135-4.
+* ^ Datta, P.M. and Ray, S. (2006). "Earliest lizard from the Late Triassic (Carnian) of India". Journal of Vertebrate Paleontology 26 (4): 795–800. doi:10.1671/0272-4634(2006)26 [795:ELFTLT]2.0.CO;2.
+* ^ a b Hutchinson, M.N.; Skinner, A.; and Lee, M.S.Y. "Tikiguania and the antiquity of squamate reptiles (lizards and snakes)". Biology Letters. in press. doi:10.1098/rsbl.2011.1216.
+* ^ a b Kumazawa, Yoshinori (2007). "Mitochondrial genomes from major lizard families suggest their phylogenetic relationships and ancient radiations". Gene 388 (1–2): 19–26. doi:10.1016/j.gene.2006.09.026. PMID 17118581.
+* ^ "Lizards & Snakes Alive!". American Museum of Natural History. Retrieved 2007-12-25.
+* ^ Squamata Oppel, 1811. the Integrated Taxonomic Information System. ITIS.org
+* ^ Santos, Daniel; Matthew Spenko, Aaron Parness, Kim Sangbae, Mark Cutkosky (2007). Journal of Adhesion Science and Technology 21 (12-13): 1317–1341 http://www.brill.nl/journal-adhesion-science-and-technology |url=
+
+missing title (help). "Gecko "feet and toes are a hierarchical system of complex structures consisting of lamellae, setae,and spatulae. The distinguishing characteristics of the gecko adhesion system have been described [as] (1) anisotropic attachment, (2) high pulloff force to preload ratio, (3) low detachment force, (4) material independence, (5) self-cleaning, (6) anti-self sticking and (7) non-sticky default state. ... The gecko’s adhesive structures are made from ß-keratin (modulus of elasticity [approx.] 2 GPa). Such a stiff material is not inherently sticky; however, because of the gecko adhesive’s hierarchical nature and extremely small distal features (spatulae are [approx.] 200 nm in size), the gecko’s foot is able to intimately conform to the surface and generate significant attraction using van der Waals forces."
+* ^ Komodo dragon kills boy in Indonesia – World news – Asia-Pacific – msnbc.com. MSNBC. Retrieved on 2011-11-07.
+* ^ Berrin, Katherine & Larco Museum. The Spirit of Ancient Peru:Treasures from the Museo Arqueológico Rafael Larco Herrera. New York: Thames and Hudson, 1997.
+* ^ Auffenberg, Walter (1994). The Bengal Monitor. University Press of Florida. p. 494. ISBN 0-8130-1295-3.
+* ^ Grzimek, Bernhard. Grzimek’s Animal Life Encyclopedia (Second Edition) Vol 7 – Reptiles. (2003) Thomson – Gale. Farmington Hills, Minnesota. Vol Editor – Neil Schlager. ISBN 0-7876-5783-2 (for vol.7). p. 48
+
+References* Behler, John L.; King, F. Wayne (1979). The Audubon Society Field Guide to Reptiles and Amphibians of North America. New York: Alfred A. Knopf. p. 581. ISBN 0-394-50824-6.
+* Capula, Massimo; Behler, John L. (1989). Simon & Schuster's Guide to Reptiles and Amphibians of the World. New York: Simon & Schuster. ISBN 0-671-69098-1.
+* Cogger, Harold; Zweifel, Richard (1992). Reptiles & Amphibians. Sydney: Weldon Owen. ISBN 0-8317-2786-1.
+* Conant, Roger; Collins, Joseph (1991). A Field Guide to Reptiles and Amphibians Eastern/Central North America. Boston, Massachusetts: Houghton Mifflin Company. ISBN 0-395-58389-6.
+* Ditmars, Raymond L (1933). Reptiles of the World: The Crocodilians, Lizards, Snakes, Turtles and Tortoises of the Eastern and Western Hemispheres. New York: Macmillian. p. 321.
+* Freiberg, Dr. Marcos; Walls, Jerry (1984). The World of Venomous Animals. New Jersey: TFH Publications. ISBN 0-87666-567-9.
+* Gibbons, J. Whitfield (1983). Their Blood Runs Cold: Adventures With Reptiles and Amphibians. Alabama: University of Alabama Press. p. 164. ISBN 978-0-8173-0135-4.
+* Rosenfeld, Arthur (1987). Exotic Pets. New York: Simon & Schuster. p. 293. ISBN 0671636901.
+
+External links* Data related to Sauria at Wikispecies
+* Lizard Gallery
+* Ernest Ingersoll (1920). "Lizard". Encyclopedia Americana.

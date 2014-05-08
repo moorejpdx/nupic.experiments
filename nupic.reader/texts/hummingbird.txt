@@ -1,0 +1,354 @@
+Hummingbirds are birds that comprise the family Trochilidae. They are among the smallest of birds, most species measuring in the 7.5–13 cm (3–5 in) range. Indeed, the smallest extant bird species is a hummingbird, the 5-cm Bee Hummingbird. They hover in mid-air by rapidly flapping their wings 12–80 times per second (depending on the species). They are known as hummingbirds because of the humming sound created by their beating wings, which sometimes sounds like bees or other insects. To conserve energy while they sleep or when food is scarce, they have the ability to go into a hibernation-like state (torpor) where their metabolic rate is slowed to 1/15th of its normal rate. [1] When the nights get colder, their body temperature can drop significantly and thus slow down their heart and breathing rate, thus burning much less energy overnight. As the day heats back up, the hummingbirds' body temperature will come back up and they resume their normal activity. [2] They can fly at speeds exceeding 15 m/s (54 km/h; 34 mph); [3] they are also the only group of birds with the ability to fly backwards. [4] Individuals from some species of hummingbirds weigh less than a penny.
+
+Contents
+
+* 1 Diet and specialization for food gathering* 1.1 Co-evolution with ornithophilous flowers
+
+* 2 Aerodynamics of flight
+* 3 Metabolism* 3.1 Lifespan
+
+* 4 Range
+* 5 Migration* 5.1 Superficially similar birds
+
+* 6 Reproduction
+* 7 Sonation during display dives
+* 8 Systematics and evolution
+* 9 Wing structure and colors* 9.1 Lists of species and genera
+
+* 10 Feeders and artificial nectar
+* 11 In myth and culture
+* 12 Gallery
+* 13 See also
+* 14 References
+* 15 External links
+
+Diet and specialization for food gatheringHummingbirds drink nectar, a sweet liquid inside certain flowers. Like bees, they are able to assess the amount of sugar in the nectar they eat; they reject flower types that produce nectar that is less than 10% sugar and prefer those whose sugar content is higher. Nectar is a poor source of nutrients, so hummingbirds meet their needs for protein, amino acids, vitamins, minerals, etc. by preying on insects and spiders. [5]
+
+Most hummingbird species have bills that are long and straight or nearly so, but in some species the bill shape is adapted for specialized feeding. Thornbills have short, sharp bills adapted for feeding from flowers with short corollas and piercing the bases of longer ones. The Sicklebills' extremely decurved bills are adapted to extracting nectar from the curved corollas of flowers in the family Gesneriaceae. The bill of the Fiery-tailed Awlbill has an upturned tip, as in the Avocets. The male Tooth-billed Hummingbird has barracuda-like spikes at the tip of its long, straight bill.
+
+The two halves of a hummingbird's bill have a pronounced overlap, with the lower half (mandible) fitting tightly inside the upper half (maxilla). When hummingbirds feed on nectar, the bill is usually opened only slightly, allowing the tongue to dart out and into the interior of flowers.
+
+While it had been believed that hummingbirds drink via capillary action, high-speed photography has revealed that a hummingbird's tongue’s tubes open down their sides, and close around nectar. [6] Hummingbirds do not spend all day flying, as the energy cost would be prohibitive; the majority of their activity consists simply of sitting or perching. Hummingbirds eat many small meals and consume as much as twelve times their body weight in nectar each day. [7] Hummingbirds digest their food rapidly due to their small size and high metabolism; a mean retention time (MRT) of less than an hour has been reported. [8] Hummingbirds spend an average of 10–15% of their time feeding and 75–80% sitting and digesting.
+
+Hummingbirds are typically very territorial when it comes to food; once a hummingbird finds a consistent source of food such as an artificial feeder, it will fight off other hummingbirds to maintain complete dominance over the food source.
+
+Co-evolution with ornithophilous flowersHummingbirds are specialized nectarivores [9] and are tied to the ornithophilous flowers they feed upon. Some species, especially those with unusual bill shapes such as the Sword-billed Hummingbird and the sicklebills, are co-evolved with a small number of flower species.
+
+Many plants pollinated by hummingbirds produce flowers in shades of red, orange, and bright pink, though the birds will take nectar from flowers of many colors. Hummingbirds can see wavelengths into the near-ultraviolet, but their flowers do not reflect these wavelengths as many insect-pollinated flowers do. This narrow color spectrum may render hummingbird-pollinated flowers relatively inconspicuous to most insects, thereby reducing nectar robbing. [10] [11] Hummingbird-pollinated flowers also produce relatively weak nectar (averaging 25% sugars w/w) containing high concentrations of sucrose, whereas insect-pollinated flowers typically produce more concentrated nectars dominated by fructose and glucose. [12]
+
+A hummingbird's pollination abilities are not always desirable. In Hawaii, for example, hummingbirds are prohibited because pollination of pineapple flowers causes hard seeds to develop in the fruit. [13]
+
+Aerodynamics of flightHummingbird flight has been studied intensively from an aerodynamic perspective using wind tunnels and high-speed video cameras.
+
+Writing in Nature, the biomechanist Douglas Warrick and coworkers studied the Rufous Hummingbird, Selasphorus rufus, in a wind tunnel using particle image velocimetry techniques and investigated the lift generated on the bird's upstroke and downstroke. They concluded that their subjects produced 75% of their weight support during the downstroke and 25% during the upstroke. Many earlier studies had assumed (implicitly or explicitly) that lift was generated equally during the two phases of the wingbeat cycle, as is the case of insects of a similar size. This finding shows that hummingbirds' hovering is similar to, but distinct from, that of hovering insects such as the hawk moths. [15]
+
+The Giant Hummingbird's wings beat is as low as 12 beats per second, the wings of medium-sized hummingbirds beat about 20 to 30 beats per second and the smallest can reach 100 beats per second during courtship displays.
+
+A slow motion video has shown how the hummingbirds deal with water when they are flying. To remove the water from their heads, they shake their heads and body, similar to a dog shaking to shed water. [16]
+
+MetabolismWith the exception of insects, hummingbirds while in flight have the highest metabolism of all animals, a necessity in order to support the rapid beating of their wings. Their heart rate can reach as high as 1,260 beats per minute, a rate once measured in a Blue-throated Hummingbird. [17] They also consume more than their own weight in nectar each day, and to do so they must visit hundreds of flowers daily. Hummingbirds are continuously hours away from starving to death and are able to store just enough energy to survive overnight. [18]
+
+Hummingbirds are capable of slowing down their metabolism at night or at any other time food is not readily available. They enter a hibernation-like state known as torpor. During torpor, the heart rate and rate of breathing are both slowed dramatically (the heart rate to roughly 50 to 180 beats per minute), reducing the need for food.
+
+The dynamic range of metabolic rates in hummingbirds [19] requires a corresponding dynamic range in kidney function. [20] The glomerulus is a cluster of capillaries in the nephrons of the kidney that removes certain substances from the blood, like a filtration mechanism. The rate at which blood is processed is called the glomerular filtration rate (GFR). Most often these fluids are reabsorbed by the kidneys. During torpor, to prevent dehydration, the GFR slows, preserving necessities for the body such as glucose, water and salts. GFR also slows when a bird is undergoing water deprivation. The interruption of GFR is a survival and physiological mechanism unique to hummingbirds. [20]
+
+Studies of hummingbirds' metabolisms are highly relevant to the question of how a migrating Ruby-throated Hummingbird can cross 800 km (500 mi) of the Gulf of Mexico on a nonstop flight. This hummingbird, like other birds preparing to migrate, stores up fat to serve as fuel, thereby augmenting its weight by as much as 100 percent and hence increasing the bird's potential flying time. [21]
+
+LifespanHummingbirds have long lifespans for organisms with such rapid metabolisms. Though many die during their first year of life, especially in the vulnerable period between hatching and leaving the nest (fledging), those that survive may live a decade or more. Among the better-known North American species, the average lifespan is 3 to 5 years. By comparison, the smaller shrews, among the smallest of all mammals, seldom live more than 2 years. [22] The longest recorded lifespan in the wild is that of a female Broad-tailed Hummingbird that was banded (ringed) as an adult at least one year old, then recaptured 11 years later, making her at least 12 years old. Other longevity records for banded hummingbirds include an estimated minimum age of 10 years 1 month for a female Black-chinned similar in size to Broad-tailed, and at least 11 years 2 months for a much larger Buff-bellied Hummingbird. [23]
+
+RangeSee also: List of Apodiformes by population
+
+Hummingbirds are restricted to the Americas from southern Alaska to Tierra del Fuego, including the Caribbean. The majority of species occur in tropical and subtropical Central and South America, but several species also breed in temperate climates and some hillstars occur even in alpine Andean highlands at altitudes of up to 5,200 metres (17,100 ft). [24] The greatest species richness is in humid tropical and subtropical forests of the northern Andes and adjacent foothills, but the number of species found in the Atlantic Forest, Central America or southern Mexico also far exceeds the number found in southern South America, the Caribbean islands, the United States and Canada. While fewer than 25 different species of hummingbirds have been recorded from the United States and fewer than 10 from Canada and Chile each, [25] Colombia alone has more than 160 [26] and the comparably small Ecuador has about 130 species. [27] The migratory Ruby-throated Hummingbird breeds in eastern North America, while the Black-chinned Hummingbird, its close relative and another migrant, is the most widespread and common species in the southwestern United States, while the Rufous Hummingbird is the most widespread species in western North America. [28]
+
+MigrationMost hummingbirds of the U.S. and Canada migrate south in fall to spend the winter in Mexico or Central America. A few southern South American species also move north to the tropics during the southern winter. A few species are year-round residents in the warmer coastal and southern desert regions on the USA. Among these are Anna's Hummingbird, a common resident from California inland to Arizona and north to southwestern coastal British Columbia, and Buff-bellied Hummingbird, an uncommon resident in subtropical woodlands of southern Texas.
+
+The Rufous Hummingbird is one of several species that breed in temperate western North America and are wintering in increasing numbers in the warm subtropical southeastern United States, rather than in tropical Mexico. The Rufous Hummingbird nests farther north than any other species and must tolerate occasional temperatures below freezing on its breeding grounds. This cold hardiness enables it to survive temperatures below freezing, provided that adequate shelter and food are available.
+
+Superficially similar birdsSome species of sunbirds of Africa, southern and southeastern Asia, and Australia resemble hummingbirds in appearance and behavior, as do perhaps also the honeyeaters of Australia and Pacific islands. These two groups, however, are not related to hummingbirds; their resemblance is due to convergent evolution. [29]
+
+ReproductionAs far as is known, male hummingbirds do not take part in nesting. Most species build a cup-shaped nest on the branch of a tree or shrub, though a few tropical species normally attach their nests to leaves. The nest varies in size relative to species, from smaller than half a walnut shell to several centimeters in diameter. In many hummingbird species, spider silk is used to bind the nest material together and secure the structure to its support. The unique properties of silk allow the nest to expand with the growing young. Two white eggs are laid, which, despite being the smallest of all bird eggs, are in fact large relative to the hummingbird's adult size. Incubation lasts 14 to 23 days, depending on species, ambient temperature, and female attentiveness to the nest. The mother feeds her nestlings on small arthropods and nectar by inserting her bill into the open mouth of a nestling and regurgitating the food into its crop.
+
+Sonation during display divesThe outer tail-feathers of male Anna's Hummingbird (Calypte anna) vibrate during display dives and produce a loud chirp. When courting, the male ascends some 30m before diving over an interested female at high speed and producing a high-pitched sound. Experiments showed that the birds could not make the sound when missing their outer tail-feathers, and that those same feathers could produce the dive-sound in a wind tunnel. The bird can sing at the same frequency as the tail-feather chirp, but its weak syrinx is not capable of the same volume. Many other species of hummingbirds also produce sounds with their wings or tail, including the wings of the Broad-tailed Hummingbird, Rufous Hummingbird, Allen's Hummingbird, Streamertail, as well as the tail of the Costa's Hummingbird and the Black-chinned Hummingbird. [30]
+
+Systematics and evolutionIn traditional taxonomy, hummingbirds are placed in the order Apodiformes, which also contains the swifts. However, some taxonomists have separated them into their own order, Trochiliformes. Hummingbirds' wing bones are hollow and fragile, making fossilization difficult and leaving their evolutionary history poorly documented. Though scientists theorize that hummingbirds originated in South America, where there is the greatest species diversity, possible ancestors of extant hummingbirds may have lived in parts of Europe to what is southern Russia today. [31]
+
+There are between 325 and 340 species of hummingbird, depending on taxonomic viewpoint, divided into two subfamilies, the hermits (subfamily Phaethornithinae, 34 species in six genera), and the typical hummingbirds (subfamily Trochilinae, all the others). However, recent phylogenetic analyses suggest that this division is slightly inaccurate, and that there are nine major clades of hummingbirds: the topazes and jacobins, the hermits, the mangoes, the coquettes, the brilliants, the Giant Hummingbird (Patagona gigas), the mountain-gems, the bees, and the emeralds. [32] The topazes and jacobins combined have the oldest split with the rest of the hummingbirds. The hummingbird family has the second greatest number of species of any bird family on Earth (after the tyrant flycatchers).
+
+Fossil hummingbirds are known from the Pleistocene of Brazil and the Bahamas; however, neither has yet been scientifically described, and there are fossils and subfossils of a few extant species known. Until recently, older fossils had not been securely identifiable as those of hummingbirds.
+
+In 2004, Dr. Gerald Mayr of the Senckenberg Museum in Frankfurt am Main identified two 30-million-year-old hummingbird fossils and published his results in the journal Science. [33] The fossils of this primitive hummingbird species, named Eurotrochilus inexpectatus ("unexpected European hummingbird"), had been sitting in a museum drawer in Stuttgart; they had been unearthed in a clay pit at Wiesloch–Frauenweiler, south of Heidelberg, Germany, and, because it was assumed that hummingbirds never occurred outside the Americas, were not recognized to be hummingbirds until Mayr took a closer look at them.
+
+Fossils of birds not clearly assignable to either hummingbirds or a related, extinct family, the Jungornithidae, have been found at the Messel pit and in the Caucasus, dating from 40–35 mya; this indicates that the split between these two lineages indeed occurred at that date. The areas where these early fossils have been found had a climate quite similar to that of the northern Caribbean or southernmost China during that time. The biggest remaining mystery at the present time is what happened to hummingbirds in the roughly 25 million years between the primitive Eurotrochilus and the modern fossils. The astounding morphological adaptations, the decrease in size, and the dispersal to the Americas and extinction in Eurasia all occurred during this timespan. DNA-DNA hybridization results [34] suggest that the main radiation of South American hummingbirds took place at least partly in the Miocene, some 12 to 13 million years ago, during the uplifting of the northern Andes.
+
+In 2013, a 50-million-year-old fossil bird unearthed in Wyoming was found to be a predecessor to both hummingbirds and swifts before the groups diverged. [35]
+
+Wing structure and colorsMany of the hummingbird species have bright plumage with exotic coloration. In many species, the coloring does not come from pigmentation in the feather structure, but instead from prism-like cells within the top layers of the feathers. When light hits these cells, it is split into wavelengths that reflect to the observer in varying degrees of intensity. The Hummingbird feather structure acts as a diffraction grating. The result is that, merely by shifting position, a muted-looking bird will suddenly become fiery red or vivid green. However, not all hummingbird colors are due to the prism feather structure. The rusty browns of Allen's and Rufous Hummingbirds come from pigmentation. Iridescent hummingbird colors actually result from a combination of refraction and pigmentation, since the diffraction structures themselves are made of melanin, a pigment. [36]
+
+Lists of species and genera* Alphabetical list, sortable by common or binomial name
+* List of hummingbirds in taxonomic order
+
+Feeders and artificial nectarHummingbirds will also take sugar-water from bird feeders. Such feeders allow people to observe and enjoy hummingbirds up close while providing the birds with a reliable source of energy, especially when flower blossoms are less abundant.
+
+White granulated sugar is the best sweetener to use in hummingbird feeders. A ratio of 1 cup sugar to 4 cups water is a common recipe. [37] Boiling and then cooling this mixture before use has been recommended to help deter the growth of bacteria and yeasts. Powdered sugars contain corn starch as an anti-caking agent; this additive can contribute to premature fermentation of the solution. Brown, turbinado, and "raw" sugars contain iron, which can be deadly to hummingbirds if consumed over long periods. [38] Honey is made by bees from the nectar of flowers, but it is not good to use in feeders because when it is diluted with water, microorganisms easily grow in it, causing it to spoil rapidly. [39] [40] [41]
+
+Red food dye is often added to homemade solutions. Commercial products sold as "instant nectar" or "hummingbird food" may also contain preservatives and/or artificial flavors as well as dyes. The long-term effects of these additives on hummingbirds have not been studied, but studies on laboratory animals indicate the potential to cause disease and premature mortality at high consumption rates. [42] Although some commercial products contain small amounts of nutritional additives, hummingbirds obtain all necessary nutrients from the insects they eat. This renders the added nutrients unnecessary. [28]
+
+Other animals also visit hummingbird feeders. Bees, wasps, and ants are attracted to the sugar-water and may crawl into the feeder, where they may become trapped and drown. Orioles, woodpeckers, bananaquits, and other larger animals are known to drink from hummingbird feeders, sometimes tipping them and draining the liquid. [43] In the southwestern United States, two species of nectar-drinking bats (Leptonycteris yerbabuenae and Choeronycteris mexicana) visit hummingbird feeders to supplement their natural diet of nectar and pollen from saguaro cacti and agaves. [44]
+
+In myth and cultureAztecs wore hummingbird talismans, the talismans being representations as well as actual hummingbird fetishes formed from parts of real hummingbirds: emblematic for their vigor, energy, and propensity to do work along with their sharp beaks that mimic instruments of weaponry, bloodletting, penetration, and intimacy. Hummingbird talismans were prized as drawing sexual potency, energy, vigor, and skill at arms and warfare to the wearer. [45]
+
+* The Aztec god Huitzilopochtli is often depicted as a hummingbird. The Nahuatl word huitzil (hummingbird) is an onomatopoeic word derived from the sounds of the hummingbird's wing-beats and zooming flight.
+* One of the Nazca Lines depicts a hummingbird.
+* The Ohlone tells the story of how Hummingbird brought fire to the world. [46]
+* Trinidad and Tobago is known as "The land of the hummingbird," and a hummingbird can be seen on that nation's coat of arms and 1-cent coin as well as its national airline, Caribbean Airlines.
+* Chrysler's gear-reduction starter motor used from the early 1960s to the late 1980s was nicknamed the "Highland Park Hummingbird" after Chrysler's hometown and the starter's distinctive cranking sound.
+* In the past hummingbird feathers were used due to its beauty and iridescent colours and hues to decorate different articles, like for example to dress some of the miniature birds fitted in the singing bird boxes.
+
+Gallery*
+
+Anna's Hummingbird
+
+*
+
+Hummingbird feeding from a flower in the University of California Botanical Garden
+
+*
+
+Hummingbird with yellow pollen on its beak in the University of California Botanical Garden
+
+*
+
+Magnificent Hummingbird
+
+*
+
+Costa's Hummingbird
+
+*
+
+Green Violet-ear
+
+*
+
+Rufous Hummingbird
+
+*
+
+Feeding hummingbirds
+
+*
+
+Juvenile Anna's Hummingbird with tongue sticking out
+
+*
+
+Calypte anna perched
+
+*
+
+Grooming
+
+*
+
+Hummingbird attacking larger Song Sparrow
+
+*
+
+Hummingbird and honey bee sizes compared
+
+*
+
+Hummingbird feeding in winter
+
+*
+
+Hummingbird nesting on a rubber-covered hook
+
+*
+
+Artificial hummingbird
+
+*
+
+Singing bird box exhibiting a bird dressed with hummingbird feathers
+
+*
+
+Hummingbird Chicks in Nest in Cactus in Mesa, Arizona
+
+*
+
+Hummingbird Adult in Nest in Cactus in Mesa, Arizona
+
+See also* AeroVironment Nano Hummingbird — Artificial hummingbird
+* Macroglossum stellatarum — Hummingbird Hawk-moth
+* Hemaris — Sphinx moths (hummingbird moths) confused with hummingbirds
+* Violetear — hummingbirds of the genus Colibri, or Kolibri (word for hummingbird in numerous languages)
+
+References* ^ Hummingbirds. Nationalzoo.si.edu. Retrieved on 2013-04-01.
+* ^ Frequently Asked Questions. firstnature.net
+* ^ Clark, C. J.; Dudley, R. (2009). "Flight costs of long, sexually selected tails in hummingbirds". Proceedings of the Royal Society B: Biological Sciences 276 (1664): 2109–2115. doi:10.1098/rspb.2009.0090. PMC 2677254. PMID 19324747. edit
+* ^ Ridgely, Robert S. and Greenfield, Paul G. (2001). The Birds of Ecuador, volume 2, Field Guide, Cornell University Press
+* ^ Not All Sweetness and Light. Allaboutbirds.org. Retrieved on 2013-04-01.
+* ^ Mosher, Dave. "High-Speed Video Shows How Hummingbirds Really Drink". Wired.com. May 2, 2011.
+* ^ Unwin, Mike (2011). The Atlas of Birds: Diversity, Behavior, and Conservation. Princeton University Press. p. 57. ISBN 9781400838257.
+* ^ Stevens, C. Edward; Hume, Ian D. (2004). Comparative Physiology of the Vertebrate Digestive System. Cambridge University Press. p. 126. ISBN 9780521617147.
+* ^ Stiles, Gary (1981). "Geographical Aspects of Bird Flower Coevolution, with Particular Reference to Central America". Annals of the Missouri Botanical Garden 68 (2): 323–351. doi:10.2307/2398801. JSTOR 2398801.
+* ^ Rodríguez-Gironés, M. A.; Santamaría, L. (2004). "Why Are So Many Bird Flowers Red?". PLoS Biol 2 (10): e350. doi:10.1371/journal.pbio.0020350. PMC 521733. PMID 15486585.
+* ^ Altschuler, D. L. (2003). "Flower Color, Hummingbird Pollination, and Habitat Irradiance in Four Neotropical Forests". Biotropica 35 (3): 344–355. JSTOR 30043050.
+* ^ Nicolson, S. W. (2003). "Nectar as food for birds: the physiological consequences of drinking dilute sugar solutions". Plant Syst. Evol. 238: 139–153. doi:10.1007/s00606-003-0276-7.
+* ^ http://www.hort.purdue.edu/newcrop/morton/pineapple.html#Description
+* ^ Rayner, J.M.V. (1995). "Dynamics of vortex wakes of flying and swimming vertebrates". Symp. Soc. Exp. Biol. 49: 131–155. PMID 8571221.
+* ^ Warrick, D. R.; Tobalske, B.W. & Powers, D.R. (2005). "Aerodynamics of the hovering hummingbird". Nature 435 (7045): 1094–7. doi:10.1038/nature03647. PMID 15973407.
+* ^ "How Hummingbirds Fly When It Is Raining". Retrieved November 11, 2011.
+* ^ Chambers, Lanny. "About Hummingbirds". Hummingbirds.net. Retrieved 25 January 2009.
+* ^ Hainsworth, Reed; Wolf, Larry (May 1993). "Hummingbird Feeding". Wildbird Magazine.
+* ^ Suarez, R. K.; Gass, C. L. (2002). "Hummingbirds foraging and the relation between bioenergetics and behavior". Comparative Biochemistry and Physiology. Part A 133 (2): 335–343. doi:10.1016/S1095-6433(02)00165-4. PMID 12208304.
+* ^ a b Bakken, B. H.; McWhorter, T. J.; Tsahar, E.; Martinez del Rio, C. (2004). "Hummingbirds arrest their kidneys at night: diel variation in glomerular filtration rate in Selasphorus platycercus". The Journal of Experimental Biology 207 (25): 4383–4391. doi:10.1242/jeb.01238. PMID 15557024.
+* ^ Skutch, Alexander F. & Singer, Arthur B. (1973). The Life of the Hummingbird. New York: Crown Publishers. ISBN 0-517-50572-X.
+* ^ Churchfield, Sara. (1990). The natural history of shrews. Cornell University Press. pp. 35–37. ISBN 0-8014-2595-6.
+* ^ Patuxent Wildlife Research Center, Bird Banding Laboratory. Longevity Records AOU Numbers 3930 – 4920 2009-08-31. Retrieved 2009-09-27.
+* ^ Fjeldså, J., & I. Heynen (1999). Genus Oreotrochilus. Pp. 623–624 in: del Hoyo, J., A. Elliott, & J. Sargatal. eds. (1999). Handbook of the Birds of the World. Vol. 5. Barn-owls to Hummingbirds. Lynx Edicions, Barcelona. ISBN 84-87334-25-3
+* ^ Jaramillo, A., & R. Barros (2010). Species lists of birds for South American countries and territories: Chile.
+* ^ Salaman, P., T. Donegan, & D. Caro (2009). Checklist to the Birds of Colombia 2009. Conservation Colombiana 8. Fundación ProAves
+* ^ Freile, J. (2009). Species lists of birds for South American countries and territories: Ecuador.
+* ^ a b Williamson, S. L. (2002). A Field Guide to Hummingbirds of North America (Peterson Field Guide Series). Houghton Mifflin Co., Boston. ISBN 0-618-02496-4
+* ^ Prinzinger, R.; Schafer T. & Schuchmann K. L. (1992). "Energy metabolism, respiratory quotient and breathing parameters in two convergent small bird species : the fork-tailed sunbird Aethopyga christinae (Nectariniidae) and the chilean hummingbird Sephanoides sephanoides (Trochilidae)". Journal of thermal biology 17 (2): 71–79. doi:10.1016/0306-4565(92)90001-V.
+* ^ Hummingbird sings with its tail feathers. COSMOS magazine (2008-01-30). Retrieved on 2013-04-01.
+* ^ Mayr, Gerald (March 2005). "Fossil Hummingbirds of the Old World" (PDF). Biologist 52 (1): 12–16.
+* ^ McGuire, J. A.; Witt, C. C.; Altshuler, D. L.; Remsen Jr, J. V. (2007). "Phylogenetic systematics and biogography of hummingbirds: Bayesian and maximum likelihood analyses of partitioned data and selection of an appropriate partitioning strategy". Systematic Biology 56 (5): 837–856. doi:10.1080/10635150701656360. PMID 17934998.
+* ^ "Oldest hummingbird fossil found". Cbc.ca. 2004–05–06. Retrieved 2009–01–25.
+* ^ Bleiweiss, Robert; Kirsch, John A. W.; Matheus, Juan Carlos (1999). "DNA-DNA hybridization evidence for subfamily structure among hummingbirds" (PDF). Auk 111 (1): 8–19. doi:10.2307/4088500.
+* ^ Daniel T. Ksepka, Julia A. Clarke, Sterling J. Nesbitt, Felicia B. Kulp, and Lance Grande. 2013. "Fossil evidence of wing shape in a stem relative of swifts and hummingbirds (Aves, Pan-Apodiformes)." Proceedings of the Royal Society B 280(1761).
+* ^ Hummingbird Characteristics. learner.org
+* ^ "Hummingbird Nectar Recipe". Nationalzoo.si.edu. Retrieved 2010-03-20.
+* ^ "Arizona Veterinary Diagnostic Laboratory Newsletter, April 2005" (PDF). Retrieved 2010-03-20.
+* ^ "Feeders and Feeding Hummingbirds (The Entire Article)". Faq.gardenweb.com. 2008–01–09. Retrieved 2009–01–25.
+* ^ "Hummingbird F.A.Q.s from the Southeastern Arizona Bird Observatory". Sabo.org. 2008–11–25. Retrieved 2009–01–25.
+* ^ Attracting Hummingbirds | Missouri Department of Conservation. Mdc.mo.gov. Retrieved on 2013-04-01.
+* ^ "Should I Add Red Dye to My Hummingbird Food?". Trochilids.com. Retrieved 2010-03-20.
+* ^ Williamson, S. (2000). Attracting and Feeding Hummingbirds. (Wild Birds Series) T.F.H. Publications, Neptune City, New Jersey. ISBN 0-7938-3580-1
+* ^ "Tucson's Hummingbird Feeder Bats". The Firefly Forest. Retrieved 2010-03-20.
+* ^ Werness, Hope B; Benedict, Joanne H; Thomas, Scott; Ramsay-Lozano, Tiffany (2004). The Continuum Encyclopedia of Animal Symbolism in Art. Continuum International Publishing Group. p. 229. ISBN 978-0-8264-1525-7.
+* ^ Native Expressions: "How Hummingbird Got Fire" at the National Parks Conservation Association (archived)
+
+External links* High-resolution photo gallery of almost 100 species
+* High-resolution photo gallery of many species of Hummingbirds
+* Hummingbird videos on the Internet Bird Collection
+* Photographs of SouthWest U.S. Hummingbirds and International Hummingbirds
+* Hummingbird Banding Research
+* Hummingbird Plants Database
+* Hummingbird gardens
+* Hummingbird garden species, suitable for the California High Desert
+* How to create a butterfly and hummingbird garden
+* Hummingbird nesting data for 7 years at one site
+* High-resolution photos/blog of Baby Hummingbirds
+
+* v
+* t
+* e
+
+Birds (class: Aves)
+
+Anatomy
+* Bird anatomy
+* Flight
+* Eggs
+* Feathers
+* Plumage
+* Beak
+* Vision
+* Dactyly
+* Preen gland
+
+Behaviour
+* Singing
+* Intelligence
+* Migration
+* Incubation
+* Brood parasites
+* Nesting
+* Hybrids
+
+Evolution
+* Evolution of birds
+* Origin of birds
+* Darwin's finches
+* Seabirds
+
+Subclass: Neornithes
+(29 orders of modern birds)
+
+Superorder: Palaeognathae
+
+* Struthioniformes (ratites)
+* Tinamiformes (tinamous)
+
+Superorder: Neognathae
+
+* Anseriformes (waterfowl)
+* Galliformes (gamebirds)
+* Opisthocomiformes (Hoatzin)
+* Pteroclidiformes (sandgrouses)
+* Columbiformes (doves and pigeons)
+* Phaethontiformes (tropicbirds)
+* Eurypygiformes (Kagu and Sunbittern)
+* Mesitornithiformes (mesites)
+* Podicipediformes (grebes)
+* Phoenicopteriformes (flamingos)
+* Caprimulgiformes (nightjars and relatives)
+* Apodiformes (swifts and hummingbirds)
+* Cuculiformes (cuckoos and relatives)
+* Gruiformes (cranes and relatives)
+* Gaviiformes (loons or divers)
+* Procellariiformes (albatrosses and petrels)
+* Ciconiiformes (storks)
+* Pelecaniformes (pelicans and relatives)
+* Suliformes (cormorants and relatives)
+* Sphenisciformes (penguins)
+* Charadriiformes (gulls and relatives)
+* Accipitriformes (eagles and hawks)
+* Trogoniformes (trogons and quetzals)
+* Coliiformes (mousebirds)
+* Strigiformes (owls)
+* Leptosomatiformes (Cuckoo Roller)
+* Coraciiformes (kingfishers and relatives)
+* Piciformes (woodpeckers and relatives)
+* Cariamiformes (seriemas and relatives)
+* Falconiformes (falcons and relatives)
+* Psittaciformes (parrots)
+* Passeriformes (perching birds)
+
+Fossil birds
+* Archaeopteryx
+* Enantiornithes
+* Hesperornithes
+
+Human–bird interaction
+* Ringing
+* Ornithology
+* Bird collections
+* Birdwatching
+* Bird feeding
+* Conservation
+* Aviculture
+* Waterfowl hunting
+* Cockfighting
+* Pigeon racing
+* Falconry
+* Pheasantry
+* Egg Collecting
+* Ornithomancy
+
+Lists
+* Families and orders
+* Genera
+* Lists by population
+* Lists by region
+* Extinct birds
+* Late Quaternary prehistoric birds
+* Sibley-Ahlquist taxonomy
+
+* Category
+* Portal
+* Outline

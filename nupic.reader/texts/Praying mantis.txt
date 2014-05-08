@@ -1,0 +1,288 @@
+Mantodea (or mantises, mantes) is an order of insects that contains over 2,400 species and about 430 genera [1] in 15 families worldwide in temperate and tropical habitats. Most of the species are in the family Mantidae.
+
+The English common name for the order is the mantises, or rarely (using a Latinized plural of Greek mantis), the mantes. The name mantid refers only to members of the family Mantidae. The other common name, often applied to any species in the order, is "praying mantis", [2] because of the typical "prayer-like" posture with folded fore-limbs, although the eggcorn or folk etymology "preying mantis" is sometimes used in reference to their predatory habits. [3] [4] In Europe and other regions, however, the name "praying mantis" refers to only a single species, Mantis religiosa. The closest relatives of mantises are the termites and cockroaches (order Blattodea). They are sometimes confused with phasmids (stick/leaf insects) and other elongated insects such as grasshoppers and crickets, or other insects with raptorial forelegs such as mantisflies.
+
+Contents
+
+* 1 Etymology
+* 2 Systematics
+* 3 Anatomy and morphology
+* 4 Evolution
+* 5 Behavior* 5.1 Diet and predatory behavior
+* 5.2 Defense and camouflage
+
+* 6 Reproduction and life history
+* 7 Pest control uses
+* 8 Conservation status
+* 9 Introduced species
+* 10 Cultural references
+* 11 Mythology
+* 12 Sources
+* 13 References
+* 14 External links
+
+EtymologyThe name mantodea is formed from the Ancient Greek words μάντις (mantis) meaning "prophet", and εἶδος (eidos) meaning "form" or "type". It was coined in 1838 by the German entomologist Hermann Burmeister. [5] [6]
+
+SystematicsSee also: List of mantis genera and species
+
+The systematics of mantises have long been disputed. Mantises, along with walking sticks, were once placed in the order Orthoptera with the cockroaches (now Blattodea) and rock crawlers (now Grylloblattodea). Kristensen (1991) combined Mantodea with the cockroaches and termites into the order Dictyoptera. [7]
+
+Anatomy and morphologyMantises have two grasping, spiked forelegs ("raptorial legs") in which prey items are caught and held securely. In most insect legs, including the posterior four legs of a mantis, the coxa and trochanter combine as an inconspicuous base of the leg; in the raptorial legs however, the coxa and trochanter combine to form a segment about as long as the femur, which is a spiky part of the grasping apparatus (see illustration). Located at the base of the femur are a set of discoidal spines, usually four in number, but ranging from zero to as many as five depending on the species. These spines are preceded by a number of tooth-like tubercles, which, along with a similar series of tubercles along the tibia and the apical claw near its tip, give the foreleg of the mantis its grasp on its prey. The foreleg ends in a delicate tarsus made of between four and five segments and ending in a two-toed claw with no arolium and used as a walking appendage. [8]
+
+The mantis thorax consists of a prothorax, a mesothorax, and a metathorax. In all species apart from the genus Mantoida, the prothorax, which bears the head and forelegs, is much longer than the other two thoracic segments. The prothorax is also flexibly articulated, allowing for a wide range of movement of the head and forelimbs while the remainder of the body remains more or less immobile. The articulation of the neck is also remarkably flexible; some species of mantis can rotate the head nearly 180 degrees.
+
+Mantises may have a visual range of up to 20 metres. Their compound eyes may comprise up to 10,000 ommatidia. The eyes are widely spaced and laterally situated, affording a wide binocular field of vision) and, at close range, precise stereoscopic vision. The dark spot on each eye is a pseudopupil. As their hunting relies heavily on vision, mantises are primarily diurnal. Many species will however fly at night, and then may be attracted to artificial lights. Nocturnal flight is especially important to males in search of less-mobile females that they locate by detecting their pheromones. Flying at night exposes mantises to fewer bird predators than diurnal flight would. Many mantises also have an auditory thoracic organ that helps them to avoid bats by detecting their echolocation and responding evasively. [8]
+
+Mantises can be loosely categorized as being macropterous (long-winged), brachypterous (short-winged), micropterous (vestigial-winged), or apterous (wingless). If not wingless, a mantis will have two sets of wings: the outer wings, or tegmina, are usually narrow, opaque, and leathery. They function as camouflage and as a shield for the hind wings. The hind wings are much broader, more delicate, and transparent. They are the main organs of flight, if any. Brachypterous species are at most minimally capable of flight, other species not at all. The wings are mostly erected in these mantids for alarming enemies and attracting females. Even in many macropterous species the female is much heavier than the male, has much shorter wings, and rarely takes flight if she is capable of it at all.
+
+The abdomen of all mantises consist of ten tergites with a corresponding set of nine sternites visible in males and seven visible in females. The slim abdomen of most males allows them to take flight more easily while the thicker abdomen of the females houses the reproductive machinery for generating the ootheca. The abdomen of both sexes ends in a pair of cerci.
+
+EvolutionOne theory for the evolution of the group is that mantises evolved from proto-cockroaches, diverging from their common ancestors by the Cretaceous period, possibly from species like Raphidiomimula burmitica, a predatory cockroach with mantis-like forelegs. Possibly the earliest known modern mantis is Regiata scutra, although more common (and confirmed) is Santanmantis, a stilt-legged genus, also from the Cretaceous. Like their close termite cousins, though, mantises did not become common and diverse until the early Tertiary period.
+
+BehaviorDiet and predatory behaviorMost mantises are exclusively predatory and exceptions are predominantly so. Insects form their primary prey, but the diet of a mantis changes as it grows larger. In its first instar a mantis will eat small insects such as tiny flies or its own siblings. In later instars it does not or cannot profitably pursue such small prey. In the final instar as a rule the diet still includes more insects than anything else, but large species of mantis have been known to prey on small scorpions, lizards, frogs, birds, snakes, fish, and even rodents; they will feed on any species small enough for them to capture, but large enough to engage their attention. For example, a large mantis feeding on a bee or bug might be pestered with impunity by jackal flies and biting midges that it would readily have eaten in its first instar. Large prey tends to increase in value with the cube of its dimension: a blowfly four times as long as a jackal fly would represent a meal about 64 times as massive. However, the chewing action can be always triggered by picking the mantis up to deny it traction and stimulating its mandibles with food. When a female mantis is into her final growth spurt and is accumulating nutrients to make eggs, the largest available prey that she can manage is the most effective for her to concentrate on.
+
+The majority of mantises are ambush predators, but some ground and bark species will actively pursue their prey. For example, members of a few genera such as the ground mantids, Entella, Ligaria and Ligariella, run over dry ground seeking prey much as tiger beetles do. Species that are predominantly ambush predators camouflage themselves and spend long periods standing perfectly still. They largely wait for their prey to stray within reach, but most mantises will chase tempting prey if it strays closely enough. In pure ambush mode a mantis lashes out at remarkable speed when a target does get within reach, details of the speed and mode attack varying with the species. A mantis will catch prey items and grip them with grasping, spiked forelegs. The mantis usually holds its prey with one arm between the head and thorax, and the other on the abdomen. Then, if the prey does not resist, the mantis will eat it alive. However, if the prey does resist, the mantis will often eat it head first, some species of mantises being more prone to the behaviour than others. Unlike sucking predatory arthropods, a mantis does not liquefy prey tissues or drain its prey's body fluids, but simply slices and chews it with its mandibles as convenient, often from one end. If it should happen to have begun feeding on the midsection of the prey, it typically ends up eating first one remnant end from one foreclaw, then the rest from the other, leaving nothing but accidentally severed fragments such as limbs.
+
+Chinese Mantids have been found to gain benefits in survivorship, growth, and fecundity by supplementing their diet with pollen. In replicated laboratory tests the first instar actively fed on pollen just after hatching, thereby avoiding starvation in the absence of prey. The adults fed on pollen-laden insects, attaining fecundity as high as those fed on larger numbers of insects alone. [9]
+
+Defense and camouflageGenerally, mantises protect themselves by camouflage and concealment. When directly threatened, many mantis species stand tall and spread their forelegs, with their wings fanning out wide. The fanning of the wings makes the mantis seem larger and more threatening, with some species having bright colors and patterns on their hind wings and inner surfaces of their front legs for this purpose. If harassment persists, a mantis may strike with its forelegs and attempt to pinch or bite. As part of the threat display, some species also may produce a hissing sound by expelling air from the abdominal spiracles. When flying at night, at least some mantises are able to detect the echolocation sounds produced by bats, and when the frequency begins to increase rapidly, indicating an approaching bat, they will stop flying horizontally and begin a descending spiral toward the safety of the ground, often preceded by an aerial loop or spin. [10] [11]
+
+Mantises, like stick insects, show rocking behaviour in which the insect makes rhythmic, repetitive side-to-side movements. Functions proposed for this behaviour include the enhancement of crypsis by means of the resemblance to vegetation moving in the wind. However, the repetitive swaying movements may be most important in allowing the insects to discriminate objects from the background by their relative movement, a visual mechanism typical of animals with simpler sight systems. Rocking movements by these generally sedentary insects may replace flying or running as a source of relative motion of objects in the visual field. [12]
+
+Mantises are camouflaged, and most species make use of protective coloration to blend in with the foliage or substrate, both to avoid predators, and to better snare their prey. Various species have evolved to not only blend with the foliage, but to mimic it, appearing as either living or withered leaves, sticks, tree bark, blades of grass, flowers, or even stones. Some species in Africa and Australia are able to turn black after a molt following a fire in the region to blend in with the fire ravaged landscape (a type of adaptive melanism referred to as fire melanism). While mantises can bite, they have no venom. They can also slash captors with their raptorial legs (which is often preceded by a threat display wherein the mantis will rear back and spread its front legs and wings (if present), often revealing vivid colors and/or eyespots to startle a predator). Mantises are without chemical protection; many large insectivores will eat a mantis, including Scops owls, shrikes, bullfrogs, chameleons, and Milk Snakes.
+
+Reproduction and life historySexual cannibalism is common among mantises in captivity, and under some circumstances may also be observed in the field. The female may begin feeding by biting off the male’s head (as they do with regular prey), and if mating has begun, the male’s movements may become even more vigorous in its delivery of sperm. Early researchers thought that because copulatory movement is controlled by a ganglion in the abdomen, not the head, removal of the male’s head was a reproductive strategy by females to enhance fertilisation while obtaining sustenance. Later, this behavior appeared to be an artifact of intrusive laboratory observation. Whether the behavior in the field is natural, or also the result of distractions caused by the human observer, remains controversial. Mantises are highly visual organisms, and notice any disturbance occurring in the laboratory or field such as bright lights or moving scientists. Research by Liske and Davis (1984) [13] and others found (e.g. using video recorders in vacant rooms) that Chinese mantises that had been fed ad libitum (so that they were not hungry) actually displayed elaborate courtship behavior when left undisturbed. The male engages the female in courtship dance, to change her interest from feeding to mating. Courtship display has also been observed in other species, but it does not hold for all mantises.
+
+The reason for sexual cannibalism has been debated, with some considering submissive males to be achieving a selective advantage in their ability to produce offspring. This theory is supported by a quantifiable increase in the duration of copulation among males who are cannibalized, in some cases doubling both the duration and the chance of fertilization. This is further supported in a study where males were seen to approach hungry females with more caution, and were shown to remain mounted on hungry females for a longer time, indicating that males actively avoiding cannibalism may mate with multiple females. The act of dismounting is one of the most dangerous times for males during copulation, for it is at this time that females most frequently cannibalize their mates. This increase in mounting duration was thought to indicate that males would be more prone to wait for an opportune time to dismount from a hungry female rather than from a satiated female that would be less likely to cannibalize her mate. Some consider this to be an indication that male submissiveness does not inherently increase male reproductive success, rather that more fit males are likely to approach a female with caution and escape. [14] [15]
+
+The mating season in temperate climates typically begins in autumn. To mate following courtship, the male usually leaps onto the female’s back, and clasps her thorax and wing bases with his forelegs. He then arches his abdomen to deposit and store sperm in a special chamber near the tip of the female’s abdomen. The female then lays between 10 and 400 eggs, depending on the species. Eggs are typically deposited in a frothy mass that is produced by glands in the abdomen. This froth then hardens, creating a protective capsule. The protective capsule and the egg mass is called an ootheca. Depending on the species, the ootheca can be attached to a flat surface, wrapped around a plant or even deposited in the ground. Despite the versatility and durability of the eggs, they are often preyed on, especially by several species of parasitic wasps. In a few species, the mother guards the eggs.
+
+As in related insect groups, mantises go through three stages of metamorphosis: egg, nymph, and adult (mantises are among the hemimetabolic insects). The nymph and adult insect are structurally quite similar, except that the nymph is smaller and has no wings or functional genitalia. The nymphs are also sometimes colored differently from the adult, and the early stages are often mimics of ants. A mantis nymph increases in size (often changing its diet as it does so) by replacing its outer body covering with a sturdy, flexible exoskeleton and molting when needed. Molting can happen from five to ten times, depending on the species. After the final molt most species have wings, though some species are wingless or brachypterous ("short-winged"), particularly in the female sex.
+
+In tropical species, the natural lifespan of a mantis in the wild is about 10–12 months, but some species kept in captivity have been sustained for 14 months. In colder areas, females will die during the winter (as well as any surviving males).
+
+Pest control usesOrganic gardeners who avoid pesticides may encourage mantises as a form of biological pest control. During fall in temperate regions, mantis females typically deposit an ootheca on the underside of a leaf or on a twig, and in some species these are harvested commercially. If the egg case survives winter, the offspring, called nymphs, emerge in late spring or early summer. The nymphs have voracious appetites and typically cannibalize each other if they cannot find an adequate supply of aphids and other small insects. Tens of thousands of mantis egg cases are sold each year in some garden stores for this purpose. However, mantises prey on neutral and beneficial insects as well, basically eating anything they can successfully capture and devour.
+
+Conservation statusOnly one Spanish species, Apteromantis aptera, is listed as Lower Risk/Near Threatened. With one exception (the ground mantis Litaneutria minor in Canada, where it is rare — though it is common in the United States), North American mantises are not included among threatened or endangered species, though species in other parts of the world are under threat from habitat destruction. The European mantis (Mantis religiosa) is the state insect of Connecticut, but the General Statutes of Connecticut do not list any special protected status, as it is a non-native species from Europe and Africa. [16]
+
+Introduced speciesOver 20 species are native to the United States, including the common Carolina Mantis, with only one native to Canada. Two species (the Chinese Mantis and the European Mantis) were deliberately introduced to serve as pest control for agriculture, and have spread widely in both countries. Additionally, there is a strong market in the exotic pet trade for mantis species from Asia, Africa and South America, and many species are bred in captivity for this purpose.
+
+Cultural referencesOne of the earliest mantis references is in the ancient Chinese dictionary Erya, which gives its attributes in poetry (representing courage and fearlessness), as well as a brief description. A later text, the Jingshi Zhenglei Daguan Bencao 經史證類大觀本草 (經, Epic 史, history 證, collection 類, kinds 大觀, overall impression 本, basic 草, agriculture Annotated and Arranged by Types, Based upon the Classics and Historical Works") from 1108, is impressively correct on the construction of the egg packages, the development cycle, the anatomy and even the function of the antennae.
+
+Western descriptions of the biology and morphology of the mantises had become relatively accurate by the 18th century. Roesel von Rosenhof accurately illustrated and described them in the Insekten-Belustigungen (Insect Entertainments). Aldous Huxley made philosophical observations about the nature of death while two mantises mated in the sight of two characters in the novel Island (the species was Gongylus gongylodes). The naturalist Gerald Durrell's autobiography My Family and Other Animals includes an account of a very evenly matched battle between a mantis and a gecko. Based upon empirical evidence, the Australian mantis has been known to strike fear amongst the native Australian gecko causing great avoidance tendencies as it marks its territory.
+
+M. C. Escher's woodcut Dream depicts a human-sized mantis standing on a sleeping bishop. [17]
+
+Two martial arts that had been separately developed in China have movements and fighting strategies based on those of the Mantis. As one of these arts was developed in northern China, and the other in southern parts of the country, the arts are nowadays referred to (both in English and Chinese) as 'Northern Praying Mantis' and 'Southern Praying Mantis'. Both arts are very popular in China, and have also been imported to the West in recent decades.
+
+MythologySouthern African indigenous mythology refers to the mantis as a god in Khoi and San traditional myths and practices, and the word for the mantis in Afrikaans is hottentotsgot (literally, a god of the Khoi). [18] [19] The word "Mantis" is also the Greek word for "prophet or seer". [20]
+
+Sources* Ehrmann, Reinhard (2002). Mantodea Gottesanbeterinnen der Welt (in German). Münster: Natur und Tier-Verlag. ISBN 978-3-931587-60-4.
+* Klausnitzer, Bernhard (1987). Insects: Their Biology and Cultural History. Unknown. ISBN 0-87663-666-0.
+* O'Toole, Christopher (2002). Firefly Encyclopedia of Insects and Spiders. Firefly. ISBN 1-55297-612-2.
+* Checklist of Mantodea originally compiled by the Los Angeles County Museum
+* Tree of Life — Mantodea
+
+References* ^ Otte, Daniel; Spearman, Lauren. "Mantodea Species File Online". Retrieved 2012-07-17.
+* ^ Bullock, William (1812) A companion to the London Museum and Pantherion
+* ^ Partington, Charles F. (1837) The british cyclopedia of natural history. Pub: W.S.Orr
+* ^ "Praying Mantis". National Geographic Society. Retrieved January 2011.
+* ^ Essig, Edward Oliver (1947). College entomology. New York: Macmillan Company. pp. 124, 900. OCLC 809878.
+* ^ Harper, Douglas. "mantis". Online Etymology Dictionary.
+* ^ Costa, James (2006). The other insect societies. Harvard University Press. pp. 135–136. ISBN 0-674-02163-0.
+* ^ a b Prete, Fredrick R. (1999). The praying mantids. Baltimore, MD: Johns Hopkins University. pp. 27–29,101–103. ISBN 0-8018-6174-8.
+* ^ Beckman, N. and Hurd, L. E. (2003). "Pollen feeding and fitness in Praying Mantids: The vegetarion side of a tritrophic predator". Environmental Entomology 32 (4): 881. doi:10.1603/0046-225X-32.4.881.
+* ^ Yager, D., May, M. (1993) Coming in on a Wing and an Ear. (Cover Story). Natural History 102.1: 28.
+* ^ "Praying Mantis Uses Ultrasonic Hearing to Dodge Bats". National Geographic Society. Retrieved 2012-08-17.
+* ^ O'Dea, JD. Eine zusatzliche oder alternative Funktion der 'kryptischen' Schaukelbewegung bei Gottesanbeterinnen und Stabschrecken (Mantodea, Phasmatodea). Entomologische Zeitschrift, 101, Nr. 1/2, 15 January 1991, pp. 25–27.
+* ^ Liske, E. and W. J. Davis (1984). "Sexual behaviour of the Chinese praying mantis". Animal Behaviour 32 (3): 916. doi:10.1016/S0003-3472(84)80170-0.
+* ^ J. P. Lelito and W. D. Brown (2006) Sexual conflict in a praying mantis. The American Naturalist 168 [1].
+* ^ Lelito JP, Brown WD (2006). "Complicity or Conflict over Sexual Cannibalism? Male Risk Taking in the Praying Mantis Tenodera aridifolia sinensis". The American naturalist 168 (2): 263–9. doi:10.1086/505757. PMID 16874635.
+* ^ "The State Insect". State of Connecticut. 2002-08-05. Retrieved 2011-01-05.
+* ^ "Escher, M. C., 1898–1972, Dream (Mantis religiosa). Woodengraving, April, 1935, signed". Treasures of Lauinger Library. Georgetown University. Retrieved May 14, 2011.
+* ^ "South Africa – Religion". Countrystudies.us. Retrieved 2010-07-14.
+* ^ "Afrikaans Animal Names". sanparks.org. Retrieved 2010-07-14.
+* ^ "Defining Mantis". Dictionary.com. Dictionary Reference. Retrieved 25 May 2013.
+
+External links* Deadlymantis.com This site has some amazing pictures of praying mantis and information on multiple species. Also, there are links to supplies for rearing and exotic live specimens.
+* Mantis Study Group Information on mantids, scientific article phylogenetics and Evolution.
+
+* v
+* t
+* e
+
+Insecta orders
+
+* Kingdom: Animalia
+* Phylum: Arthropoda
+* (unranked): Pancrustacea
+* Subphylum: Hexapoda
+
+Extant
+
+Monocondylia
+
+* Archaeognatha (jumping bristletails)
+
+Apterygota*
+
+* Thysanura (Zygentoma) (silverfish, firebrats)
+
+P
+t
+e
+r
+y
+g
+o
+t
+a
+
+Ephemeropteroidea
+
+* Ephemeroptera (mayflies)
+
+Odonatoptera
+
+* Odonata (dragonflies, damselflies)
+
+N
+e
+o
+p
+t
+e
+r
+a
+
+* Plecoptera (stoneflies)
+* Zoraptera (angel insects)
+* Notoptera (ice-crawlers, gladiators)
+* Dermaptera (earwigs)
+* Embioptera (webspinners)
+* Orthoptera (crickets, wetas, grasshoppers, locusts)
+* Phasmatodea (stick and leaf insects)
+
+Dictyoptera
+
+* Blattodea (cockroaches, termites)
+* Mantodea (mantises)
+
+Paraneoptera
+
+* Psocodea (barklice, lice)
+* Thysanoptera (thrips)
+* Hemiptera (cicadas, aphids, true bugs)
+
+E
+n
+d
+o
+p
+t
+e
+r
+y
+g
+o
+t
+a
+
+* Strepsiptera (twisted-winged parasites)
+* Coleoptera (beetles)
+* Hymenoptera (sawflies, wasps, ants, bees)
+
+Neuropterida
+
+* Raphidioptera (snakeflies)
+* Megaloptera (alderflies, dobsonflies, fishflies)
+* Neuroptera (net-winged insects: lacewings, mantidflies, antlions)
+
+Panorpida
+(Mecopterida)
+
+Antliophora
+
+* Mecoptera (scorpionflies) + Siphonaptera (fleas)
+* Diptera (gnats, mosquitoes, flies)
+
+Amphiesmenoptera
+
+* Trichoptera (caddisflies)
+* Lepidoptera (moths, butterflies)
+
+Four most speciose orders are marked in bold. *In the narrow sense (excluding Entognatha and Archaeognatha).
+
+Extinct
+
+* Archodonata
+* Blattoptera
+* Caloneurodea
+* Campylopteridae
+* Carbotriplurida
+* Coxoplectoptera
+* Diaphanopterodea
+* Eoblattodea
+* Eocoronidae
+* Eudiaphanoptera
+* Erasipteridae
+* Gerarus
+* Geroptera
+* Glosselytrodea
+* Heraridea
+* Hypoperlida
+* Lapeyriidae
+* Meganisoptera (griffinflies, or "giant dragonflies")
+* Megasecoptera
+* Mendozachorista
+* Miomoptera
+* Monura
+* Palaeodictyoptera
+* Paoliida
+* Permoplecoptera
+* Protanisoptera
+* Protelytroptera
+* Protephemerida
+* Protodiptera
+* Protorthoptera
+* Protozygoptera
+* Pseudopulex
+* Rhyniognatha
+* Syntonoptera
+* Titanoptera
+* Triadophlebioptera
+
+Extinct incertae sedis families and genera are marked in italic.
+
+Wikispecies
+
+* v
+* t
+* e
+
+Extant Mantodea families
+
+* Kingdom: Animalia
+* Phylum: Arthropoda
+* Class: Insecta
+* Subclass: Pterygota
+* Infraclass: Neoptera
+* Superorder: Dictyoptera
+
+* Acanthopidae
+* Amorphoscelididae
+* Chaeteessidae
+* Empusidae
+* Eremiaphilidae
+* Hymenopodidae (flower mantises)
+* Iridopterygidae
+* Liturgusidae
+* Mantidae
+* Mantoididae
+* Metallyticidae
+* Sibyllidae
+* Tarachodidae
+* Thespidae
+* Toxoderidae
+
+List of mantis genera and species

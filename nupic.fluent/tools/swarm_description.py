@@ -56,5 +56,5 @@ SWARM_DESCRIPTION = {
     "predictedField": "object"
   },
   "iterationCount": -1,
-  "swarmSize": "large"
+  "swarmSize": "medium"
 }

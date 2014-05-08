@@ -1,0 +1,361 @@
+Owls are a group of birds that belong to the order Strigiformes, constituting 200 extant bird of prey species. Most are solitary and nocturnal, with some exceptions (e.g., the Northern Hawk Owl). Owls hunt mostly small mammals, insects, and other birds, although a few species specialize in hunting fish. They are found in all regions of the Earth except Antarctica, most of Greenland, and some remote islands. Owls are characterized by their small beaks and wide faces, and are divided into two families: the typical owls, Strigidae; and the barn-owls, Tytonidae.
+
+Contents
+
+* 1 Anatomy
+* 2 Breeding and Reproduction
+* 3 Behavior
+* 4 Adaptations for hunting* 4.1 Flight and feathers
+* 4.2 Vision
+* 4.3 Hearing
+* 4.4 Talons
+* 4.5 Beak
+* 4.6 Camouflage
+
+* 5 Evolution and systematics* 5.1 Ogygoptyngidae
+* 5.2 Protostrigidae
+* 5.3 Sophiornithidae
+* 5.4 Tytonidae: Barn-owls
+* 5.5 Strigidae: Typical owls
+
+* 6 Symbolism and mythology* 6.1 Africa
+* 6.2 The Americas
+* 6.3 Middle East
+* 6.4 Hinduism
+* 6.5 Western culture
+
+* 7 Use as rodent control
+* 8 Attacks on humans
+* 9 Conservation issues
+* 10 References
+* 11 Further reading
+* 12 External links
+
+AnatomyOwls have large forward-facing eyes and ear-holes; a hawk-like beak; a flat face; and usually a conspicuous circle of feathers, a facial disc, around each eye. The feathers making up this disc can be adjusted in order to sharply focus sounds that come from varying distances onto the owls' asymmetrically placed ear cavities. Most birds of prey sport eyes on the sides of their heads, but the stereoscopic nature of the owl's forward-facing eyes permits the greater sense of depth perception necessary for low-light hunting. Although owls have binocular vision, their large eyes are fixed in their sockets—as are those of other birds—so they must turn their entire head to change views. As owls are farsighted, they are unable to see clearly anything within a few centimeters of their eyes. Caught prey can be felt by owls with the use of filoplumes—like feathers on the beak and feet that act as "feelers". Their far vision, particularly in low light, is exceptionally good.
+
+Owls can rotate their heads and necks as much as 270 degrees. Owls have fourteen neck vertebrae as compared to 7 in humans which makes their necks more flexible. They also have adaptations to their circulatory systems, permitting rotation without cutting off blood to the brain: the foramina in their vertebrae through which the vertebral arteries pass are about 10 times the diameter of the artery, instead of about the same size as the artery as in humans; the vertebral arteries enter the cervical vertebrae higher than in other birds, giving the vessels some slack; and the carotid arteries unite in a very large anastomosis or junction, the largest of any bird's, preventing blood supply from being cut off while the neck is rotated. Other anastomoses between the carotid and vertebral arteries support this effect. [1] [2]
+
+The smallest owl—weighing as little as 31 grams (1 oz) and measuring some 13.5 centimetres (5 in)—is the Elf Owl (Micrathene whitneyi). [3] Around the same diminutive length, although slightly heavier, are the lesser known Long-whiskered Owlet (Xenoglaux loweryi) and Tamaulipas Pygmy Owl (Glaucidium sanchezi). [3] The largest owl by length is the Great Grey Owl (Strix nebulosa), which measures around 70 cm (28 in) on average and can attain a length of 84 cm (33 in). [3] However, the heaviest (and largest winged) owls are two similarly-sized eagle owls; the Eurasian Eagle-Owl (Bubo bubo) and Blakiston's Fish Owl (B. blakistoni). These two species, which are on average about 2.53 cm (1.00 in) shorter in length than the Great Grey, can both attain a wingspan of 2 m (6.6 ft) and a weight of 4.5 kg (10 lb) in the largest females. [3] [4] [5] [6] [7]
+
+Different species of owls make different sounds; this wide range of calls aids owls in finding mates or announcing their presence to potential competitors, and also aids ornithologists and birders in locating these birds and recognizing species. As noted above, the facial disc helps owls to funnel the sound of prey to their ears. In many species, these discs are placed asymmetrically, for better directional location. [8] [verification needed]
+
+The plumage of owls is generally cryptic, but many species have facial and head markings, including face masks, ear tufts and brightly coloured irises. These markings are generally more common in species inhabiting open habitats, and are thought to be used in signaling with other owls in low light conditions. [9]
+
+Breeding and ReproductionOwl eggs usually have a white color and an almost spherical shape, and range in number from a few to a dozen, depending on species and the particular season; for most, three or four is the more common number. Eggs are laid at intervals of 1 to 3 days and do not hatch at the same time.
+
+BehaviorMost owls are nocturnal, actively hunting their prey only in darkness. Several types of owl, however, are crepuscular—active during the twilight hours of dawn and dusk; one example is the Pygmy owl (Glaucidium). A few owls are active during the day also; examples are the Burrowing Owl (Speotyto cunicularia) and the Short-eared Owl (Asio flammeus).
+
+Much of the owls' hunting strategy depends on stealth and surprise. Owls have at least two adaptations that aid them in achieving stealth. First, the dull coloration of their' feathers can render them almost invisible under certain conditions. Secondly, serrated edges on the leading edge of owls' remiges muffle an owl's wing beats, allowing an owl's flight to be practically silent. Some fish-eating owls, for which silence has no evolutionary advantage, lack this adaptation.
+
+An owl's sharp beak and powerful talons allow it to kill its prey before swallowing it whole (if it is not too big). Scientists studying the diets of owls are helped by their habit of regurgitating the indigestible parts of their prey (such as bones, scales and fur) in the form of pellets. These "owl pellets" are plentiful and easy to interpret, and are often sold by companies to schools for dissection by students as a lesson in biology and ecology. [10]
+
+Adaptations for huntingAll owls are carnivorous birds of prey and live mainly on a diet of insects and small rodents such as mice, rats and hares. Some owls are also specifically adapted to hunt fish. They are very adept in hunting in their respective environments. Since owls can be found in nearly all parts of the world and across a multitude of ecosystems, their hunting skills and characteristics vary slightly from species to species, though most characteristics are shared among all species. [citation needed]
+
+Flight and feathersMost owls share an innate ability to fly almost silently and also more slowly in comparison to other birds of prey. Most owls live a mainly nocturnal lifestyle and being able to fly without making any noise gives them a strong advantage over their prey that are listening for any sign of noise in the dark night. A silent, slow flight is not as necessary for diurnal and crepuscular owls given that prey can usually see an owl approaching. While the morphological and biological mechanisms of this silent flight are more or less unknown, the structure of the feather has been heavily studied and accredited to a large portion of why they have this ability. Owls’ feathers are generally larger than the average birds’ feathers, have fewer radiates, longer pennulum, and achieve smooth edges with different rachis structures. [11] Serrated edges along the owl’s remiges bring the flapping of the wing down to a nearly silent mechanism. Research has shown that the serrations are more likely reducing aerodynamic disturbances, rather than simply reducing noise. [11] The surface of the flight feathers is covered with a velvety structure that absorbs the sound of the wing moving. These unique structures reduce noise frequencies above 2 kHz, [12] making the sound level emitted drop below the typical hearing spectrum of the owl’s usual prey [12] [13] and also within the owl’s own best hearing range [4,5]. This optimizes the owl’s ability to silently fly in order to capture prey without the prey hearing the owl first as it flies in. It also allows the owl to monitor the sound output from its flight pattern.
+
+VisionAnother characteristic of the owl which aids in their nocturnal prey capture is their eyesight. Owls are part of a small group of birds that live nocturnally, but do not use echolocation to guide them in flight in low-light situations. Owls are known for their disproportionally large eyes in comparison to their skull. An apparent consequence of the evolution of an absolutely large eye in a relatively small skull is that the eye of the owl has become tubular in shape. [14] This shape is found in other so-called nocturnal eyes, such as the eyes of prosimians and bathypelagic fishes. [15] Since the eyes are fixed into these sclerotic tubes, they are unable to move the eyes in any direction. [16] Instead of moving their eyes, owls swivel their head to visualize their surroundings. The swiveling radius of the owl’s head is around 270°, easily enabling them to see behind them without relocating the torso. [16] This ability keeps bodily movement at a minimum and thus reduces the amount of sound the owl makes as it waits for its prey. Owls are regarded as having the most frontally placed eyes amongst all avian groups, which gives them some of the largest binocular fields of vision. But owls are farsighted and cannot focus on objects within a few centimeters of their eyes. [15] [17] While it is commonly believed that owls have such great nocturnal vision due to their large (and thus very light-gathering) eyes and pupils and/or extremely sensitive rod receptors, the true cause for their ability to see in the night is due to neural mechanisms which mediate the extraction of spatial information gathered from the retinal image throughout the nocturnal luminance range. These mechanisms are only able to function due to the large sized retinal image. [18] Thus, the primary nocturnal function in the vision of the owl is due to its large posterior nodal distance; retinal image brightness is only maximized to the owl within secondary neural functions. [18] These attributes of the owl cause the nocturnal eyesight to be far superior to that of its average prey. [18]
+
+HearingOwls exhibit specialized hearing functions and ear shapes that also aid in hunting. They are noted for asymmetrical ear placements on the skull in some genera. Owls can have either internal or external ears, but those genera exhibiting asymmetrical ear geometry only have external ear placements. Asymmetry has not been reported to extend to the middle or internal ear of the owl. Asymmetrical ear placement on the skull allows the owl to pinpoint the location of its prey. This is especially true for strictly nocturnal species such as the barn owls 'Tyto' or Tengmalm’s Owl. [16] With ears set at different places on its skull, an owl is able to determine the direction from which the sound is coming by the minute difference in time that it takes for the sound waves to penetrate the left and right ears. [citation needed] The owl turns its head until the sound reaches both ears at which point it is directly facing the source of the sound. This time difference between ears is a matter of about 0.00003 seconds, or 30 millionths of a second. In coordination with this left to right calibration, some owls (like the barn owl) have slight up and down asymmetricality of the ears, which allows the owl to recognize whether a sound originates higher or lower in vertical space by the volume of the sound in each ear. If the sound is louder in the ear facing upwards, then the prey is higher up than the owl’s focus. [19] Like the eyes, which utilize feather movements to focus light, the ears are surrounded by feathers to maximize hearing capabilities. Behind the ear openings there are modified, dense feathers, densely packed to form a facial ruff, which creates an anteriorly-facing concave wall that cups the sound into the ear structure. [20] This facial ruff is poorly defined in some species and prominent, nearly encircling the face, in other species. The facial disk also acts to direct sound into the ears, and a downward-facing, sharply triangular beak minimizes sound reflection away from the face. The shape of the facial disk is adjustable at will to focus sounds more effectively. [16] Owls have an audible range similar to that of humans, but far more acute in certain frequencies, allowing them to detect even the slightest movements of their prey. Once an owl has determined the location of its prey, it flies towards it according to the last sound perceived. If the prey moves, the owl is able to adjust its flight pattern mid-flight. [19]
+
+TalonsWhile the auditory and visual capabilities of the owl allow it to locate and pursue its prey, the talons and beak of the owl do the final work. The owl kills its prey by using these talons to crush the skull and knead the body. [16] The crushing power of an owl’s talons varies according to prey size and type, and by the size of the owl. The Burrowing Owl (Athene cunicularia), a small partly insectivorous owl, has a release force of only 5 N. The larger Barn Owl (Tyto alba) needs a force of 30 N to release its prey, and one of the largest owls, the Great Horned Owl (Bubo virginianus) needs a force of over 130 N to release prey in its talons. [21] An owl’s talons, like those of most birds of prey, can seem massive in comparison to the body size outside of flight. The Masked owl has some of the proportionally longest talons of any bird of prey; they appear enormous in comparison to the body when fully extended to grasp prey. [22] Owls' foot design differs from that of diurnal birds of prey because owls have a zygodactyl toe arrangement, with two toes directed forward and two toes directed backward during perching. [19] [22] During flight, the outer front toe swivels forward on a flexible joint so that three of the four toes are facing forward. Some owls’ talons have adapted to include filoplume feathers that aid in sensing the prey once it is close or has in fact made contact with the talon, which is useful in capturing small prey at night. The underside of the talon foot is covered in a rough, knobby surface, which allows the owl to grasp its prey and hold it without having to keep the muscles tightly contracted. [19] An owl’s claws are sharp and curved. The family Tytonidae have inner and central toes of about equal length, while the family Strigidae have an inner toe that is distinctly shorter than the central one. [21] These different morphologies allow efficiency in capturing prey specific to the different environments they inhabit.
+
+BeakThe beak of the owl is short, curved and downward-facing, and typically hooked at the tip for gripping and tearing its prey. Once prey is captured, the scissor motion of the top and lower bill is used to tear the tissue and kill. The sharp lower edge of the upper bill works in coordination with the sharp upper edge of the lower bill to deliver this motion. [19] The downward-facing beak allows the owl’s field of vision to be clear, as well as directing sound into the ears without deflecting sound waves away from the face.
+
+CamouflageThe coloration of the owl’s plumage plays a key role in its ability to sit still and blend into the environment, making it nearly invisible to prey. Owls tend to mimic the colorations and sometimes even the texture patterns of their surroundings, the common barn owl being an exception. Nyctea scandiaca, or the Snowy Owl, appears nearly bleach-white in color with a few flecks of black, mimicking their snowy surroundings perfectly. Likewise, the Muted Wood-Owl (Strix ocellata) displays shades of brown, tan and black, making the owl nearly invisible in the surrounding trees, especially from behind. Usually, the only tell-tale sign of a perched owl will be its vocalizations or its vividly colored eyes.
+
+Evolution and systematicsThe systematic placement of owls is disputed. For example, the Sibley-Ahlquist taxonomy finds that, based on DNA-DNA hybridization, owls are more closely related to the nightjars and their allies (Caprimulgiformes) than to the diurnal predators in the order Falconiformes; consequently, the Caprimulgiformes are placed in the Strigiformes, and the owls in general become a family Strigidae. A recent study indicates that the drastic rearrangement of the genome of the accipitrids may have obscured any close relationship of theirs with groups such as the owls. [23] In any case, the relationships of the Caprimulgiformes, the owls, the falcons and the accipitrid raptors are not resolved to satisfaction; currently there is an increasing trend to consider each group (with the possible exception of the accipitrids) a distinct order.
+
+There are some 220 to 225 extant species of owls, subdivided into two families: typical owls (Strigidae) and barn-owls (Tytonidae). Some entirely extinct families have also been erected based on fossil remains; these differ much from modern owls in being less specialized or specialized in a very different way (such as the terrestrial Sophiornithidae). The Paleocene genera Berruornis and Ogygoptynx show that owls were already present as a distinct lineage some 60–57 mya (million years ago), and, hence, possibly also some 5 million years earlier, at the extinction of the non-avian dinosaurs. This makes them one of the oldest known groups of non-Galloanserae landbirds. The supposed "Cretaceous owls" Bradycneme and Heptasteornis are apparently non-avialan maniraptors. [24]
+
+During the Paleogene, the Strigiformes radiated into ecological niches now mostly filled by other groups of birds. [clarification needed] The owls as we know them today, on the other hand, evolved their characteristic morphology and adaptations during that time, too. By the early Neogene, the other lineages had been displaced by other bird orders, leaving only barn-owls and typical owls. The latter at that time were usually a fairly generic type of (probably earless) owl similar to today's North American Spotted Owl or the European Tawny Owl; the diversity in size and ecology found in typical owls today developed only subsequently.
+
+Around the Paleogene-Neogene boundary (some 25 mya), barn-owls were the dominant group of owls in southern Europe and adjacent Asia at least; the distribution of fossil and present-day owl lineages indicates that their decline is contemporary with the evolution of the different major lineages of typical owls, which for the most part seems to have taken place in Eurasia. In the Americas, there was rather an expansion of immigrant lineages of ancestral typical owls.
+
+The supposed fossil herons "Ardea" perplexa (Middle Miocene of Sansan, France) and "Ardea" lignitum (Late Pliocene of Germany) were more probably owls; the latter was apparently close to the modern genus Bubo. Judging from this, the Late Miocene remains from France described as "Ardea" aureliensis should also be restudied. [25] The Messelasturidae, some of which were initially believed to be basal Strigiformes, are now generally accepted to be diurnal birds of prey showing some convergent evolution towards owls. The taxa often united under Strigogyps [26] were formerly placed in part with the owls, specifically the Sophiornithidae; they appear to be Ameghinornithidae instead. [27] [28] [29]
+
+For fossil species and paleosubspecies of extant taxa, see the genus and species articles.
+
+Unresolved and basal forms (all fossil)
+
+* Berruornis (Late Paleocene of France) basal? Sophornithidae?
+* Strigiformes gen. et ap. indet. (Late Paleocene of Zhylga, Kazakhstan)
+* Palaeoglaux (Middle – Late Eocene of WC Europe) own family Palaeoglaucidae or Strigidae?
+* Palaeobyas (Late Eocene/Early Oligocene of Quercy, France) Tytonidae? Sophiornithidae?
+* Palaeotyto (Late Eocene/Early Oligocene of Quercy, France) Tytonidae? Sophiornithidae?
+* Strigiformes gen. et spp. indet. (Early Oligocene of Wyoming, USA) [25]
+
+Ogygoptyngidae* Ogygoptynx (Middle/Late Paleocene of Colorado, USA)
+
+Protostrigidae* Eostrix (Early Eocene of WC USA and England - Middle Eocene of WC USA)
+* Minerva (Middle - Late Eocene of W USA) formerly Protostrix, includes "Aquila" ferox, "Aquila" lydekkeri, and "Bubo" leptosteus
+* Oligostrix (mid-Oligocene of Saxony, Germany)
+
+Sophiornithidae* Sophiornis
+
+Tytonidae: Barn-owls* Genus Tyto – typical barn-owls, stand up to 500 millimetres (20 in) tall. Some 15 species and possibly one recently extinct
+* Genus Phodilus – bay-owls, 1–2 extant species and possibly one recently extinct
+
+Fossil genera
+
+* Nocturnavis (Late Eocene/Early Oligocene) includes "Bubo" incertus
+* Selenornis (Late Eocene/Early Oligocene) - includes "Asio" henrici
+* Necrobyas (Late Eocene/Early Oligocene – Late Miocene) includes "Bubo" arvernensis and Paratyto
+* Prosybris (Early Oligocene? – Early Miocene)
+
+Placement unresolved
+
+* Tytonidae gen. et sp. indet. "TMT 164" (Middle Miocene) – Prosybris?
+
+Strigidae: Typical owls* Aegolius – saw-whet owls, four species
+* Asio – eared owls, 67 species
+* Athene – 2–4 species (depending on whether Speotyto and Heteroglaux are included or not)
+* Bubo – horned owls, eagle-owls and fish-owls; paraphyletic with Nyctea, Ketupa, and Scotopelia, some 25 species
+* Ciccaba – four species
+* Glaucidium – pygmy-owls, about 30–35 species
+* Grallistrix – stilt-owls, four species; prehistoric
+* Gymnoglaux – Bare-legged Owl or Cuban Screech-owl
+* Jubula – Maned Owl
+* Lophostrix – Crested Owl
+* Mascarenotus – Mascarene owls, three species; extinct (c.1850)
+* Megascops – screech-owls, some 20 species
+* Micrathene – Elf Owl
+* Mimizuku – Giant Scops-owl or Mindanao Eagle-owl
+* Ninox – Australasian hawk-owls, some 20 species
+* Nesasio – Fearful Owl
+* Ornimegalonyx – Caribbean giant owls, 1–2 species; prehistoric
+* Otus – scops-owls; probably paraphyletic, about 45 species
+* Pseudoscops – Jamaican Owl and possibly Striped Owl
+* Ptilopsis – white-faced owls, two species
+* Pulsatrix – spectacled owls, three species
+* Pyrroglaux – Palau Owl
+* Sceloglaux – Laughing Owl; extinct (1914?)
+* Strix – earless owls, about 15 species
+* Surnia – Northern Hawk-owl
+* Uroglaux – Papuan Hawk-owl
+* Xenoglaux – Long-whiskered Owlet
+
+Fossil genera
+
+* Mioglaux (Late Oligocene? – Early Miocene of WC Europe) – includes "Bubo" poirreiri
+* Intutula (Early/Middle - ?Late Miocene of C Europe) - includes "Strix/Ninox" brevis
+* Alasio (Middle Miocene of Vieux-Collonges, France) - includes "Strix" collongensis
+* Oraristrix (Late Pleistocene)
+
+Placement unresolved
+
+* "Otus/Strix" wintershofensis: fossil (Early/Middle Miocene of Wintershof West, Germany) - may be close to extant genus Ninox [25]
+* "Strix" edwardsi – fossil (Middle/Late? Miocene)
+* "Asio" pygmaeus – fossil (Early Pliocene of Odessa, Ukraine)
+* Strigidae gen. et sp. indet. UMMP V31030 (Late Pliocene) – Strix/Bubo?
+* Ibiza Owl, Strigidae gen. et sp. indet. – prehistoric [30]
+
+Symbolism and mythologyAfricaAmong the Kikuyu of Kenya it was believed that owls were harbingers of death. If one saw an owl or heard its hoot, someone was going to die. In general, owls are viewed as harbingers of bad luck, ill health, or death. The belief is widespread even today. [31]
+
+The AmericasIn the culture of the Uto-Aztec tribe, the Hopi, taboos surround owls, which are associated with sorcery and other evils. The Aztecs and Maya, along with other Natives of Mesoamerica, considered the owl a symbol of death and destruction. In fact, the Aztec god of death, Mictlantecuhtli, was often depicted with owls. There is an old saying in Mexico that is still in use: [32] Cuando el tecolote canta, el indio muere ("When the owl cries/sings, the Indian dies"). The Popol Vuh, a Mayan religious text, describes owls as messengers of Xibalba (the Mayan "Place of Fright"). [33] The belief that owls are messengers and harbingers of the dark powers is also found among the Hočągara (Winnebago) of Wisconsin. [34] When in earlier days the Hočągara committed the sin of killing enemies while they were within the sanctuary of the chief's lodge, an owl appeared and spoke to them in the voice of a human, saying, "From now on the Hočągara will have no luck." This marked the beginning of the decline of their tribe. [35] An owl appeared to Glory of the Morning, the only female chief of the Hočąk nation, and uttered her name. Soon afterwards she died. [36] [37] People often allude to the reputation of owls as bearers of supernatural danger when they tell misbehaving children, "the owls will get you." [38] Also, in the native Cherokee culture, as well as many other Native American cultures, owls are a very bad omen. It is said that if you are outside in the broad day light and an owl flies over your head a family member or loved one would die within the coming week.
+
+Middle EastIn Arab mythology, owls are seen as bad omens. [39]
+
+HinduismIn Hinduism, an owl is the vahana, mount, of Goddess Lakshmi.
+
+Western cultureThe modern West generally associates owls with wisdom. This link goes back at least as far as Ancient Greece, where Athens, noted for art and scholarship, and Athena, Athens' patron goddess and the goddess of wisdom, had the owl as a symbol. [40] Marija Gimbutas traces veneration of the owl as a goddess, among other birds, to the culture of Old Europe, long pre-dating Indo-European cultures. [41]
+
+T. F. Thiselton-Dyer in his Folk-lore of Shakespeare says that "from the earliest period it has been considered a bird of ill-omen, and Pliny tells us how, on one occasion, even Rome itself underwent a lustration, because one of them strayed into the Capitol. He represents it also as a funereal bird, a monster of the night, the very abomination of human kind. Virgil describes its death-howl from the top of the temple by night, a circumstance introduced as a precursor of Dido's death. Ovid, too, constantly speaks of this bird's presence as an evil omen; and indeed the same notions respecting it may be found among the writings of most of the ancient poets." [42] A list of "omens drear" in John Keats' Hyperion includes the "gloom-bird's hated screech." [43]
+
+In France, Belgium and the Netherlands, where owls are divided into eared owls (fr. hiboux / d. oehoes) and earless owls (fr. chouettes/ d. bosuilen), the former are seen as symbols of wisdom while the latter are assigned the grimmer meaning.
+
+Three Canadian provinces have owls as provincial symbols: the Great Horned Owl in Alberta, the Great Grey Owl in Manitoba, and the Snowy Owl in Quebec.
+
+Three owls appear on the coat of arms of the English city of Leeds, as the crest and the two supporters. They are derived from the arms of the city's first alderman, Sir John Saville.
+
+Use as rodent controlEncouraging natural predators to control rodent population is a natural form of pest control, along with excluding food sources for rodents. Placing a new box for owls on a property can help control rodent populations (one family of hungry barn owls can consume more than 3,000 rodents in a nesting season) while maintaining the naturally balanced food chain. [44]
+
+Attacks on humansAlthough humans and owls frequently live together in harmony, there have been incidents when owls have attacked humans. In January 2013, a man from Inverness went into shock and suffered heavy bleeding after being attacked by an owl, which was likely a 2 foot tall Eagle Owl [45] In 2007, a thief attempted to steal a barn owl named Addy, but was attacked by the owl in a stolen Ford Fiesta and suffered a fractured leg and a bruised right eye. [46] [47] The photographer Eric Hosking lost his left eye after attempting to photograph a tawny owl, which inspired the title of his 1970 autobiography, An Eye for a Bird.
+
+Conservation issuesSee also: List of Strigiformes by population
+
+All owls are listed in Appendix II of the international CITES treaty (the Convention on Illegal Trade in Endangered Species of Wild Fauna and Flora). Although owls have long been hunted, a 2008 news story from Malaysia indicates that the magnitude of owl poaching may be on the rise. In November 2008, TRAFFIC reported the seizure of 900 plucked and "oven-ready" owls in Peninsular Malaysia. Said Chris Shepherd, Senior Programme Officer for TRAFFIC's Southeast Asia office, "This is the first time we know of where 'ready-prepared' owls have been seized in Malaysia, and it may mark the start of a new trend in wild meat from the region. We will be monitoring developments closely." Traffic commended the Department of Wildlife and National Parks in Malaysia for the raid that exposed the huge haul of owls. Included in the seizure were dead and plucked Barn Owls, Spotted Wood Owls, Crested Serpent Eagles, Barred Eagles, and Brown Wood Owls, as well as 7,000 live lizards. [48]
+
+References* ^ Fabian de Kok-Mercado et al. "Adaptations of the owl's cervical & cephalic arteries in relation to extreme neck rotation." 2012. Poster. Reprinted in: "International Science & Engineering Visualization Challenge: Posters & Graphics", Science 339 (6119), 1 February 2013: 514–515
+* ^ "Owl mystery unraveled: Scientists explain how bird can rotate its head without cutting off blood supply to brain.". Johns Hopkins Medicine. 2013-01-31. Retrieved 2013-03-03.
+* ^ a b c d Konig, Claus; Welck, Friedhelm and Jan-Hendrik Becking (1999) Owls: A Guide to the Owls of the World, Yale University Press, ISBN 978-0-300-07920-3.
+* ^ Eurasian Eagle Owl. Oiseaux-birds.com. Retrieved on 2013-03-02.
+* ^ Eurasian Eagle Owl - Bubo bubo - Information, Pictures, Sounds. Owlpages.com (2012-08-13). Retrieved on 2013-03-02.
+* ^ Take A Peek At Boo, The Eagle Owl – The Quillcards Blog. Quillcards.com (2009-09-23). Retrieved on 2013-03-02.
+* ^ Blakiston's Fish Owl Project. Fishowls.com (2013-02-26). Retrieved on 2013-03-02.
+* ^ Cotty, 2008.
+* ^ Galeotti, Paolo; Diego Rubolini (2007). "Head ornaments in owls: what are their functions?". Journal of Avian Biology 38 (6): 731–736. doi:10.1111/j.0908-8857.2007.04143.x.
+* ^ Owl Pellets in the Classroom: Safety Guidelines. carolina.com
+* ^ a b Bachmann T., Klän S., Baughmgartner W., Klaas M., Schröder W., & Wagner H. (2007). "Morphometric characterisation of wing feathers of the barn owl Tyto alba pratincola and the pigeon Columba livia". Frontiers in Zoology 4: 23. doi:10.1186/1742-9994-4-23. PMC 2211483. PMID 18031576.
+* ^ a b Neuhaus W., Bretting H.,& Schweizer B. (1973). "Morphologische und funktionelle Untersuchungen über den, lautlosen" Flug der Eulen (strix aluco) im Vergleich zum Flug der Enten (Anas platyrhynchos)". Biol Zbl 92: 495–512.
+* ^ Willott J.F. (2001) Handbook of Mouse Auditory Research CRC Press ISBN 1420038737.
+* ^ Konishi (1973)
+* ^ a b Walls G.L. (1942) The vertebrate eye and its adaptive radiation, Cranbook Institute of Science.
+* ^ a b c d e König, Claus, Friedhelm Weick & Jan-Hendrik Becking (1999). Owls: A guide to the owls of the world. Yale Univ Press, 1999. ISBN 0300079206
+* ^ Hughes A. (1979). "A schematic eye for the rat". Vision Res 19 (5): 569–588. doi:10.1016/0042-6989(79)90143-3. PMID 483586.
+* ^ a b c Martin G.R. (1982). "An owl's eye: schematic optics and visual performance in Strix aluco". L. J Comp Physiol 145 (3): 341–349. doi:10.1007/BF00619338.
+* ^ a b c d e Lewis, Deane P. (2007): Owl ears and hearing. Owl Pages.
+* ^ Norberg, R.A. (1977). "Occurrence and independent evolution of bilateral ear asymmetry in owls and implications on owl taxonomy". Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences 280 (973): 375–408. doi:10.1098/rstb.1977.0116.
+* ^ a b Marti (1974). "Feeding Ecology of Four Sympatric Owls". The condor 76 (1): 45–61. doi:10.2307/1365983.
+* ^ a b Einoder, Luke D. and Alastair M. M. Richardson (2007). "Aspects of the Hindlimb Morphology of Some Australian Birds of Prey: A Comparative and Quantitative Study". The Auk 124 (3): 773–788. doi:10.1642/0004-8038(2007)124 [773:AOTHMO]2.0.CO;2.
+* ^ Haaramo, Mikko (2006): Mikko's Phylogeny Archive: "Caprimulgiformes" - Nightjars. Version of May 11, 2006. Retrieved November 8, 2007. In reality, the presumed distant relationship of the accipitrids—namely, the "Accipitriformes" according to Sibley and Ahlquist (1990)—with owls (and most other bird lineages) is most likely due to systematic error. Accipitrids have undergone drastic chromosome rearrangement and thus appear in DNA-DNA hybridization generally unlike other living birds.
+* ^ Mortimer, Michael (2004): The Theropod Database: Phylogeny of taxa. Retrieved 2013-MAR-02.
+* ^ a b c Olson, Storrs L. (1985): The fossil record of birds. In: Farner, D.S.; King, J.R. & Parkes, Kenneth C. (eds.): Avian Biology 8: 79-238 (131, 267). Academic Press, New York.
+* ^ Mayr, Gerald (2005). ""Old World phorusrhacids" (Aves, Phorusrhacidae): a new look at Strigogyps ("Aenigmavis") sapea (Peters 1987)". PaleoBios (Berkeley) 25 (1): 11–16.
+* ^ Alvarenga, Herculano M. F. & Höfling, Elizabeth (2003). "Systematic revision of the Phorusrhacidae (Aves: Ralliformes)". Papéis Avulsos de Zoologia 43 (4): 55–91. doi:10.1590/S0031-10492003000400001.
+* ^ Larco Herrera, Rafael and Berrin, Kathleen (1997) The Spirit of Ancient Peru Thames and Hudson, New York, ISBN 0500018022.
+* ^ Peters, Dieter Stefan (2007). "The fossil family Ameghinornithidae (Mourer-Chauviré 1981): a short synopsis". Journal of Ornithology 148 (1): 25–28. doi:10.1007/s10336-006-0095-z.
+* ^ Sánchez Marco, Antonio (2004). "Avian zoogeographical patterns during the Quaternary in the Mediterranean region and paleoclimatic interpretation". Ardeola 51 (1): 91–132.
+* ^ "Owls in Lore and Culture - The Owl Pages". Owlpages.com. Retrieved 2009-07-29.
+* ^ "La Cronica". Retrieved 2009-03-21.
+* ^ "The Popol Vuh". Retrieved 2008-07-23.
+* ^ "Owls", Hočąk Encyclopedia.
+* ^ Radin, Paul (1990 [1923]) The Winnebago Tribe, Lincoln: University of Nebraska Press, pp. 7-9 ISBN 0803257104.
+* ^ Smith, David Lee (1997) Folklore of the Winnebago Tribe, Norman: University of Oklahoma Press, p. 160
+* ^ "Glory of the Morning", Hočąk Encyclopedia.
+* ^ Lenders, E. W. (1914). "The Myth of the 'Wah-ru-hap-ah-rah,' or the Sacred Warclub Bundle". Zeitschrift für Ethnologie 46: 404–420 (409).
+* ^ World Owl Mythology. The Owl Pages.
+* ^ Deacy, Susan, and Villing, Alexandra (2001). Athena in the Classical World. Koninklijke Brill NV, Leiden, The Netherlands, ISBN 9004121420.
+* ^ Gimbutas, Marija (2001) The living goddesses, University of California Press, p 158 ISBN 0520927095.
+* ^ Thiselton-Dyer, T. F. (1883) Folk-lore of Shakespeare, sacred-texts.com
+* ^ 49. Hyperion. Keats, John. 1884. The Poetical Works of John Keats. Bartleby.com. Retrieved on 2013-03-02.
+* ^ "The Hungry Owl Project". Hungryowl.org. Retrieved 2009-07-29.
+* ^ http://www.telegraph.co.uk/news/newstopics/howaboutthat/9827609/Man-needed-hospital-treatment-after-owl-attack.html
+* ^ http://www.theguardian.com/uk/2007/aug/10/ukcrime.stevenmorris
+* ^ http://www.theguardian.com/uk/2007/aug/11/animalwelfare.world
+* ^ Wednesday (2008-11-12). "Wildlife Trade News - Huge haul of dead owls and live lizards in Peninsular Malaysia". Traffic. Retrieved 2009-07-29.
+
+Further reading* Calaprice, Alice & Heinrich, Bernd (1990): Owl in the House: A Naturalist's Diary. Joy Street Books, Boston. ISBN 0-316-35456-2
+* Heinrich, Bernd (1987): One Man's Owl
+* Johnsgard, Paul A. (2002): North American Owls: Biology and Natural History, 2nd ed. Smithsonian Institution Press, Washington DC. ISBN 1-56098-939-4.
+* Sibley, Charles Gald & Monroe, Burt L. Jr. (1990): Distribution and taxonomy of the birds of the world: A Study in Molecular Evolution. Yale University Press, New Haven, CT. ISBN 0-300-04969-2
+
+External links* The Owl Pages
+* Animal Diversity Web Page: Owls
+* Owl Brain Atlas
+* Smithsonian Snowy Owl Info
+* Owls of the Harry Potter movies - learn about the owls featured in the films, threats to the species, and conservation activities
+* World Owl Trust
+* Athenian Owl coins
+* Owl videos on the Internet Bird Collection
+
+Eurasia:
+
+* World of Owls - Northern Ireland's only Owl, Bird of Prey and Exotic Animal Centre
+* Current Blakiston's Fish Owl Research in Russia
+
+North America:
+
+* List of Owl Species Breeding In North American and Owl Photos
+
+Oceania:
+
+* iprimus info. re Australian owls and frogmouths
+
+* v
+* t
+* e
+
+Birds (class: Aves)
+
+Anatomy
+* Bird anatomy
+* Flight
+* Eggs
+* Feathers
+* Plumage
+* Beak
+* Vision
+* Dactyly
+* Preen gland
+
+Behaviour
+* Singing
+* Intelligence
+* Migration
+* Incubation
+* Brood parasites
+* Nesting
+* Hybrids
+
+Evolution
+* Evolution of birds
+* Origin of birds
+* Darwin's finches
+* Seabirds
+
+Subclass: Neornithes
+(29 orders of modern birds)
+
+Superorder: Palaeognathae
+
+* Struthioniformes (ratites)
+* Tinamiformes (tinamous)
+
+Superorder: Neognathae
+
+* Anseriformes (waterfowl)
+* Galliformes (gamebirds)
+* Opisthocomiformes (Hoatzin)
+* Pteroclidiformes (sandgrouses)
+* Columbiformes (doves and pigeons)
+* Phaethontiformes (tropicbirds)
+* Eurypygiformes (Kagu and Sunbittern)
+* Mesitornithiformes (mesites)
+* Podicipediformes (grebes)
+* Phoenicopteriformes (flamingos)
+* Caprimulgiformes (nightjars and relatives)
+* Apodiformes (swifts and hummingbirds)
+* Cuculiformes (cuckoos and relatives)
+* Gruiformes (cranes and relatives)
+* Gaviiformes (loons or divers)
+* Procellariiformes (albatrosses and petrels)
+* Ciconiiformes (storks)
+* Pelecaniformes (pelicans and relatives)
+* Suliformes (cormorants and relatives)
+* Sphenisciformes (penguins)
+* Charadriiformes (gulls and relatives)
+* Accipitriformes (eagles and hawks)
+* Trogoniformes (trogons and quetzals)
+* Coliiformes (mousebirds)
+* Strigiformes (owls)
+* Leptosomatiformes (Cuckoo Roller)
+* Coraciiformes (kingfishers and relatives)
+* Piciformes (woodpeckers and relatives)
+* Cariamiformes (seriemas and relatives)
+* Falconiformes (falcons and relatives)
+* Psittaciformes (parrots)
+* Passeriformes (perching birds)
+
+Fossil birds
+* Archaeopteryx
+* Enantiornithes
+* Hesperornithes
+
+Human–bird interaction
+* Ringing
+* Ornithology
+* Bird collections
+* Birdwatching
+* Bird feeding
+* Conservation
+* Aviculture
+* Waterfowl hunting
+* Cockfighting
+* Pigeon racing
+* Falconry
+* Pheasantry
+* Egg Collecting
+* Ornithomancy
+
+Lists
+* Families and orders
+* Genera
+* Lists by population
+* Lists by region
+* Extinct birds
+* Late Quaternary prehistoric birds
+* Sibley-Ahlquist taxonomy
+
+* Category
+* Portal
+* Outline

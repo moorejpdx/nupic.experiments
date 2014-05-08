@@ -1,0 +1,363 @@
+Jellyfish or jellies [1] are the major non-polyp form of individuals of the phylum Cnidaria. They are typified as free-swimming marine animals consisting of a gelatinous umbrella-shaped bell and trailing tentacles. The bell can pulsate for locomotion, while stinging tentacles can be used to capture prey.
+
+Jellyfish are found in every ocean, from the surface to the deep sea. A few jellyfish inhabit freshwater. Large, often colorful, jellyfish are common in coastal zones worldwide. Jellyfish have roamed the seas for at least 500 million years, [2] and possibly 700 million years or more, making them the oldest multi-organ animal. [3]
+
+Contents
+
+* 1 Terminology
+* 2 Anatomy* 2.1 Nervous system
+* 2.2 Vision
+* 2.3 Size
+
+* 3 Taxonomy
+* 4 Life history/behavior* 4.1 Phases
+* 4.2 Reproduction* 4.2.1 Spawning
+* 4.2.2 Budding
+* 4.2.3 Other development paths
+
+* 4.3 Brooding
+* 4.4 Lifespan
+* 4.5 Movement
+
+* 5 Ecology* 5.1 Diet
+* 5.2 Predation
+* 5.3 Blooms
+* 5.4 Population
+* 5.5 Habitats
+
+* 6 Relation to humans* 6.1 Gastronomy
+* 6.2 Fisheries
+* 6.3 Biotechnology
+* 6.4 Aquariums
+* 6.5 Toxicity
+* 6.6 Treatment
+* 6.7 Hazards
+
+* 7 Haeckel's medusae
+* 8 See also
+* 9 References
+* 10 External links
+
+TerminologyThe English popular name jellyfish has been in use since 1796. [4] It has traditionally also been applied to other animals sharing a superficial resemblance, for example ctenophores (members from another phylum of common, gelatinous and generally transparent or translucent, free-swimming planktonic carnivores now known as comb jellies) were included as "jellyfishes". [5] Even some scientists include the phylum ctenophora when they are referring to jellyfish. [6] Other scientists prefer to use the more all-encompassing term gelatinous zooplankton, when referring to these, together with other soft-bodied animals in the water column. [7]
+
+As jellyfish are not vertebrates, let alone true fish, the word jellyfish is considered by some to be a misnomer. Public aquariums may use the terms jellies or sea jellies instead. [8] Indeed, it may be said that the term "jellies" has become more popular than "jellyfish". [1] In scientific literature, "jelly" and "jellyfish" are often used interchangeably. [9] Some sources may use the term "jelly" to refer to organisms in this taxon, as "jellyfish" may be considered inappropriate. [10]
+
+Many textbooks and sources refer to only scyphozoa as "true jellyfish". [11] [12]
+
+A group of jellyfish is sometimes called a bloom or a swarm. [13] "Bloom" is usually used for a large group of jellyfish that gather in a small area, but may also have a time component, referring to seasonal increases, or numbers beyond what was expected. [14] Another collective name for a group of jellyfish is a smack, [15] although this term is not commonly used by scientists who study jellyfish. Jellyfish are "bloomy" by nature of their life cycles, being produced by their benthic polyps usually in the spring when sunshine and plankton increase, so they appear rather suddenly and often in large numbers, even when an ecosystem is in balance. [16] Using "swarm" usually implies some kind of active ability to stay together, which a few species such as Aurelia, the moon jelly, demonstrate. [17]
+
+Medusa jellyfish may be classified as scyphomedusae ("true" jellyfish), stauromedusae (stalked jellyfish), cubomedusae (box jellyfish), or hydromedusae, according to which clade their species belongs. [18]
+
+The term medusa was coined by Linnaeus in 1752, alluding to the tentacled head of Medusa in Greek mythology. [4] This term refers exclusively to the non-polyp life-stage which occurs in many cnidarians, which is typified by a large pulsating gelatinous bell with long trailing tentacles. All medusa-producing species belong to the sub-phylum Medusozoa.
+
+In biology, a medusa (plural: medusae) is a form of cnidarian in which the body is shaped like an umbrella, in contrast with polyps. Medusae vary from bell-shaped to the shape of a thin disk, scarcely convex above and only slightly concave below. The upper or aboral surface is called the exumbrella and the lower surface is called the subumbrella; the mouth is located on the lower surface, which may be partially closed by a membrane extending inward from the margin (called the velum). The digestive cavity consists of the gastrovascular cavity and radiating canals which extend toward the margin; these canals may be simple or branching, and vary in number from few to many. The margin of the disk bears sensory organs and tentacles as its said.
+
+German biologist Ernst Haeckel popularized medusae through his vivid illustrations, particularly in Kunstformen der Natur.
+
+AnatomyMost jellyfish do not have specialized digestive, osmoregulatory, central nervous, respiratory, or circulatory systems. The manubrium is a stalk-like structure hanging down from the centre of the underside, with the mouth at its tip. This opens into the gastrovascular cavity, where digestion takes place and nutrients are absorbed. It is joined to the radial canals which extend to the margin of the bell. [19] Jellyfish do not need a respiratory system since their skin is thin enough that the body is oxygenated by diffusion. They have limited control over movement, but can use their hydrostatic skeleton to navigate through contraction-pulsations of the bell-like body; some species actively swim most of the time, while others are mostly passive. [citation needed] Depending on the species, the body contains between 95 and 98% water. [20] Most of the umbrella mass is a gelatinous material — the jelly — called mesoglea which is surrounded by two layers of protective skin. The top layer is called the epidermis, and the inner layer is referred to as gastrodermis, which lines the gut.
+
+Nervous systemJellyfish employ a loose network of nerves, located in the epidermis, which is called a "nerve net". [21] Although traditionally thought not to have a central nervous system, nerve net concentration and ganglion-like structures could be considered to constitute one in most species. [22] A jellyfish detects various stimuli including the touch of other animals via this nerve net, which then transmits impulses both throughout the nerve net and around a circular nerve ring, through the rhopalial lappet, located at the rim of the jellyfish body, to other nerve cells.
+
+Another counter to the "brainless jellyfish" hypothesis [clarification needed] is that some species explicitly adapt to tidal flux to control their location. In Roscoe Bay, jellyfish ride the current at ebb tide until they hit a gravel bar, and then descend below the current. They remain in still waters waiting for the tide to rise, ascending and allowing it to sweep them back into the bay. They monitor salinity to avoid fresh water from mountain snowmelt, again by diving until they find enough salt. [3]
+
+VisionSome jellyfish have ocelli: light-sensitive organs that do not form images but which can detect light and are used to determine up from down, responding to sunlight shining on the water's surface. These are generally pigment spot ocelli, which have some cells (not all) pigmented.
+
+Certain species of jellyfish, such as the box jellyfish, have been revealed to be more advanced than their counterparts. The box jellyfish has 24 eyes, two of which are capable of seeing color, and four parallel information processing areas or rhopalia that act in competition, [23] supposedly making it one of the few creatures to have a 360-degree view of its environment. [24]
+
+The eyes are suspended on stalks with heavy crystals on one end, acting like a gyroscope to orient the eyes skyward. They look upward to navigate from roots in mangrove swamps to the open lagoon and back, watching for the mangrove canopy, where they feed. [3]
+
+SizeJellyfish range from about one millimeter in bell height and diameter to nearly two meters in bell height and diameter; the tentacles and mouth parts usually extend beyond this bell dimension.
+
+The smallest jellyfish are the peculiar creeping jellyfish in the genera Staurocladia and Eleutheria, which have bell disks from 0.5 mm to a few mm diameter, with short tentacles that extend out beyond this, on which these tiny jellyfish crawl around on seaweed or the bottoms of rocky pools. [25] Many of these tiny creeping jellyfish cannot be seen in the field without a hand lens or microscope; they can reproduce asexually by splitting in half (called fission). Other very small jellyfish, which have bells about one mm, are the hydromedusae of many species that have just been released from their parent polyps; [26] some of these live only a few minutes before shedding their gametes in the plankton and then dying, while others will grow in the plankton for weeks or months. The hydromedusae Cladonema radiatum and Cladonema californicum are also very small, living for months, yet never growing beyond a few mm in bell height and diameter. [27] Another small species of jellyfish is the Australian Irukandji, which is about the size of a fingernail. [3]
+
+The lion's mane jellyfish, Cyanea capillata, was long-cited as the largest jellyfish, and arguably the longest animal in the world, with fine, thread-like tentacles that may extend up to 36.5 metres (120 ft) long (though most are nowhere near that large). [28] [29] They have a moderately painful, but rarely fatal, sting. Claims that this jellyfish may be the longest animal in the world are likely exaggerated; some other planktonic cnidarians called siphonophores may typically be tens of meters long and seem a more legitimate candidate for longest animal. [citation needed]
+
+The increasingly common giant Nomura's jellyfish, Nemopilema nomurai, found in some, but not all years in the waters of Japan, Korea and China in summer and autumn is probably a much better candidate for "largest jellyfish", since the largest Nomura's jellyfish in late autumn can reach 200 centimetres (79 in) in bell (body) diameter and about 200 kilograms (440 lb) in weight, with average specimens frequently reaching 90 centimetres (35 in) in bell diameter and about 150 kilograms (330 lb) in weight. [30] [31] The large bell mass of the giant Nomura's jellyfish [32] can dwarf a diver and is nearly always much greater than the up-to-100 centimetres (39 in) bell diameter Lion's Mane. [33]
+
+The rarely encountered deep-sea jellyfish Stygiomedusa gigantea is another solid candidate for "largest jellyfish", with its thick, massive bell up to 100 centimetres (39 in) wide, and four thick, "strap-like" oral arms extending up to 6 metres (20 ft) in length, [34] very different from the typical fine, threadlike tentacles that rim the umbrella of more-typical-looking jellyfish, including the Lion's Mane.
+
+TaxonomySee also: alpha taxonomy, Linnean taxonomy, taxon, and binomial nomenclature
+
+Jellyfish belong to Medusozoa, the clade of cnidarians which excludes Anthozoa (e.g., corals and anemones). This suggests that the medusa form evolved after the polyps. [35]
+
+The phylogenetics of this group are complex and evolving. The Medusozoa appear to be a sister group to Octocorallia. [36] Staurozoa appears to be the earliest diverging; Cubozoa and the coronate Scyphozoa form a clade that is the sister group of Hydrozoa plus discomedusan Scyphozoa. The Hydrozoa are the sister group of discomedusan Scyphozoa. Limnomedusae (Trachylina) is the sister group of hydroidolinans. This group may be the earliest diverging lineage among Hydrozoa. Semaeostomeae is a paraphyletic clade with Rhizostomeae.
+
+The four major classes of medusozoan Cnidaria are:
+
+* Scyphozoa are often called true jellyfish. They have tetra-radial symmetry. They have tentacles around the outer margin of the bowl-shaped bell, and oral arms around the mouth.
+* Cubozoa (box jellyfish) have a box-shaped bell, and their velarium assists them to swim more quickly. Box jellyfish may be related more closely to "true jellyfish" than either are to hydrozoa. [35]
+* Hydrozoa may form medusa which resemble scyphozoans (but generally with a velum) and are distinguished by an absence of cells in the mesoglea. However, many hydrozoa species do not form medusa at all (such as hydra, which is hence not considered a jellyfish).
+* Staurozoa (stalked jellyfish) do not have a polyp stage, however the medusa is generally sessile, oriented upside down and with a stalk from the "bell" planted to the substrate. Until recently, staurozoa was classified within scyphozoa.
+
+Some other animals are frequently associated with or mistaken for medusa jellyfish.
+
+* Siphonophorae are an order of hydrozoa which generally live as colonies (for example, free-swimming chains of repeated units, some units similar to polyps or to medusa). They are not considered medusa jellyfish. A well-known example is the Portuguese Man o' War.
+* Ctenophores (comb jellies) are a separate phylum from Cnidaria. Their method of propulsion is cilia paddles rather than a pulsating bell.
+* Salps are transparent, gelatinous marine organisms that form pelagic colonies like siphonophores. Salps are chordates, and as such are actually more closely related to humans than they are to cnidarians and comb jellies. [37]
+
+There are over 200 species of Scyphozoa, about 50 species of Staurozoa, about 20 species of Cubozoa, and in Hydrozoa there are about 1000–1500 species that produce medusae (and many more hydrozoa species that do not). [38] [39]
+
+Many scientists who work on relationships between these groups are reluctant to assign ranks, although there is general agreement on the different groups, regardless of their absolute rank. Here is one scheme, which includes all groups that produce jellyfish, derived from several expert sources:
+
+Life history/behaviorSee also: Biological life cycle and Developmental biology
+
+PhasesJellyfish development occurs in multiple phases. Eggs and sperm develop into larval planulae, become polyps, bud into ephyrae and then transform into adult medusae. In some species, specimens may skip some phases. [47]
+
+The planula is a small larva covered with cilia. It settles onto a firm surface and develops into a polyp.
+
+The polyp is generally a small stalk with a mouth that is ringed by upward-facing tentacles. The polyps resemble the closely related Cnidaria anthozoan (sea anemones and corals) polyps. The jellyfish polyp may be sessile, living on the bottom or on another substrate such as floats or boat hulls, or it may be free-floating or attached to tiny bits of free-living plankton [48] or rarely, fish [49] [50] or other invertebrates. Polyps may be solitary or colonial. Polyp colonies form by strobilation, in which multiple polyps share a common stomach cavity. [51] Most polyps are only millimeters in size. They feed continuously. The polyp stage may last for years.
+
+The next stage is the ephyra, which is a free-swimming precursor of the final adult stage.
+
+The ephyra then develops into a medusa. The medusa is the life stage that is typically identified as a jellyfish.
+
+ReproductionJellyfish reproduce both sexually and asexually.
+
+SpawningUpon reaching adult size, jellyfish spawn daily given enough food. In most species, spawning is controlled by light, so the entire population spawns at about the same time of day, often at either dusk or dawn. [52] Jellyfish are usually either male or female (with occasional hermaphrodites). In most cases, adults release sperm and eggs into the surrounding water, where the (unprotected) eggs are fertilized and mature into new organisms.
+
+BuddingAfter a growth interval, the polyp begins reproducing asexually by budding and, in the Scyphozoa, is called asegmenting polyp, or a scyphistoma. Budding produces more scyphistomae and also ephyrae. Budding sites vary by species; from the tentacle bulbs, the manubrium (above the mouth), or the gonads of hydromedusae. [48]
+
+Polyps asexually produce free-swimming ephyra, which then become a medusa. New specimens (usually only a millimeter or two across) swim away from the polyp and then grow. [citation needed]
+
+Other development pathsA few species can produce new medusae by budding directly from the medusan stage. Some hydromedusae reproduce by fission (splitting in half). [48] A few omit the planula, polyp and ephyra phases and produce new medusae directly from eggs. [citation needed]
+
+Some polyps can asexually produce a creeping frustule larval form, which then develops into another polyp.
+
+BroodingIn a few species, the sperm swim into the female's mouth, fertilizing the eggs within her body, where they remain during early development stages. In moon jellies, the eggs lodge in pits on the oral arms, which form a temporary brood chamber for the developing planula larvae.
+
+LifespanJellyfish lifespans typically range from a few hours (in the case of some very small hydromedusae) to several months. Life generally ends after the medusa has begun spawning. Life span varies by species. Most large coastal jellyfish live 2 to 6 months, during which they grow from a millimeter or two to many centimeters in diameter.
+
+Aquarium jellyfish that are carefully tended, fed daily even when food might be seasonally rare in the wild, and sometimes treated with antibiotics if they develop infections, may live several years, though this would be very unusual in the wild.
+
+One unusual species is reported to live as long as 30 years. [citation needed] Another unusual species, T. nutricula, falsely reported as Turritopsis dohrnii, might be effectively immortal because of its ability under certain circumstances to transform from medusa back to the polyp stage, thereby escaping the death that typically awaits medusae post-reproduction if they have not otherwise been eaten by some other ocean organism. So far this reversal has been observed only in the laboratory. [53]
+
+MovementJellyfish move through the water by radially expanding and contracting their bell-shaped bodies to push water behind them. They pause between the contraction and expansion to create a vortex that pushes them forward. The displaced water creates a “hole” that when re-filled, propels them forward. The vortex allows the animal to travel 30 percent farther on each stroke. This reduces the energy required. Jellyfish achieved a 48 percent lower cost of transport (the amount of food and oxygen consumed, versus energy spent in movement) than other animals in similar studies.. [54] [55]
+
+EcologyDietJellies are carnivorous, feeding on plankton, crustaceans, fish eggs, small fish and other jellyfish, ingesting and voiding through the same hole in the middle of the bell. Jellies hunt passively using their tentacles as drift nets.
+
+PredationOther species of jellyfish are among the most common and important jellyfish predators, some of which specialize in jellies. Other predators include tuna, shark, swordfish, sea turtles, and at least one species of Pacific salmon. Sea birds sometimes pick symbiotic crustaceans from the jellyfish bells near the sea's surface, inevitably feeding also on the jellyfish hosts of these amphipods or young crabs and shrimp.
+
+BloomsIncrease (low certainty)
+
+Stable/variable
+
+Decrease
+
+No data
+
+Jellyfish bloom formation is a complex process that depends on ocean currents, nutrients, sunshine, temperature, season, prey availability, reduced predation and oxygen concentrations. Ocean currents tend to congregate jellyfish into large swarms or "blooms", consisting of hundreds or thousands of individuals. Blooms can also result from unusually high populations in some years. Jellyfish are better able to survive in nutrient-rich, oxygen-poor water than competitors, and thus can feast on plankton without competition. Jellyfish may also benefit from saltier waters, as saltier waters contain more iodine, which is necessary for polyps to turn into jellyfish. Rising sea temperatures caused by climate change may also contribute to jellyfish blooms, because many species of jellyfish are relatively better able to survive in warmer waters. [57]
+
+Scientists have little historic data about jellyfish populations. [16]
+
+One hypothesis is that the global increase in jellyfish bloom frequency may stem from human impact. In some locations jellyfish may be filling ecological niches formerly occupied by now overfished creatures, but this hypothesis lacks supporting data. [16] Youngbluth states that "jellyfish feed on the same kinds of prey as adult and young fish, so if fish are removed from the equation, jellyfish are likely to move in." [58]
+
+Some jellyfish populations that have shown clear increases in the past few decades are invasive species, newly arrived from other habitats: examples include the Black Sea, Caspian Sea, Baltic Sea, central and eastern Mediterranean, Hawaii, and tropical and subtropical parts of the West Atlantic (including the Caribbean, Gulf of Mexico and Brazil). [59] [60] Invasive populations can expand rapidly because they often face no predators in the new habitat.
+
+Increased nutrients, ascribed to agricultural runoff, have been cited as contributing to jellyfish proliferation. Graham states, "ecosystems in which there are high levels of nutrients ... provide nourishment for the small organisms on which jellyfish feed. In waters where there is eutrophication, low oxygen levels often result, favoring jellyfish as they thrive in less oxygen-rich water than fish can tolerate. The fact that jellyfish are increasing is a symptom of something happening in the ecosystem." [58]
+
+PopulationJellyfish populations may be expanding globally as a result of overfishing of their natural predators and the availability of excessive nutrients due to land runoff. [61] [62] When marine ecosystems become disturbed jellyfish can proliferate. For example, jellyfish reproduce rapidly and have fast growth rates; they predate many species, while few species predate them; and they feed via touch rather than visually, so they can feed effectively at night and in turbid waters. [63] [64] It may become difficult for fish stocks to reestablish themselves in marine ecosystems once they have become dominated by jellyfish, because jellyfish feed on plankton, which includes fish eggs and larvae. [65] [66]
+
+HabitatsAlthough most jellyfish are marine animals, some inhabit freshwater. This is most common for hydromedusae (in fact many hydrozoa inhabit freshwater). The best known example is the cosmopolitan freshwater jellyfish, Craspedacusta sowerbii. It is less than an inch (2.5 cm) in diameter, colorless and does not sting.
+
+Some other jellyfish populations have also become restricted into lakes, such as Jellyfish Lake in Palau.
+
+Although what first comes to mind as the common domain of jellyfish is living well up off the ocean floor in the plankton, a few species of jellyfish are closely associated with the bottom for much of their lives (that is, they can be considered benthic). The upside-down jellyfish in the genus Cassiopea typically lie on the bottom of shallow lagoons where they sometimes pulsate gently with their umbrella top facing down. The tiny creeping jellyfish Staurocladia and Eleutheria (see section on Size, above) cannot swim and "walk" around on seaweed fronds or rocky bottoms on their tentacles. Most hydromedusae and scyphomedusae that live in coastal habitats find themselves on the bottom periodically, where they may stop swimming for a while, and certain box jellyfish species also rest on the sea bed in shallow water. [67] Even some deep-sea species of hydromedusae and scyphomedusae are usually collected on or near the bottom. All of the stauromedusae are found attached to either seaweed or rocky or other firm material on the bottom. [68]
+
+Relation to humansGastronomyIn some countries, such as Japan and Korea, jellyfish are known as a delicacy. "Dried jellyfish" has become increasingly popular throughout the world. The jellyfish is dried to prevent spoiling; if not dried they can spoil within a matter of hours. Once dried, they can be stored for weeks at a time. Only scyphozoan jellyfish belonging to the order Rhizostomeae are harvested for food; about 12 of the approximately 85 species. Most of the harvest takes place in southeast Asia. [69] Rhizostomes, especially Rhopilema esculentum in China (海蜇 hǎizhē, "sea stings") and Stomolophus meleagris (cannonball jellyfish) in the United States, are favored because of their larger and more rigid bodies and because their toxins are harmless to humans. [70]
+
+Traditional processing methods, carried out by a Jellyfish Master, involve a 20- to 40-day multi-phase procedure in which after removing the gonads and mucous membranes, the umbrella and oral arms are treated with a mixture of table salt and alum, and compressed. Processing reduces liquefaction, odor, the growth of spoilage organisms, and makes the jellyfish drier and more acidic, producing a "crunchy and crispy texture." Jellyfish prepared this way retain 7–10% of their original weight, and the processed product contains approximately 94% water and 6% protein. Freshly processed jellyfish has a white, creamy color and turns yellow or brown during prolonged storage.
+
+In China, processed jellyfish are desalted by soaking in water overnight and eaten cooked or raw. The dish is often served shredded with a dressing of oil, soy sauce, vinegar and sugar, or as a salad with vegetables. In Japan, cured jellyfish are rinsed, cut into strips and served with vinegar as an appetizer. [70] [71] Desalted, ready-to-eat products are also available. [70]
+
+FisheriesFisheries have begun harvesting the American cannonball jellyfish, Stomolophus meleagris, along the southern Atlantic coast of the United States and in the Gulf of Mexico for export to Asia. [70]
+
+Jellyfish are also harvested for their collagen, which can be used for a variety of applications including the treatment of rheumatoid arthritis.
+
+BiotechnologyIn 1961, Osamu Shimomura extracted green fluorescent protein (GFP) and another bioluminescent protein, called aequorin, from the large and abundant hydromedusa Aequorea victoria, while studying photoproteins that cause bioluminescence in this species. Three decades later, Douglas Prasher sequenced and cloned the gene for GFP. Martin Chalfie figured out how to use GFP as a fluorescent marker of genes inserted into other cells or organisms. Roger Tsien later chemically manipulated GFP to produce other fluorescent colors to use as markers. In 2008, Shimomura, Chalfie and Tsien won the Nobel Prize in Chemistry for their work with GFP.
+
+Man-made GFP became commonly used as a fluorescent tag to show which cells or tissues express specific genes. The genetic engineering technique fuses the gene of interest to the GFP gene. The fused DNA is then put into a cell, to generate either a cell line or (via IVF techniques) an entire animal bearing the gene. In the cell or animal, the artificial gene turns on in the same tissues and the same time as the normal gene, making GFP instead of the normal protein. Illuminating the animal or cell reveals what tissues express that protein—or at what stage of development. The fluorescence shows where the gene is expressed. [73]
+
+AquariumsJellyfish are displayed in many public aquariums. Often the tank's background is blue and the animals are illuminated by side light, increasing the contrast between the animal and the background. In natural conditions, many jellies are so transparent that they are nearly invisible.
+
+Jellyfish are not adapted to closed spaces. They depend on currents to transport them from place to place. Professional exhibits feature precise water flows, typically in circular tanks to avoid trapping specimens in corners. The Monterey Bay Aquarium uses a modified version of the kreisel (German for "spinning top") for this purpose. The outflow is spread out over a large surface area and the inflow enters as a sheet of water in front of the outflow, so the jellyfish don't get sucked into it. [74] As of 2009, jellyfish were becoming popular in home aquariums. [75] [76] [77] [78] These home aquariums generate this special water flow pattern using an air-lift pump [79] and require special food for the jellyfish, which can be shipped from suppliers to their final destination.
+
+ToxicityJellyfish sting their prey using nematocysts, also called cnidocysts, stinging structures located in specialized cells called cnidocytes, which are characteristic of all Cnidaria. Contact with a jellyfish tentacle can trigger millions of nematocysts to pierce the skin and inject venom, [80] yet only some species' venom cause an adverse reaction in humans. When a nematocyst is triggered by contact by predator or prey, pressure builds up rapidly inside it up to 2,000 pounds per square inch (14,000 kPa) until it bursts. A lance inside the nematocyst pierces the victim's skin, and poison flows through into the victim. [81] Touching or being touched by a jellyfish can be very uncomfortable, sometimes requiring medical assistance; sting effects range from no effect to extreme pain to death. Even beached and dying jellyfish can still sting when touched.
+
+Scyphozoan jellyfish stings range from a twinge to tingling to agony. [82] Most jellyfish stings are not deadly, but stings of some species of the class Cubozoa and the Box jellyfish, such as the famous and especially toxic Irukandji jellyfish, can be deadly. Stings may cause anaphylaxis, which can be fatal. Medical care may include administration of an antivenom.
+
+In 2010, at a New Hampshire beach, pieces of a single dead lion's mane jellyfish stung between 125 and 150 people. [83] [84] Jellyfish kill 20 to 40 people a year in the Philippines alone. [82] In 2006 the Spanish Red Cross treated 19,000 stung swimmers along the Costa Brava. [82]
+
+An Australian box jellyfish called the sea wasp can kill a grown man in a matter of seconds or minutes. Because the harpoons are so short, however, Australians have learned that they can protect themselves while swimming in sea wasp waters simply by covering their exposed skin with pantyhose. [3]
+
+TreatmentThe three goals of first aid for uncomplicated stings are to prevent injury to rescuers, deactivate the nematocysts, and remove tentacles attached to the patient. Rescuers usually wear barrier clothing, such as pantyhose, wet suits or full-body sting-proof suits while removing jellies or tentacles from injured. Deactivating the nematocysts (stinging cells) prevents further injection of venom.
+
+Vinegar (3–10% aqueous acetic acid) may be used as a common remedy to help with box jellyfish stings, [85] [86] but not the stings of the Portuguese Man o' War (which is not a true jellyfish, but a colony). [85] For stings on or around the eyes, a towel dampened with vinegar may be used to dab around the eyes, with care taken to avoid the eyeballs. Salt water may be used as an alternative if vinegar is unavailable; [85] [87] and may be preferred over vinegar. [88] Fresh water is not usually used if the sting occurs in salt water, as changes in tonicity [89] can release additional venom. Rubbing wounds, or using alcohol, spirits, ammonia, or urine may have strongly negative effects as these can encourage the release of venom. [90]
+
+Clearing the area of jelly, tentacles, and wetness further reduces nematocyst firing. [90] Scraping the affected skin with a knife edge, safety razor, or credit card may remove remaining nematocysts. [91]
+
+Beyond initial first aid, antihistamines such as diphenhydramine (Benadryl) may control skin irritation (pruritus). [91] Ice or fresh water is not usually applied to stings, since they may cause nematocysts to continue to release toxin. [92] [93] Immunobased antivenins have been available since the 1970s; [94] administration requires medical personnel and refrigeration and are used in extreme cases as with regard to the box jellyfish, Chironex. [95]
+
+HazardsJellyfish adversely affect humanity by interfering with public systems and harming swimmers. [82] The most obvious consequences are human injury or death and reduced coastal tourism. Jellies destroy fish nets, poison or crush captured fish, and consume fish eggs and young fish. [96]
+
+Jellyfish can clog cooling equipment, disabling power plants in several countries. Jellyfish caused a cascading blackout in the Philippines in 1999, [82] as well as damaging the Diablo Canyon Power Plant in California in 2008. [97] Clogging can stop desalination plants, as well as clogging ship engines [96] and infesting fishing nets. [98]
+
+Haeckel's medusaeIllustrations of medusae by German biologist Ernst Haeckel:
+
+*
+
+Narcomedusae
+
+*
+
+Discomedusae
+
+*
+
+Trachomedusae
+
+*
+
+Discomedusae
+
+*
+
+Leptomedusae
+
+*
+
+Peromedusae
+
+*
+
+Anthomedusae
+
+*
+
+Stauromedusae
+
+*
+
+Cubomedusae (modern Cubozoa)
+
+*
+
+Discomedusae
+
+*
+
+Discomedusae
+
+See also* Jellyfish dermatitis
+* List of prehistoric medusozoans
+* Ocean sunfish, a significant jellyfish predator
+
+References* ^ a b Van Patten, Peg. "Sting". (2004). Wrack Lines. Paper 11.
+* ^ Fossil Record Reveals Elusive Jellyfish More Than 500 Million Years Old. ScienceDaily (2007-11-02).
+* ^ a b c d e ANGIER, NATALIE (June 6, 2011). "So Much More Than Plasma and Poison". The New York Times. Retrieved 2 December 2011.
+* ^ a b jellyfish. Online Etymology Dictionary. Etymonline.com. Retrieved on 2013-01-10.
+* ^ Kelman, Janet Harvey; Rev. Theodore Wood (1910). The Sea-Shore, Shown to the Children. London: T. C. & E. C. Jack. p. 146.
+* ^ Kaplan, Eugene H.; Kaplan, Susan L.; Peterson, Roger Tory (August 1999). A Field Guide to Coral Reefs: Caribbean and Florida. Boston : Houghton Mifflin. p. 55. ISBN 0-618-00211-1. Retrieved 2009-08-31.
+* ^ Haddock, S.H.D., and Case, J.F. (April 1999). "Bioluminescence spectra of shallow and deep-sea gelatinous zooplankton: ctenophores, medusae and siphonophores". Marine Biology 133 (3): 571. doi:10.1007/s002270050497. Retrieved 2009-09-09.
+* ^ Flower Hat Jelly, New York Aquarium.
+* ^ See, e.g., Brotz, Lucas. Changing Jellyfish Populations: Trends in Large Marine Ecosystems. 2011. p.1.
+* ^ Coulombe, Deborah A. (14 February 1990). Seaside Naturalist: A Guide to Study at the Seashore. Simon & Schuster. p. 60. Retrieved 20 March 2013.
+* ^ Klappenbach, Laura. "Ten Facts about Jellyfish". Retrieved 24 January 2010.
+* ^ "What are some determining characteristics of jellyfish in the class, Scyphozoa?". Retrieved 24 January 2010.
+* ^ "Jellyfish Gone Wild" (Text of Flash). National Science Foundation. 3 March 2009. Retrieved 17 November 2009. "In recent years, massive blooms of stinging jellyfish and jellyfish-like creatures have overrun some of the world’s most important fisheries and tourist destinations.... Jellyfish swarms have also damaged fisheries, fish farms, seabed mining operations, desalination plants and large ships."
+* ^ "Jellyfish Take Over an Over-Fished Area". 21 July 2006. Retrieved 19 November 2009.
+* ^ "Smack: a smattering; a taste; a small quantity. Examples: smack of jellyfish – Lipton, 1970; of knowledge; of my muse, 1766; ..." from The Free Dictionary. For more detail see An exaltation of larks by James Lipton.
+* ^ a b c Mills, C.E. (2001). "Jellyfish blooms: are populations increasing globally in response to changing ocean conditions?". Hydrobiologia 451: 55–68. doi:10.1023/A:1011888006302.
+* ^ Hamner, W. M.; P. P. Hamner, S. W. Strand (1994). "Sun-compass migration by Aurelia aurita (Scyphozoa): population retention and reproduction in Saanich Inlet, British Columbia". Marine Biology 119 (3): 347–356. doi:10.1007/BF00347531.
+* ^ "‪There's no such thing as a jellyfish‬‏". YouTube. Retrieved 2011-07-05.
+* ^ Medusa Encyclopedia Britannica. Retrieved 2011-12-08.
+* ^ Hsieh, Yun-Hwa and Rudloe, Jack (1994) "Potential of utilizing jellyfish as food in Western countries" Trends in Food Science & Technology, 5 (7): 225–229. doi:10.1016/0924-2244(94)90253-4
+* ^ Satterlie RA (2002) "Neuronal control of swimming in jellyfish: a comparative story", Canadian Journal of Zoology, 80: 1654–1669. doi:10.1139/z02-138
+* ^ Satterlie, Richard A. (April 2011). "Do jellyfish have central nervous systems?". Journal of Experimental Biology 214: 1215–1223. doi:10.1242/jeb.043687. Retrieved 7 May 2013.
+* ^ Wehner R (2005). "Sensory physiology: brainless eyes". Nature 435 (7039): 157–9. doi:10.1038/435157a. PMID 15889076.
+* ^ Multi-eyed jellyfish helps with Darwin's puzzle. Newscientist.com (2005-05-14). Retrieved on 2013-01-10.
+* ^ Mills, C.E.; Hirano, Y.M. (2007). =Encyclopedia of Tidepools and Rocky Shores: Hydromedusae. University of California Press. pp. 286–288. ISBN 0520251180.
+* ^ Mills, C.E. (1976). "Podocoryne selena, a new species of hydroid from the Gulf of Mexico, and a comparison with Hydractinia echinata". Biological Bulletin 151: 214–224. doi:10.2307/1540715.
+* ^ Costello, J. (1988). "Laboratory culture and feeding of the hydromedusa Cladonema californicum Hyman (Anthomedusa: Cladonemidae)". Journal of Experimental Marine Biology and Ecology 123 (2): 177–188. doi:10.1016/0022-0981(88)90168-2.
+* ^ "Rare sighting of a lion’s mane jellyfish in Tramore Bay". Waterford Today. 2007-08-01. Archived from the original on 2010-05-30. Retrieved 2010-10-18.
+* ^ "Lion’s Mane Jellyfish – Reference Library". redOrbit. Retrieved 2010-10-18.
+* ^ Omori, Makoto; Kitamura, Minoru (2004). "Taxonomic review of three Japanese species of edible jellyfish (Scyphozoa: Rhizostomeae)" (PDF). Plankton Biology and Ecology 51 (1): 36–51.
+* ^ Uye, Shin-Ichi (2008). "Blooms of the giant jellyﬁsh Nemopilema nomurai: a threat to the ﬁsheries sustainability of the East Asian Marginal Seas". Plankton & Benthos Research. 3 (Supplement): 125–131. doi:10.3800/pbr.3.125.
+* ^ "Giant Echizen jellyfish off Japan coast". BBC. 2009-11-30.
+* ^ Kramp, P.L. (1961). "Synopsis of the medusae of the world". Journal of the Marine Biological Association of the United Kingdom 40: 1–469.
+* ^ Bourton, Jody (2010-04-23). "Giant deep sea jellyfish filmed in Gulf of Mexico". BBC Earth News.
+* ^ a b Cnidaria, Tree of Life. A comprehensive morphological cladistic analysis by Schuchert (1993) supports the basal position of Anthozoa with the Scyphozoa and Cubozoa being more closely related to each other than to Hydrozoa. Morphological, mtDNA, and 18S rDNA data separately and together also support the basal position of Anthozoa but do not resolve the relationships among Scyphozoa, Cubozoa and Hydrozoa (Bridge et al. 1995).
+* ^ Zou H, Zhang J, Li W, Wu S, Wang G (2012) Mitochondrial Genome of the Freshwater Jellyfish Craspedacusta sowerbyi and Phylogenetics of Medusozoa. PLoS One 7(12):e51465. doi: 10.1371/journal.pone.0051465
+* ^ Salps (wildlife), Antartic Division, Australian Government website.
+* ^ Marques, A.C.; A. G. Collins (2004). "Cladistic analysis of Medusozoa and cnidarian evolution". Invertebrate Biology 123: 23–42. doi:10.1111/j.1744-7410.2004.tb00139.x.
+* ^ Kramp, P.L. (1961). "Synopsis of the Medusae of the World". Journal of the Marine Biological Association of the United Kingdom 40: 1–469.
+* ^ a b c d e Schuchert, Peter. "The Hydrozoa Directory". Retrieved 2008-08-11.
+* ^ Mills, C.E., D.R. Calder, A.C. Marques, A.E. Migotto, S.H.D. Haddock, C.W. Dunn and P.R. Pugh, 2007. Combined species list of Hydroids, Hydromedusae, and Siphonophores. pp. 151–168. In Light and Smith's Manual: Intertidal Invertebrates of the Central California Coast. Fourth Edition (J.T. Carlton, editor). University of California Press, Berkeley ISBN 0520239393.
+* ^ Mills, Claudia E. "Stauromedusae: List of all valid species names". Retrieved 2008-08-11.
+* ^ Dawson, Michael N. "The Scyphozoan". Retrieved 2008-08-11.
+* ^ Daly M, Brugler MR, Cartwright P, Collins AG, Dawson MN, Fautin DG, France SC, Mcfadden CS, Opresko DM, Rodriguez E, Romano SL, Stake JL (2007). "The phylum Cnidaria: A review of phylogenetic patterns and diversity 300 years after Linnaeus". Zootaxa 1668: 127–182.
+* ^ Bayha, K. M., and M. N. Dawson (2010). "New family of allomorphic jellyfishes, Drymonematidae (Scyphozoa, Discomedusae), emphasizes evolution in the functional morphology and trophic ecology of gelatinous zooplankton". The Biological Bulletin 219 (3): 249–267. PMID 21183445.
+* ^ Straehler-Pohl, I., C. L. Widmer, and A. C. Morandini (2011). "Characterizations of juvenile stages of some semaeostome Scyphozoa (Cnidaria), with recognition of a new family (Phacellophoridae)". Zootaxa 2741: 1–37.
+* ^ "How do jellyfish reproduce? What effect does their sting have on humans? What's the difference between red and translucent jellyfish?". Scientific American. 2013-10-15. Retrieved 2013-10-22.
+* ^ a b c Mills, C. E. (1987). "In situ and shipboard studies of living hydromedusae and hydroids: preliminary observations of life-cycle adaptations to the open ocean". Modern Trends in the Systematics, Ecology, and Evolution of Hydroids and Hydromedusae (Oxford: Clarendon Press). ISBN 0198571909.
+* ^ Fewkes, J. Walter (1887). "A hydroid parasitic on a fish". Nature 36 (939): 604–605. doi:10.1038/036604b0.
+* ^ Schuchert, Peter. "The Hydrozoa". Retrieved 24 January 2010.
+* ^ Jellyfish – The Life Cycle of a Jellyfish. Animals.about.com. Retrieved on 2013-01-10.
+* ^ Mills, Claudia (1983). "Vertical migration and diel activity patterns of hydromedusae: studies in a large tank". Journal of Plankton Research 5 (5): 619–635. doi:10.1093/plankt/5.5.619.
+* ^ Piraino, S.; Boero, F.; Aeschbach, B.; Schmid, V. (1996). "Reversing the life cycle: medusae transforming into polyps and cell transdifferentiation in Turritopsis nutricula (Cnidaria, Hydrozoa)". Biological Bulletin 190 (3): 302–312. doi:10.2307/1543022. JSTOR 1543022.
+* ^ "Jellyfish energy efficiency to improve bio-inspired robotic designs for Navy". KurzweilAI. doi:10.1073/pnas.1306983110. Retrieved 2013-10-22.
+* ^ Gemmell, B. J.; Costello, J. H.; Colin, S. P.; Stewart, C. J.; Dabiri, J. O.; Tafti, D.; Priya, S. (2013). "Passive energy recapture in jellyfish contributes to propulsive advantage over other metazoans". Proceedings of the National Academy of Sciences. doi:10.1073/pnas.1306983110. edit
+* ^ Brotz, Lucas; Cheung, William W. L.; Kleisner Kristin; Pakhomov, Evgeny; Pauly, Daniel (2012). "Increasing jellyfish populations: trends in Large Marine Ecosystems". Hydrobiologia 688.
+* ^ Shubin, Kristie (10 December 2008). "Anthropogenic Factors Associated with Jellyfish Blooms – Final Draft II". Retrieved 19 November 2009.
+* ^ a b The Washington Post, republished in the European Cetacean Bycatch Campaign, Jellyfish “blooms” could be sign of ailing seas, May 6, 2002. Retrieved November 25, 2007.
+* ^ Abed-Navandi, D., and R. Kikinger (2007). "First record of the tropical scyphomedusa Phyllorhiza punctata von Lendenfeld, 1884 (Cnidaria: Rhizostomeae) in the Central Mediterranean Sea". Aquatic Invasions 2 (4): 391–394. doi:10.3391/ai.2007.2.4.7.
+* ^ World's most invasive jellyfish spreading along Israel coast Haaretz article from June 15, 2009
+* ^ Hays GC, T Bastian, TK Doyle, S Fossette, AC Gleiss, MB Gravenor, VJ Hobson, NE Humphries, MKS Lilley, NG Pade and DW Sims (2011) "High activity and Lévy searches: jellyfish can search the water column like fish" Proc. R. Soc. B, [Epub ahead of print] doi:10.1098/rspb.2011.0978
+* ^ Pauly, D., Christensen, V., Dalsgaard, J., Froese, R. & Torres Jr, F. (1998) "Fishing down marine food webs" Science, 279: 860–863. doi:10.1126/science.279.5352.860
+* ^ Richardson, A. J., Bakun, A., Hays, G. C. & Gibbons, M. J. (2009) "The jellyfish joyride: causes, consequences and management responses to a more gelatinous future" Trends Ecol.Evol., 24: 312–322. doi:10.1016/j.tree. 2009.01.010
+* ^ Aksnes, D. L., Nejstgaard, J., Sædberg, E. & Sørnes, T. (2004) "Optical control of fish and zooplankton populations" Limnol. Oceanogr. 49: 233–238. doi:10.4319/lo. 2004.49.1.0233
+* ^ Lynam, C. P., Gibbons, M. J., Axelsen, B. E., Sparks, C. A. J., Coetzee, J., Heywood, B. G. & Brierley, A. S. (2006) "Jellyfish overtake fish in a heavily fished ecosystem" Curr. Biol. 16: 492–493. doi:10.1016/j.cub.2006.06.018
+* ^ Pauly, D., Graham, W., Libralato, S., Morissette, L. & Palomares, M. L. D. (2009) "Jellyfish in ecosystems, online databases, and ecosystem models" Hydrobiologia, 616: 67–85.doi:10.1007/s10750-008-9583-x
+* ^ Kavanau, J. Lee (2006). "Is sleep's 'supreme mystery' unraveling? An evolutionary analysis of sleep encounters no mystery; nor does life's earliest sleep, recently discovered in jellyfish". Medical Hypotheses 66 (1): 3–9. doi:10.1016/j.mehy.2005.08.036. PMID 16213664.
+* ^ Mills, C.E.; Hirano, Y.M. (2007). "Stauromedusae". Encyclopedia of Tidepools and Rocky Shores: 541–543.
+* ^ Omori, M., Nakano, E. (2001). "Jellyfish fisheries in southeast Asia". Hydrobiologia 451: 19–26. doi:10.1023/A:1011879821323.
+* ^ a b c d Y-H. Peggy Hsieh, Fui-Ming Leong, and Jack Rudloe (2001). "Jellyfish as food". Hydrobiologia 451 (1–3): 11–17. doi:10.1023/A:1011875720415.
+* ^ Firth, F.E. (1969). The Encyclopedia of Marine Resources. New York: Van Nostrand Reinhold Co. New York. ISBN 0-442-22399-4.
+* ^ Based on data extracted from the FishStat database
+* ^ Pieribone, V. and D.F. Gruber (2006). Aglow in the Dark: The Revolutionary Science of Biofluorescence. Harvard University Press. ISBN 0674024133.
+* ^ US Patent for Jellyfish Tank https://www.google.com/patents/USD669229?dq=jellyfish+tank&hl=en&sa=X&ei=ydcOUujaPKa0igL35oHQAw&sqi=2&pjf=1&ved=0CEQQ6AEwAg
+* ^ Richtel, Matt (2009-03-14). "How to Avoid Liquefying Your Jellyfish". The New York Times. Retrieved 6 May 2010.
+* ^ "Garage brands". Airtran Magazine. Retrieved 2010-10-18.
+* ^ "Jellyfish Art".
+* ^ "How to Start a Jellyfish Tank". wikiHow. 2010-10-07. Retrieved 2010-10-18.
+* ^ US Patent on Air-Lift Jellyfish Tank https://www.google.com/patents/US8393298?dq=jellyfish+tank&hl=en&sa=X&ei=ydcOUujaPKa0igL35oHQAw&sqi=2&pjf=1&ved=0CEsQ6AEwAw
+* ^ Purves WK, Sadava D, Orians GH, Heller HC. 1998. Life. The Science of Biology. Part 4: The Evolution of Diversity. Chapter 31
+* ^ KB Results
+* ^ a b c d e Tucker, Abigail (July 2010). "The New King of the Sea". Smithsonian.
+* ^ Ouch! Jellyfish stings 150 on N.H. beach, Boston Globe, July 21, 2010
+* ^ Death Does Not Deter Jellyfish Sting, The New York Times, July 22, 2010
+* ^ a b c Fenner P, Williamson J, Burnett J, Rifkin J (1993). "First aid treatment of jellyfish stings in Australia. Response to a newly differentiated species". Med J Aust 158 (7): 498–501. PMID 8469205.
+* ^ Currie B, Ho S, Alderslade P (1993). "Box-jellyfish, Coca-Cola and old wine". Med J Aust 158 (12): 868. PMID 8100984.
+* ^ Yoshimoto C; Leong, Fui-Ming; Rudloe, Jack (2006). "Jellyfish species distinction has treatment implications". Am Fam Physician 73 (3): 391. PMID 16477882.
+* ^ "Does urine help a jellyfish sting?". Health Library > Medial Myths. University of Arkansas for Medical Sciences. Retrieved 2013-03-16. "Dr. Pait suggests the best thing to do is to immediately get out of the water and wash the affected area with salt water. Salt water will deactivate the stinging cells while fresh or tap water can reactive the stinging cells. It is also helpful to try to remove the cells carefully with something such as a credit card."
+* ^ Paul Auerbach, M.D. (2008-01-19). "Meat Tenderizer for a Jellyfish Sting". Healthline.com. Retrieved 2010-10-18.
+* ^ a b Hartwick R, Callanan V, Williamson J (1980). "Disarming the box-jellyfish: nematocyst inhibition in Chironex fleckeri". Med J Aust 1 (1): 15–20. PMID 6102347.
+* ^ a b Perkins R, Morgan S (2004). "Poisoning, envenomation, and trauma from marine creatures". Am Fam Physician 69 (4): 885–90. PMID 14989575.
+* ^ "Jellyfish Stings Causes, Symptoms, Treatment – Jellyfish Stings Treatment on eMedicineHealth". Emedicinehealth.com. 2011-04-07. Retrieved 2011-07-05.
+* ^ "Jellyfish sting treatment?". Healthcareask.com. Retrieved 2010-10-18.
+* ^ Baxter, E.H.; A.G.M. Marr (May 1974). "Sea wasp (Chironex fleckeri) antivenene: Neutralizing potency against the venom of three other jellyfish species". Toxicon. Toxicon 12 (3): 223–225. doi:10.1016/0041-0101(74)90062-2.
+* ^ "Jellyfish Stings: Treatment and Drugs". Mayo Clinic. Mayo Foundation for Medical Education and Research. 2011-09-01. Retrieved 2013-04-15.
+* ^ a b "Jellyfish Gone Wild — Text-only". Nsf.gov. Retrieved 2010-10-18.
+* ^ "Current Event Notification Report". NRC. October 22, 2008. Retrieved 14 July 2010.
+* ^ Ryall, Julian (2 November 2009). "Japanese fishing trawler sunk by giant jellyfish". London: Telegraph.co.uk. Retrieved 3 November 2009.
+
+External links* Jellyfish and Comb Jellies – Smithsonian Ocean Portal
+* Jellyfish and Other Gelatinous Zooplankton
+* Jellyfish Facts – Information on Jellyfish and Jellyfish Safety
+* Cotylorhiza tuberculata
+* "There's no such thing as a jellyfish" from The MBARI YouTube channel
+* "Vicious beauties - Jellyfish" - a documentary about jellyfish
+* They’re Taking Over!|nybooks.com |September 26, 2013 |Tim Flannery
+
+Photos:
+
+* Jellyfish Exhibition At National Aquarium, Baltimore, Maryland (USA) – Photo Gallery

@@ -1,0 +1,144 @@
+A falcon (/ˈfɔːlkən/ or /ˈfælkən/) is any species of raptor in the genus Falco. The genus contains 37 species, widely distributed throughout Europe, Asia, Africa, Australasia and the Americas.
+
+Adult falcons have thin tapered wings, which enable them to fly at high speed and to change direction rapidly. Fledgling falcons, in their first year of flying, have longer flight feathers, which makes their configuration more like that of a general-purpose bird such as a broadwing. This makes it easier to fly while learning the exceptional skills required to be effective hunters as adults.
+
+Peregrine Falcons have been recorded diving at speeds of 200 miles per hour (320 km/h), making them the fastest-moving creatures on Earth. [1] Other falcons include the Gyrfalcon, Lanner Falcon, and the Merlin. Some small falcons with long narrow wings are called hobbies, and some which hover while hunting are called kestrels. The falcons are part of the family Falconidae, which also includes the caracaras, Laughing Falcon, forest falcons, and falconets.
+
+The traditional term for a male falcon is tercel (British spelling) or tiercel (American spelling), from Latin tertius = third because of the belief that only one in three eggs hatched a male bird. Some sources give the etymology as deriving from the fact that a male falcon is approximately one third smaller than the female [2] [3] [4] (Old French tiercelet). A falcon chick, especially one reared for falconry, that is still in its downy stage is known as an eyas [5] [6] (sometimes spelt eyass). The word arose by mistaken division of Old French un niais, from Latin presumed nidiscus ("nestling", from nidus = nest). The technique of hunting with trained captive birds of prey is known as falconry.
+
+As is the case with many birds of prey, falcons have exceptional powers of vision; the visual acuity of one species has been measured at 2.6 times that of a normal human. [7]
+
+In February 2005, the Canadian ornithologist Louis Lefebvre announced a method of measuring avian intelligence in terms of a bird's innovation in feeding habits. The falcon and corvids scored highest on this scale. [8]
+
+Contents
+
+* 1 Systematics and evolution* 1.1 Overview
+* 1.2 Species
+* 1.3 Fossil record
+
+* 2 See also
+* 3 Notes
+* 4 References
+* 5 External links
+
+Systematics and evolutionCompared to other birds of prey, the fossil record of the falcons is not well distributed in time. The oldest fossils tentatively assigned to this genus are from the Late Miocene, less than 10 million years ago. [citation needed] This coincides with a period in which many modern genera of birds became recognizable in the fossil record. The falcon lineage may, however, be somewhat older than this [citation needed] and given the distribution of fossil and living Falco taxa is probably of North American, African or possibly Middle Eastern or European in origin.
+
+OverviewFalcons are roughly divisible into three or four groups. The first contains the kestrels (probably excepting the American Kestrel); [9] usually small and stocky falcons of mainly brown upperside color and sometimes sexually dimorphic; three African species that are generally grey in color stand apart from the typical members of this group. Kestrels feed chiefly on terrestrial vertebrates and invertebrates of appropriate size, such as rodents, reptiles, or insects.
+
+The second group contains slightly larger (on average) and more elegant species, the hobbies and relatives. These birds are characterized by considerable amounts of dark slate-grey in their plumage; the malar area is nearly always black. They feed mainly on smaller birds.
+
+Third are the Peregrine Falcon and its relatives: variably sized powerful birds that also have a black malar area (except some very light color morphs), and often a black cap as well. Otherwise, they are somewhat intermediate between the other groups, being chiefly medium grey with some lighter or brownish colors on the upper side. They are, on average, more delicately patterned than the hobbies and, if the hierofalcons are excluded (see below), this group typically contains species with horizontal barring on the underside. As opposed to the other groups, where tail color varies much in general but little according to evolutionary relatedness, [note 1] the tails of the large falcons are quite uniformly dark grey with rather inconspicuous black banding and small white tips, though this is probably plesiomorphic. These large Falco feed on mid-sized birds and terrestrial vertebrates.
+
+Very similar to these, and sometimes included therein, are the four or so species of hierofalcons (literally, "hawk-falcons"). They represent taxa with, usually, more phaeomelanins, which impart reddish or brown colors, and generally more strongly patterned plumage reminiscent of hawks. Notably, their undersides have a lengthwise pattern of blotches, lines or arrowhead marks. While these three or four groups, loosely circumscribed, are an informal arrangement, they probably contain several distinct clades in their entirety. A study of mtDNA cytochrome b sequence data of some kestrels [9] identified a clade containing the Common Kestrel and related "malar-striped" species, to the exclusion of such taxa as the Greater Kestrel (which lacks a malar stripe), the Lesser Kestrel (which is very similar to the Common but also has no malar stripe), and the American Kestrel. The latter species has a malar stripe, but its color pattern–apart from the brownish back–and notably also the black feathers behind the ear, which never occur in the true kestrels, are more reminiscent of some hobbies. The malar-striped kestrels apparently split from their relatives in the Gelasian, roughly 2.5-2 mya, and are apparently of tropical East African origin. The entire "true kestrel" group—excluding the American species—is probably a distinct and quite young clade, as also suggested by their numerous apomorphies.
+
+Other studies [10] [11] [12] [13] [14] have confirmed that the hierofalcons are a monophyletic group–and, incidentally, that hybridization is quite frequent at least in the larger falcon species. Initial studies of mtDNA cytochrome b sequence data suggested that the hierofalcons are basal among living falcons. [10] [11] The discovery of a numt proved this earlier theory erroneous; [12] in reality, the hierofalcons are a rather young group, originating maybe at the same time as the start of the main kestrel radiation, about 2 million years ago. There is very little fossil history for this lineage. However, the present diversity of very recent origin suggests that this lineage may have nearly gone extinct in the recent past. [14] [15]
+
+The phylogeny and delimitations of the Peregrine and hobbies groups are more problematic. Molecular studies have only been conducted on a few species, and the morphologically ambiguous taxa have often been little researched. The morphology of the syrinx, which contributes well to resolving the overall phylogeny of the Falconidae, [16] [17] is not very informative in the present genus. Nonetheless, a core group containing the Peregrine and Barbary falcons, which, in turn, group with the hierofalcons and the more distant Prairie Falcon (which was sometimes placed with the hierofalcons, even though it is entirely distinct biogeographically), as well as at least most of the "typical" hobbies, are confirmed to be monophyletic as suspected. [10] [11]
+
+Given that the American Falcos of today belong to the Peregrine group, or are apparently more basal species, it seems that the initially most successful evolutionary radiation was a Holarctic one that originated possibly around central Eurasia or in (northern) Africa. One or several lineages were present in North America by the Early Pliocene at latest.
+
+The origin of today's major Falco groups—the "typical" hobbies and kestrels for example, or the Peregine-hierofalcon complex, or the Aplomado Falcon lineage—can be quite confidently placed from the Miocene-Pliocene boundary through the Zanclean and Piacenzian and just into the Gelasian, that is from about 8 to 2.4 million years ago, when the malar-striped kestrels diversified. Some groups of falcons, such as the hierofalcon complex or the Peregrine-Barbary superspecies have only evolved in more recent times; the species of the former seem to be a mere 120,000 years old or so. [14]
+
+SpeciesThe sequence follows the taxonomic order of White et al. (1996), [18] except for adjustments in the kestrel sequence.
+
+* Malagasy Kestrel, Falco newtoni
+* Seychelles Kestrel, Falco araea
+* Mauritius Kestrel, Falco punctatus
+* Réunion Kestrel, Falco duboisi – extinct (c.1700)
+* Spotted Kestrel, Falco moluccensis
+* Nankeen Kestrel or Australian Kestrel, Falco cenchroides
+* Common Kestrel, Falco tinnunculus* Rock Kestrel, Falco (tinnunculus) rupicolus
+
+* Greater Kestrel, Falco rupicoloides
+* Fox Kestrel, Falco alopex
+* Lesser Kestrel, Falco naumanni
+* Grey Kestrel, Falco ardosiaceus
+* Dickinson's Kestrel, Falco dickinsoni
+* Banded Kestrel, Falco zoniventris
+* Red-necked Falcon, Falco chicquera* African Red-necked Falcon, Falco (chicquera) ruficollis
+
+* Red-footed Falcon, Falco vespertinus
+* Amur Falcon, Falco amurensis
+* Eleonora's Falcon, Falco eleonorae
+* Sooty Falcon, Falco concolor
+* American Kestrel or "Sparrow Hawk", Falco sparverius
+* Aplomado Falcon, Falco femoralis
+* Merlin or "Pigeon Hawk", Falco columbarius* Eurasian Merlin, Falco (columbarius) aesalon
+
+* Bat Falcon, Falco rufigularis
+* Orange-breasted Falcon, Falco deiroleucus
+* Eurasian Hobby, Falco subbuteo
+* African Hobby, Falco cuvierii
+* Oriental Hobby, Falco severus
+* Australian Hobby or Little Falcon, Falco longipennis
+* New Zealand Falcon or Kārearea, Falco novaeseelandiae
+* Brown Falcon, Falco berigora
+* Grey Falcon, Falco hypoleucos
+* Black Falcon, Falco subniger
+* Lanner Falcon, Falco biarmicus
+* Laggar Falcon, Falco jugger
+* Saker Falcon, Falco cherrug* Altai Falcon, Falco cherrug altaicus (status unclear)
+
+* Gyrfalcon, Falco rusticolus
+* Prairie Falcon, Falco mexicanus
+* Peregrine Falcon, Falco peregrinus* Peale's Falcon, Falco peregrinus pealei
+* Pallid Falcon, Falco peregrinus cassini var. kreyenborgi
+* Barbary Falcon, Falco (peregrinus) pelegrinoides
+
+* Taita Falcon, Falco fasciinucha
+
+Fossil record* Falco medius (Late Miocene of Cherevichnyi, Ukraine) [note 2] [19] [20]
+* ?Falco sp. (Late Miocene of Idaho) [21]
+* Falco sp. (Early [22] Pliocene of Kansas) [23]
+* Falco sp. (Early Pliocene of Bulgaria – Early Pleistocene of Spain and Czechia) [note 3]
+* Falco oregonus (Early/Middle Pliocene of Fossil Lake, Oregon) – possibly not distinct from a living species
+* Falco umanskajae (Late Pliocene of Kryzhanovka, Ukraine) – includes "Falco odessanus", a nomen nudum [24]
+* ?Falco bakalovi (Late Pliocene of Varshets, Bulgaria) [note 4]
+* Falco antiquus (Middle Pleistocene of Noailles, France and possibly Horvőlgy, Hungary) [note 5] [14]
+* Cuban Kestrel, Falco kurochkini (Late Pleistocene/Holocene of Cuba, West Indies)
+* Falco chowi (China)
+
+Several more paleosubspecies of extant species also been described; see species accounts for these.
+
+"Sushkinia" pliocaena from the Early Pliocene of Pavlodar (Kazakhstan) appears to be a falcon of some sort. It might belong in this genus or a closely related one. [19] In any case, the genus name Sushkinia is invalid for this animal because it had already been allocated to a prehistoric dragonfly relative.
+
+The supposed "Falco" pisanus was actually a pigeon of the genus Columba, possibly the same as Columba omnisanctorum, which, in that case, would adopt the older species name of the "falcon". [20] The Eocene fossil "Falco" falconellus (or "F." falconella) from Wyoming is a bird of uncertain affiliations, maybe a falconid, maybe not; it certainly does not belong in this genus. "Falco" readei is now considered a paleosubspecies of the Yellow-headed Caracara (Milvago chimachima).
+
+See alsoBirds portal
+
+* Abu Dhabi Falcon Hospital
+
+Notes* ^ For example, tail color in the Common and Lesser Kestrels is absolutely identical, yet they do not seem too closely related (Groombridge et al. 2002). On the other hand, the Fox and Greater Kestrels can be told apart at first glance by their tail colors, but not by much else; they might be very close relatives and are probably much closer to each other than the Lesser and Common Kestrels.
+* ^ IZAN 45-4033: left carpometacarpus. Small species; possibly closer to kestrels than to peregrine lineage or hierofalcons, but may be more basal altogether due to its age
+* ^ A hierofalcon (Mlíkovský 2002)? If so, probably not close to the living species, but an earlier divergence that left no descendants; might be more than one species due to large range in time and/or include common ancestor of hierofalcons and Peregrine-Barbary complex (Nittinger et al. 2005).
+* ^ Status, especially distinctness from F. antiquus, requires confirmation (Mlíkovský 2002).
+* ^ Supposedly a Saker Falcon paleosubspecies (Mlíkovský 2002), but this is not too likely due to the probable Eemian origin of that species.
+
+References* ^ "The Speed of Animals" in The New Book of Knowledge, Grolier Academic Reference, 2003, p. 278, ISBN 071720538X
+* ^ Harper, Douglas. "tercel". Online Etymology Dictionary.
+* ^ "tercel". Dictionary.reference.com. Retrieved 2010-03-20.
+* ^ "tercel", Oxford Dictionary
+* ^ "eyas". Thefreedictionary.com. Retrieved 2010-03-20.
+* ^ "Dictionary of Difficult Words – eyas". Tiscali.co.uk. 1964-09-21. Retrieved 2010-03-20.
+* ^ Fox, R; Lehmkuhle, S.; Westendorf, D. (1976). "Falcon visual acuity". Science 192 (4236): 263–5. doi:10.1126/science.1257767. PMID 1257767.
+* ^ Bird IQ test takes flight, Science News, AAAS Annual Meeting, 2005.
+* ^ a b Groombridge, Jim J.; Jones, Carl G.; Bayes, Michelle K.; van Zyl, Anthony J.; Carrillo, José; Nichols, Richard A. & Bruford, Michael W. (2002). "A molecular phylogeny of African kestrels with reference to divergence across the Indian Ocean". Molecular Phylogenetics and Evolution 25 (2): 267–277. doi:10.1016/S1055-7903(02)00254-3. PMID 12414309.
+* ^ a b c Helbig, A.J.; Seibold, I.; Bednarek, W.; Brüning, H.; Gaucher, P.; Ristow, D.; Scharlau, W.; Schmidl, D. & Wink, Michael (1994): Phylogenetic relationships among falcon species (genus Falco) according to DNA sequence variation of the cytochrome b gene. In: Meyburg, B.-U. & Chancellor, R.D. (eds.): Raptor conservation today: 593–599
+* ^ a b c Wink, Michael; Seibold, I.; Lotfikhah, F. & Bednarek, W. (1998): Molecular systematics of holarctic raptors (Order Falconiformes). In: Chancellor, R.D., Meyburg, B.-U. & Ferrero, J.J. (eds.): Holarctic Birds of Prey: 29–48. Adenex & WWGBP
+* ^ a b Wink, Michael & Sauer-Gürth, Hedi (2000): Advances in the molecular systematics of African raptors. In: Chancellor, R.D. & Meyburg, B.-U. (eds): Raptors at Risk: 135–147. WWGBP/Hancock House, Berlin/Blaine.
+* ^ Wink, Michael; Sauer-Gürth, Hedi; Ellis, David & Kenward, Robert (2004): Phylogenetic relationships in the Hierofalco complex (Saker-, Gyr-, Lanner-, Laggar Falcon). In: Chancellor, R.D. & Meyburg, B.-U. (eds.): Raptors Worldwide: 499–504. WWGBP, Berlin
+* ^ a b c d Nittinger, F.; Haring, E.; Pinsker, W.; Wink, Michael & Gamauf, A. (2005). "Out of Africa? Phylogenetic relationships between Falco biarmicus and other hierofalcons (Aves Falconidae)". Journal of Zoological Systematics and Evolutionary Research 43 (4): 321–331. doi:10.1111/j.1439-0469.2005.00326.x.
+* ^ Johnson, J.A.; Burnham, K.K.; Burnham, W.A.; Mindell, D.P. (2007). "Genetic structure among continental and island populations of gyrfalcons". Molecular Ecology 16 (15): 3145–3160. doi:10.1111/j.1365-294X.2007.03373.x. PMID 17651193.
+* ^ Griffiths, Carole S. (1999). "Phylogeny of the Falconidae inferred from molecular and morphological data". Auk 116 (1): 116–130. doi:10.2307/4089459.
+* ^ Griffiths, Carole S.; Barrowclough, George F.; Groth, Jeff G. & Mertz, Lisa (2004). "Phylogeny of the Falconidae (Aves): a comparison of the efficacy of morphological, mitochondrial, and nuclear data". Molecular Phylogenetics and Evolution 32 (1): 101–109. doi:10.1016/j.ympev.2003.11.019. PMID 15186800.
+* ^ White, Clayton M.; Olsen, Penny D. & Kiff, Lloyd F. (1994): Family Falconidae. In: del Hoyo, Josep; Elliott, Andrew & Sargatal, Jordi (editors): Handbook of Birds of the World, Volume 2 (New World Vultures to Guineafowl): 216–275, plates 24–28. Lynx Edicions, Barcelona. ISBN 84-87334-15-6
+* ^ a b Becker, Jonathan J. (1987). "Revision of "Falco" ramenta Wetmore and the Neogene evolution of the Falconidae". Auk 104 (2): 270–276.
+* ^ a b Mlíkovský, Jirí (2002): Cenozoic Birds of the World, Part 1: Europe. Ninox Press, Prague
+* ^ IMNH 27937. A coracoid of a Merlin-sized species. It does not seem close to F. columbarius or the Recent North American species (Becker 1987).
+* ^ Fox Canyon Local Fauna, 4.3–4.8 million years ago: Martin, R.A.; Honey, J.G. & Pelaez-Campomanes, P. (2000): The Meade Basin Rodent Project; a progress report. Kansas Geologial Survey Open-file Report 2000-61. Paludicola 3(1): 1–32.
+* ^ UMMP V27159, V29107, V57508-V57510, V57513/V57514 [verification needed] some limb bones. Slightly smaller than a Merlin and more robust than American Kestrel, and seems not too distant from F. columbarius. Feduccia, J. Alan; Ford, Norman L. (1970). "Some birds of prey from the Upper Pliocene of Kansas". Auk 87 (4): 795–797. doi:10.2307/4083714.
+* ^ NNPM NAN 41-646. Almost complete left tarsometatarsus. Probably a prehistoric hobby, perhaps less specialized for bird hunting: Sobolev, D.V. (2003): Новый вид плиоценового сокола (Falconiformes, Falconidae) [A new species of Pliocene falcon (Falconiformes, Falconidae)] Vestnik zoologii 37 (6): 85–87. [Russian with English abstract]
+
+External links* Falconidae videos on the Internet Bird Collection, ibc.lynxeds.com
+* The Raptor Resource Project Peregrine, owl, eagle and osprey cams, facts, and other resources, raptorresource.org
+* "Falcon". New International Encyclopedia. 1905.

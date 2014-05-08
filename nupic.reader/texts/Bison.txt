@@ -1,0 +1,748 @@
+Bison are large, even-toed ungulates in the genus Bison within the subfamily Bovinae.
+
+There are two extant and four extinct species recognized. Of the four extinct species, three were North American: Bison antiquus, B. latifrons, and B. occidentalis. The fourth, Bison priscus, ranged across steppe environments from Western Europe, through Central Asia, and onto North America.
+
+There are two surviving species: the American bison, Bison bison, found only in North America, is the most numerous. (It is only distantly related to the buffalo.) The North American species is composed of two subspecies, the plains bison, Bison bison bison, and the wood bison, Bison bison athabascae, which is the namesake of Wood Buffalo National Park in Canada. The European bison Bison bonasus, or wisent is found in Europe and the Caucasus, re-introduced after being extinct in the wild.
+
+While all bison species are usually grouped into their own genus, they are sometimes included in the closely related genus Bos, [1] together with cattle, gaur, kouprey and yaks, with which bison have a limited ability to interbreed.
+
+Contents
+
+* 1 Description
+* 2 Evolution and genetic history
+* 3 Behavior
+* 4 Habitat* 4.1 Restrictions
+
+* 5 Diet
+* 6 Predators
+* 7 Infections and illness
+* 8 Name
+* 9 Human impact
+* 10 Meat industry
+* 11 See also
+* 12 References
+* 13 Further reading
+* 14 External links
+
+DescriptionThe American bison and the European wisent are the largest terrestrial animals in North America and Europe. Bison are good swimmers and can cross rivers over half a mile (1 km) wide. Bison are nomadic grazers and travel in herds. The bulls leave the herds of females at two or three years of age, and join a male herd which is generally smaller than the female herds. Mature bulls rarely travel alone. Towards the end of the summer, for the reproductive season, the sexes necessarily commingle. [2] American bison are known for living in the Great Plains. Both species were hunted close to extinction during the 19th and 20th centuries, but have since rebounded. The American plains bison is no longer listed as endangered, but the wood bison is on the endangered species list in Canada. [3]
+
+Although superficially similar, there are a number of physical and behavioural differences between the American and European bison. The American species has 15 ribs, while the European bison has 14. The American bison has four lumbar vertebrae, while the European has five. [4] (The difference in this case is that what would be the first lumbar vertebra in wisent has ribs attached to it in American bison and is thus counted as the 15th thoracic vertebra, compared to 14 thoracic vertebrae in wisent.) Adult American bison are less slim in build and have shorter legs. [5] American bison tend to graze more, and browse less than their European cousins. Their anatomies reflect this behavioural difference; the American bison's head hangs lower than the European's. The body of the American bison is typically hairier, though its tail has less hair than that of the European bison. The horns of the European bison point through the plane of their faces, making them more adept at fighting through the interlocking of horns in the same manner as domestic cattle, unlike the American bison, which favours butting. [6] American bison are more easily tamed than their European cousins, and breed with domestic cattle more readily. [7]
+
+Evolution and genetic historyThe bovine family (Taurids and Bisonids) diverged from the common ancestral line with water buffalo and African buffalo about 5 to 10 million years ago. [8] Thereafter, the family lineage of bison and taurine cattle does not appear to be a straightforward "tree" structure as is often depicted in much evolution, because there is evidence of interbreeding and crossbreeding between different species and members within this family, even many millions of years after their ancestors separated into different species. This crossbreeding was not sufficient to conflate the different species back together, but it has resulted in unexpected relationships between many members of this group, such as yak being related to American bison, when such relationships would otherwise not be apparent.
+
+A 2003 study of mitochondrial DNA indicated four distinct maternal lineages in tribe Bovini:
+
+* Taurine cattle and zebu,
+* Wisent,
+* American bison and yak, [9] and
+* Banteng, gaur, and gayal.
+
+However, Y chromosome analysis associated wisent and American bison. [10] An earlier study using amplified fragment length polymorphism (AFLP) fingerprinting showed a close association of wisent and American bison and probably with yak, but noted that the interbreeding of Bovini species made determining relationships problematic. [11]
+
+The Steppe bison (Bison priscus) diverged from the lineage that led to cattle (Bos taurus) approximately 2 to 5 million years ago. The Bison genus is clearly in the fossil record by 2 million years ago. [12] The Steppe bison spread across Eurasia and was the bison that was pictured in the ancient cave drawings of Spain and Southern France.
+
+The European bison or wisent arose from the Steppe bison, without fossil evidence of other ancestral species between the Steppe bison and the European bison, though the European bison might have arisen from the lineage that led to American bison if that lineage backcrossed with the Steppe bison. Again, the web of relationships is confusing, but there is some evidence that the European bison is descended from bison that had migrated from Asia to North America, and then back to Europe, where they crossbred with existing Steppe bison. [12]
+
+At one point, some Steppe bison crossbred with the ancestors of the modern yak. After that crossbreeding, a population of Steppe bison (Bison priscus) crossed the Bering Land Bridge to North America. There is evidence of multiple crossings of bison to and from Asia starting before 500,000 years ago and continuing until at least 220,000 years ago. The Steppe bison spread through the northern parts of North America and lived in Eurasia until approximately 11,000 years ago [13] and North America until 4,000 to 8,000 years ago. [12]
+
+Bison latifrons (the "giant" or "longhorn" bison) is thought to have evolved in midcontinent North America from B. priscus, after the Steppe bison crossed into North America. [14] [15] [16] Giant bison (Bison latifrons) appeared in the fossil record approximately 500,000 years ago. [12] B. latifrons was one of many species of North American megafauna which became extinct during the transition from the Pleistocene to the Holocene epoch (an event referred to as the Quaternary extinction event). It is thought to have disappeared some 21,000–30,000 years ago, during the late Wisconsin glaciation. [17]
+
+The Bison latifrons species was replaced by the smaller Bison antiquus. B. antiquus appeared in the North American fossil record approximately 250,000 years ago. [18] B. antiquus in turn evolved into the Bison occidentalis, then into the yet smaller Bison bison—the modern American bison—some 5,000 to 10,000 years ago. [19] [20] Some researchers consider B. occidentalis to be a sub-species of B. antiquus. [21]
+
+During the population bottleneck, after the great slaughter of American bison during the nineteenth century, the number of bison remaining alive in North America declined to as low as 541. During that period, a handful of ranchers gathered remnants of the existing herds to save the species from extinction. These ranchers bred some of the bison with cattle in an effort to produce "cattleo" [22] (today called "beefalo") Accidental crossings were also known to occur. Generally, male domestic bulls were crossed with buffalo cows, producing offspring of which only the females were fertile. The crossbred animals did not demonstrate any form of hybrid vigor, so the practice was abandoned. The proportion of cattle DNA that has been measured in introgressed individuals and bison herds today is typically quite low, ranging from 0.56 to 1.8%. [22] [23] In the United States, many ranchers are now utilizing DNA testing to cull the residual cattle genetics from their bison herds. The U.S. National Bison Association has adopted a code of ethics which prohibits its members from deliberately crossbreeding bison with any other species.
+
+Some cattle breeds are intentionally bred with bison to produce, for instance, beefalo hybrids. Wisent-American bison hybrids were briefly experimented with in Germany (and found to be fully fertile) and a herd of such animals is maintained in Russia all the time. A herd of cattle-wisent crossbreeds (Zubron) is maintained in Poland. First-generation crosses do not occur naturally, requiring caesarean delivery. First-generation males are infertile.
+
+BehaviorWallowing is a common behavior of bison. A bison wallow is a shallow depression in the soil, either wet or dry. Bison roll in these depressions, covering themselves with mud or dust. Possible explanations suggested for wallowing behavior include grooming behavior associated with moulting, male-male interaction (typically rutting behavior), social behavior for group cohesion, play behavior, relief from skin irritation due to biting insects, reduction of ectoparasite load (ticks and lice), and thermoregulation. [24] In the process of wallowing, bison may become infected by the fatal disease anthrax, which may occur naturally in the soil. [25]
+
+The bison's temperament is often unpredictable. They usually appear peaceful, unconcerned, even lazy, yet they may attack anything, often without warning or apparent reason. They can move at speeds of up to 35 mph (56 km/h) and cover long distances at a lumbering gallop. [26]
+
+Their most obvious weapons are the horns borne by both males and females, but their massive heads can be used as battering rams, effectively using the momentum produced by 2,000 pounds (900 kg) moving at 30 mph (50 km/h). The hind legs can also be used to kill or maim with devastating effect. At the time bison ran wild, they were rated second only to the Alaska brown bear as a potential killer, more dangerous than the grizzly bear. In the words of early naturalists, they were a dangerous, savage animal that feared no other animal and in prime condition could best any foe [26] (except for wolves and brown bears [2] [27]).
+
+The rutting, or mating, season lasts from June through September, with peak activity in July and August. At this time, the older bulls rejoin the herd, and fights often take place between bulls. The herd exhibits much restlessness during breeding season. The animals are belligerent, unpredictable and most dangerous. [26]
+
+HabitatAmerican bison live in river valleys, and on prairies and plains. Typical habitat is open or semi-open grasslands, as well as sagebrush, semi-arid lands and scrublands. Some lightly wooded areas are also known historically to have supported bison. Bison will also graze in hilly or mountainous areas where the slopes are not steep. Though not particularly known as high altitude animals, bison in the Yellowstone Park bison herd are frequently found at elevations above 8,000 feet and the Henry Mountains bison herd is found on the plains around the Henry Mountains, Utah, as well as in mountain valleys of the Henry Mountains to an altitude of 10,000 feet.
+
+European bison (Wisent) tend to live in lightly wooded to fully wooded areas and areas with increased shrubs and bushes, though they can also live on grasslands and plains.
+
+RestrictionsThroughout most of their historical range, free-ranging bison are not tolerated by landowners or state governments. Herds on private land must be fenced in. [28] In the U.S. state of Montana, free-ranging bison on public land may be shot, citing concerns of spreading disease and damage to public property. [29] Legislation surrounding the bison continues to be proposed and vetoed by the governor of Montana, and remains an issue of contention between Native American tribes and the American government. [30]
+
+DietBison are herbivores and eat simple foods. The bison's main foodstuff is grass, though they will eat any available low-lying shrubbery Citation needed as well as sedges. In the winter, bison forage for grass under the snow. If there is little grass available, they will eat the twigs of shrubs. Bison are notably better browsers than cattle, since cattle are more obligate grazers, even though wood bison have also been described as "obligate grazers". [31] Wisent tend to browse on shrubs and low hanging trees more often than do their cousins, the American bison. American bison prefer grass to shrubbery and trees. Citation needed
+
+PredatorsDue to their size, bison have few predators. Five notable exceptions are the grey wolf, human, brown bear, coyote, and grizzly bear. [32] The grey wolf generally takes down a bison while in a pack, but there have been cases of a single wolf killing bison. [27] Brown bear also prey on bison calves, often by driving off the pack and consuming the wolves' kill. [2]
+
+Infections and illnessFor the American bison, the main cause of illness is malignant catarrhal fever (MCF), [33] though brucellosis is a serious concern in the Yellowstone Park bison herd. Bison in the Antelope Island bison herd are regularly inoculated against brucellosis, parasites, clostridium, infectious bovine rhino tracheitis and bovine vibriosis. [34]
+
+The major concerns for illness in European bison are foot-and-mouth disease and balanoposthitis, which affects the male sex organs; a number of parasitic diseases have also been cited as threats. [35] The inbreeding of the species caused by the small population plays a role in a number of genetic defects and immunity to diseases, which in turn poses greater risks to the population. [35]
+
+NameThe term "buffalo" is sometimes considered to be a misnomer for this animal, as it is only distantly related to either of the two "true buffalo", the Asian water buffalo and the African buffalo. However, "bison" is a Greek word meaning ox-like animal, while "buffalo" originated with the French fur trappers who called these massive beasts bœufs, meaning ox or bullock—so both names, "bison" and "buffalo", have a similar meaning. Though the name "bison" might be considered more scientifically correct, as a result of standard usage the name "buffalo" is also considered correct and is listed in many dictionaries as an acceptable name for American buffalo or bison. In reference to this animal, the term "buffalo" dates to 1635 in North American usage when the term was first recorded for the American mammal. It thus has a much longer history than the term "bison", which was first recorded in 1774. [36]
+
+Human impactSee also: Bison hunting
+
+The extinction of four species of bison (Bison antiquus, Bison latifrons, Bison occidentalis, and Bison priscus) is linked to natural selection. Humans were almost exclusively accountable for the near-extinction of the American bison in the 1800s. At the beginning of the 19th century, tens of millions of bison roamed North America. Humans slaughtered an estimated 50 million bison, [37] generally for their meat or pelts. This practice of over-hunting the bison reduced their population to hundreds. Attempts to revive the American bison, however, have been highly successful. Farming of bison has increased their population to nearly 150,000. The American bison is therefore no longer considered an endangered species. [38]
+
+Meat industryIn America, the commercial industry for bison has been slow to develop despite individuals like Ted Turner, who have long marketed bison meat. In the 1990s, Turner found limited success with restaurants for high quality cuts of meat which include bison steaks and tenderloin. [39] Lower quality cuts suitable for hamburger and hot dogs have been described as "almost non-existent". [39] This created a marketing problem for commercial farming because the majority of usable meat, about 400 pounds for each bison, are suitable for these products. [39] In 2003, the United States Department of Agriculture purchased of $10 million worth of frozen overstock to save the industry which would later recover through better use of marketing to consumers. [40] Restaurants have played a role in popularizing bison meat like Ted's Montana Grill and other restaurants which added bison to their menus, such as Ruby Tuesday, which first offered bison on their menus in 2005. [40]
+
+In Canada, commercial bison farming began in the mid 1980s, concerning an unknown number of animals at that time. [41] The first census of the bison occurred in 1996, which recorded 45,235 bison on 745 farms and would grow to 195,728 bison on 1,898 farms for the 2006 census. [41]
+
+Several pet food companies use bison as a red meat alternative in dog foods. The companies producing these formulas include Natural Balance Pet Foods, Freshpet, The Blue Buffalo Company, Solid Gold and Taste of the Wild.
+
+See also* American bison (Bison bison)
+* European bison (Bison bonasus)
+* Bison hunting
+* Yellowstone Park bison herd
+
+References* ^ Systematic relationships in the Bovini (Artiodactyla, Bovidae). In Zeitschrift für Zoologische Systematik und Evolutionsforschung, 4:264–278., Groves, C. P., 1981. Quoted in Mammal Species of the World. A Taxonomic and Geographic Reference (3rd ed), Don E. Wilson & DeeAnn M. Reeder (editors). 2005. Johns Hopkins University Press: "Bison".
+* ^ a b c Brink, Jack W. (2008). Imagining Head-Smashed-In: Aboriginal Buffalo Hunting on the Northern Plains. Athabasca University Press. ISBN 978-1-897425-09-1.
+* ^ "U.S. Fish and Wildlife Service Species Report". Retrieved 2009-06-03.
+* ^ The Penny Cyclopædia of the Society for the Diffusion of Useful Knowledge by Society for the Diffusion of Useful Knowledge (Great Britain), published by C. Knight, 1835
+* ^ Sapp, Rick (2006). Trophy Bowhunting: Plan the Hunt of a Lifetime and Bag One for the Record Books (illustrated ed.). Stackpole. ISBN 978-0-8117-3315-1.
+* ^ Lott, Dale F. (2003). American Bison: A Natural History. University of California Press. ISBN 978-0-520-24062-9.
+* ^ Newman, Edward, ed. (1859). "Notice of the Various Species of Bovine Animals". The Zoologist 17: 6362.
+* ^ "Maternal and Paternal Lineages in Cross-Breeding Bovine Species. Has Wisent a Hybrid Origin?". Mbe.oxfordjournals.org. 2004-01-22. Retrieved 2013-05-30.
+* ^ Guo, S.; Liu, J.; Qi, D.; Yang, J.; Zhao, X. (2006). "Taxonomic placement and origin of yaks: implications from analyses of mtDNA D-loop fragment sequences". Acta Theriologica Sinica 26 (4): 325–330.
+* ^ Verkaar, E.L.; Nijman, I.J.; Beeke, M.; Hanekamp, E.; Lenstra, J.A. (2004). "Maternal and Paternal Lineages in Cross-Breeding Bovine Species. Has Wisent a Hybrid Origin?". Molecular Biology and Evolution 21 (7): 1165–70. doi:10.1093/molbev/msh064. PMID 14739241.
+* ^ Buntjer, J B; Otsen, M; Nijman, I J; Kuiper, M T R; Lenstra, J A (2002). "Phylogeny of bovine species based on AFLP fingerprinting". Heredity 88 (1): 46–51. doi:10.1038/sj.hdy.6800007. PMID 11813106.
+* ^ a b c d McDonald, J., 1981. North American Bison, Their classification and Evolution. University of California Press, Berkeley, Los Angeles, London.
+* ^ Guthrie, R. D., 1990. Frozen Fauna of the Mammoth Steppe: the Story of Blue Babe. University of Chicago Press: Chicago.
+* ^ Bell, C.J.; Lundelius, E.L.; Barnosky, A.D.; Graham, R.W.; Lindsay, E.H.; Ruez, D.R.; Semken, H.A.; Webb, S.D.; Zakrzewski, R.J. (2004). "The Blancan, Irvingtonian, and Rancholabrean mammal ages". In Woodburne, M.O. Late Cretaceous and Cenozoic Mammals of North America: Biostratigraphy and Geochronology. New York: Columbia Univ. Press. pp. 232–314. ISBN 0-231-13040-6.
+* ^ Scott, E.; Cox, S.M. (2008). "Late Pleistocene distribution of Bison (Mammalia; Artiodactyla) in the Mojave Desert of Southern California and Nevada". In Wang, X.; Barnes, L.G. Geology and Vertebrate Paleontology of Western and Southern North America. Los Angeles: Natural History Museum of Los Angeles County. pp. 359–382.
+* ^ Sanders, A.E.; Weems, R.E.; Albright III, L.B. (2009). "Formalization of the mid-Pleistocene "Ten Mile Hill beds" in South Carolina with evidence for placement of the Irvingtonian–Rancholabrean boundary". In Albright III, L.B. Papers on Geology, Vertebrate Paleontology, and Biostratigraphy in Honor of Michael O. Woodburne. Flagstaff: Museum of Northern Arizona. pp. 369–375.
+* ^ Kurten, B; Anderson, E (1980). "Order Artiodactyla". Pleistocene mammals of North America (1st ed.). New York: Columbia University Press. pp. 295–339. ISBN 0-231-03733-3.
+* ^ Jefferson, G., 2001. "Rancho La Brea Bison". In: J. Harris (ed), Rancho La Brea: Death Trap and Treasure Trove. Terra 30(2): 33. Los Angeles Natural History Museum Foundation. p. 33.
+* ^ Wilson, M.C.; Hills, L.V.; Shapiro, B. (2008). "Late Pleistocene northward-dispersing Bison antiquus from the Bighill Creek Formation, Gallelli Gravel Pit, Alberta, Canada, and the fate of Bison occidentalis". Canadian Journal of Earth Sciences 45 (7): 827–59. doi:10.1139/E08-027.
+* ^ Lott, Dale F. (2002). American Bison: A Natural History. Berkeley: University of California Press. ISBN 0-520-23338-7.
+* ^ "Ohio Archaeology Blog: Better Than a Pointed Stick in the Eye - Not Really". Ohio-archaeology.blogspot.com. 2011-05-26. Retrieved 2013-05-30.
+* ^ a b Halbert, N; Gogan, P, Hiebert, R; and Derr, J (2007). "Where the buffalo roam: The role of history and genetics in the conservation of bison on U.S. federal lands". Park Science 24 (2): 22–29.
+* ^ Polziehn, R; Strobeck, C; Sheraton, J & Beech, R (1995). "Bovine mtDNA Discovered in North American Bison Populations". Conservation Biology 9 (6): 1638–1643 (1642). doi:10.1046/j.1523-1739.1995.09061638.x.
+* ^ McMillan, B. R.; Cottam, M. R. and Kaufman, D. W. "Wallowing Behavior of American Bison (Bos Bison)". American Midland Naturalist 144 (1): 159–167. JSTOR 3083019.
+* ^ "Anthrax kills bison in southern N.W.T.". CBC.CA. 2006-07-08.
+* ^ a b c American Bison. nps.gov
+* ^ a b Ludwig N. Carbyn; S. Oosenbrug; D. W. Anions; Canadian Circumpolar Institute (1993). Wolves, bison and the dynamics related to the Peace-Athabasca Delta in Canada's Wood Buffalo National Park. Canadian Circumpolar Institute. ISBN 978-0-919058-83-5. Retrieved 10 July 2012.
+* ^ Jim Robbins (April 1, 2013). "On the Montana Range, Efforts to Restore Bison Meet Resistance". The New York Times. Retrieved April 2, 2013.
+* ^ Adrian Jawort (April 17, 2013). "Shot, Left to Rot: Montana Officials Kill Bison Bull Wandering Outside Yellowstone National Park". Indian Country Today. Retrieved April 18, 2013.
+* ^ "Montana Governor Vetoes Three Anti-Bison Bills, Lets the Hunt Stand". Indian Country Today Media Network. Retrieved 2013-06-17.
+* ^ "p. iv" (PDF). Retrieved 2013-05-30.
+* ^ Newell, Toni Lynn; Anna Bess Sorin. "ADW: Bison bison: INFORMATION". Animal Diversity Web at the University of Michigan. Retrieved 21 June 2013.
+* ^ Durham, Sharon (2010). "Figuring out puzzling animal diseases". Agricultural Research 58 (4): 12–13.
+* ^ "Island Named for Antelope, the Bison". Utah.com. Retrieved 2013-05-30.
+* ^ a b "Actual, and Potential Threats". European Bison Conservation Center. Retrieved 2013-06-17.
+* ^ The American Heritage Dictionary of the English Language, Fourth Edition.
+* ^ "American Bison, Bison bison". National Geographic. Retrieved 2013-06-16.
+* ^ "Are Bison an Endangered Species?". Fermilab Science Education Office. Leon M. Lederman Science Education Center, Fermilab. Retrieved 21 June 2013.
+* ^ a b c Haddad, Charles. "Bison Meat Slow to Catch On, But Turner Sees Promise". Knight Ridder/Tribune Business News. McClatchy-Tribune Information Services. 1999. Retrieved June 18, 2013 from HighBeam Research: http://www.highbeam.com/doc/1G1-54342001.html
+* ^ a b Bone, Eugenia. "Bison's back: bravo for buffalo. We're saving the Western icon by eating it (again).(The next frontier)." Sunset. Sunset Publishing Corp. 2008. Retrieved June 18, 2013 from HighBeam Research: http://www.highbeam.com/doc/1G1-174197007.html
+* ^ a b Terry Kremeniuk. "Bison Farming". Canadian Encyclopedia. Historica-Dominion. 2012. Retrieved June 18, 2013 from HighBeam Research: http://www.highbeam.com/doc/1P1-215985740.html
+
+Further reading* Boyd, D (2003) "Conservation of North American Bison: Status and Recommendations." Master’s dissertation, University of Calgary
+* Halbert, N, and Derr, J (1995) "A Comprehensive Evaluation of Cattle Introgression into US Federal Bison Herds," Journal of Heredity, Vol 98, Issue 1.
+* Nesheim, David A., “Profit, Preservation, and Shifting Definitions of Bison in American,” Environmental History, 17 (July 2012), 547–77.
+* Ward, T. J.; Bielawski, J. P.; Davis, S. K.; Templeton, J. W.; and Derr, J. N. (1999) "Identification of Domestic Cattle Hybrids in Wild Cattle and Bison Species: A General Approach Using mtDNA Markers and the Parametric Bootstrap," Animal Conservation
+
+External links* History of Bison Blend Cattle
+* "European bison / Wisent online" from Browsk Forest District in Białowieża National Park, Poland
+* Ernest Ingersoll (1905). "Bison". New International Encyclopedia.
+
+* v
+* t
+* e
+
+Extant Artiodactyla species
+
+* Kingdom: Animalia
+* Phylum: Chordata
+* Class: Mammalia
+* Infraclass: Eutheria
+* Superorder: Laurasiatheria
+
+Suborder Ruminantia
+
+Antilocapridae
+
+Antilocapra
+
+* Pronghorn (A. americana)
+
+Giraffidae
+
+Okapia
+
+* Okapi (O. johnstoni)
+
+Giraffa
+
+* Giraffe (G. camelopardalis)
+
+Moschidae
+
+Moschus
+
+* Himalayan musk deer (M. chrysogaster)
+* Siberian musk deer (M. moschiferus)
+* Dwarf musk deer (M. berezovskii)
+* Black musk deer (M. fuscus)
+
+Tragulidae
+
+Hyemoschus
+
+* Water chevrotain (H. aquaticus)
+
+Moschiola
+
+* Indian spotted chevrotain (M. indica)
+* Yellow-striped chevrotain (M. kathygre)
+* Sri Lankan spotted chevrotain (M. meminna)
+
+Tragulus
+
+* Java mouse-deer (T. javanicus)
+* Lesser mouse-deer (T. kanchil)
+* Greater mouse-deer (T. napu)
+* Philippine mouse-deer (T. nigricans)
+* Vietnam mouse-deer (T. versicolor)
+* Williamson's mouse-deer (T. williamsoni)
+
+Cervidae
+Large family listed below
+
+Bovidae
+Large family listed below
+
+Family Cervidae
+
+Cervinae
+
+Muntiacus
+
+* Indian muntjac (M. muntjak)
+* Reeves's muntjac (M. reevesi)
+* Hairy-fronted muntjac (M. crinifrons)
+* Fea's muntjac (M. feae)
+* Bornean yellow muntjac (M. atherodes)
+* Roosevelt's muntjac (M. rooseveltorum)
+* Gongshan muntjac (M. gongshanensis)
+* Giant muntjac (M. vuquangensis)
+* Truong Son muntjac (M. truongsonensis)
+* Leaf muntjac (M. putaoensis)
+
+Elaphodus
+
+* Tufted deer (E. cephalophus)
+
+Dama
+
+* Fallow deer (D. dama)
+* Persian fallow deer (D. mesopotamica)
+
+Axis
+
+* Chital (A. axis)
+
+Rucervus
+
+* Barasingha (R. duvaucelii)
+
+Panolia
+
+* Eld's Deer (P. eldii)
+
+Elaphurus
+
+* Père David's deer (E. davidianus)
+
+Hyelaphus
+
+* Hog deer (H. porcinus)
+* Calamian deer (H. calamianensis)
+* Bawean deer (H. kuhlii)
+
+Rusa
+
+* Sambar deer (R. unicolor)
+* Rusa deer (R. timorensis)
+* Philippine sambar (R. mariannus)
+* Philippine spotted deer (R. alfredi)
+
+Cervus
+
+* Red deer (C. elaphus)
+* Elk (C. canadensis)
+* Thorold's deer (C. albirostris)
+* Sika deer (C. nippon)
+
+Capreolinae
+
+Alces
+
+* Moose (A. alces)
+
+Hydropotes
+
+* Water deer (H. inermis)
+
+Capreolus
+
+* Roe deer (C. capreolus)
+* Siberian roe deer (C. pygargus)
+
+Rangifer
+
+* Reindeer (R. tarandus)
+
+Hippocamelus
+
+* Taruca (H. antisensis)
+* South Andean deer (H. bisulcus)
+
+Mazama
+
+* Red brocket (M. americana)
+* Small red brocket (M. bororo)
+* Merida brocket (M. bricenii)
+* Dwarf brocket (M. chunyi)
+* Gray brocket (M. gouazoubira)
+* Pygmy brocket (M. nana)
+* Amazonian brown brocket (M. nemorivaga)
+* Yucatan brown brocket (M. pandora)
+* Little red brocket (M. rufina)
+* Central American red brocket (M. temama)
+
+Ozotoceros
+
+* Pampas deer (O. bezoarticus)
+
+Blastocerus
+
+* Marsh deer (B. dichotomus)
+
+Pudu
+
+* Northern pudu (P. mephistophiles)
+* Pudú (P. pudu)
+
+Odocoileus
+
+* White-tailed deer (O. virginianus)
+* Mule deer (O. hemionus)
+
+Family Bovidae
+
+Cephalophinae
+
+Cephalophus
+
+* Abbott's duiker (C. spadix)
+* Aders' duiker (C. adersi)
+* Bay duiker (C. dorsalis)
+* Black duiker (C. niger)
+* Black-fronted duiker (C. nigrifrons)
+* Blue duiker (C. monticola)
+* Harvey's duiker (C. harveyi)
+* Jentink's duiker (C. jentinki)
+* Maxwell's duiker (C. maxwellii)
+* Red forest duiker (C. natalensis)
+* Ogilby's duiker (C. ogilbyi)
+* Peters's duiker (C. callipygus)
+* Red-flanked duiker (C. rufilatus)
+* Ruwenzori duiker (C. rubidis)
+* Weyns's duiker (C. weynsi)
+* White-bellied duiker (C. leucogaster)
+* White-legged duiker (C. crusalbum)
+* Yellow-backed duiker (C. Sylvicultor)
+* Zebra duiker (C. zebra)
+
+Sylvicapra
+
+* Common duiker (S. grimmia)
+
+Hippotraginae
+
+Hippotragus
+
+* Roan antelope (H. equinus)
+* Sable antelope (H. niger)
+
+Oryx
+
+* East African oryx (O. beisa)
+* Scimitar oryx (O. dammah)
+* Gemsbok (O. gazella)
+* Arabian oryx (O. leucoryx)
+
+Addax
+
+* Addax (A. nasomaculatus)
+
+Reduncinae
+
+Kobus
+
+* Upemba lechwe (K. anselli)
+* Waterbuck (K. ellipsiprymnus)
+* Kob (K. kob)
+* Lechwe (K. leche)
+* Nile lechwe (K. megaceros)
+* Puku (K. vardonii)
+
+Redunca
+
+* Southern reedbuck (R. arundinum)
+* Mountain reedbuck (R. fulvorufula)
+* Bohor reedbuck (R. redunca)
+
+Aepycerotinae
+
+Aepyceros
+
+* Impala (A. melampus)
+
+Peleinae
+
+Pelea
+
+* Grey rhebok (P. capreolus)
+
+Alcelaphinae
+
+Beatragus
+
+* Hirola (B. hunteri)
+
+Damaliscus
+
+* Korrigum (D. korrigum)
+* Common tsessebe (D. lunatus)
+* Bontebok (D. pygargus)
+* Bangweulu tsessebe (D. superstes)
+
+Alcelaphus
+
+* Hartebeest (A. buselaphus)
+* Red hartebeest (A. caama)
+* Lichtenstein's hartebeest (A. lichtensteinii)
+
+Connochaetes
+
+* Black wildebeest (C. gnou)
+* Blue wildebeest (C. taurinus)
+
+Pantholopinae
+
+Pantholops
+
+* Tibetan antelope (P. hodgsonii)
+
+Caprinae
+Large subfamily listed below
+
+Bovinae
+Large subfamily listed below
+
+Antilopinae
+Large subfamily listed below
+
+Family Bovidae (subfamily Caprinae)
+
+Ammotragus
+
+* Barbary sheep (A. lervia)
+
+Budorcas
+
+* Takin (B. taxicolor)
+
+Capra
+
+* Wild goat (C. aegagrus)
+* West Caucasian tur (C. caucasia)
+* East Caucasian tur (C. cylindricornis)
+* Markhor (C. falconeri)
+* Alpine ibex (C. ibex)
+* Nubian ibex (C. nubiana)
+* Spanish ibex (C. pyrenaica)
+* Siberian ibex (C. sibirica)
+* Walia ibex (C. walie)
+
+Hemitragus
+
+* Nilgiri tahr (H. hylocrius)
+* Arabian tahr (H. jayakari)
+* Himalayan tahr (H. jemlahicus)
+
+Naemorhedus
+
+* Red goral (N. baileyi)
+* Japanese serow (N. crispus)
+* Long-tailed goral (N. caudatus)
+* Himalayan goral (N. goral)
+* Mainland serow (N. sumatraensis)
+* Taiwan serow (N. swinhoei)
+
+Oreamnos
+
+* Mountain goat (O. americanus)
+
+Ovibos
+
+* Muskox (O. moschatus)
+
+Ovis
+
+* Argali (O. ammon)
+* Domestic sheep (O. aries)
+* Bighorn sheep (O. canadensis)
+* Dall sheep (O. dalli)
+* Mouflon (O. musimon)
+* Snow sheep (O. nivicola)
+* Urial (O. orientalis)
+
+Pseudois
+
+* Bharal (P. nayaur)
+* Dwarf blue sheep (P. schaeferi)
+
+Rupicapra
+
+* Pyrenean chamois (R. pyrenaica)
+* Chamois (R. rupicapra)
+
+Family Bovidae (subfamily Bovinae)
+
+Boselaphini
+
+Tetracerus
+
+* Four-horned antelope (T. quadricornis)
+
+Boselaphus
+
+* Nilgai (B. tragocamelus)
+
+Bovini
+
+Bubalus
+
+* Water buffalo (B. bubalus)
+* Wild Water Buffalo (B. arnee)
+* Lowland anoa (B. depressicornis)
+* Mountain anoa (B. quarlesi)
+* Tamaraw (B. mindorensis)
+
+Bos
+
+* Banteng (B. javanicus)
+* Gaur (B. gaurus)
+* Yak (B. mutus)
+* Cattle (B. taurus)
+* Kouprey (B. sauveli)
+* Zebu (B. indicus)
+
+Pseudonovibos
+
+* Kting voar (P. spiralis)
+
+Pseudoryx
+
+* Saola (P. nghetinhensis)
+
+Syncerus
+
+* African buffalo (S. caffer)
+
+Bison
+
+* American bison (B. bison)
+* Wisent (B. bonasus)
+
+Strepsicerotini
+
+Tragelaphus
+(including kudus)
+
+* Sitatunga (T. spekeii)
+* Nyala (T. angasii)
+* Bushbuck (T. scriptus)
+* Mountain nyala (T. buxtoni)
+* Lesser kudu (T. imberbis)
+* Greater kudu (T. strepsiceros)
+* Bongo (T. eurycerus)
+
+Taurotragus
+
+* Common eland (T. oryx)
+* Giant eland (T. derbianus)
+
+Family Bovidae (subfamily Antilopinae)
+
+Antilopini
+
+Ammodorcas
+
+* Dibatag (A. clarkei)
+
+Antidorcas
+
+* Springbok (A. marsupialis)
+
+Antilope
+
+* Blackbuck (A. cervicapra)
+
+Gazella
+
+* Mountain gazelle (G. gazella)
+* Neumann's gazelle (G. erlangeri)
+* Speke's gazelle (G. spekei)
+* Dorcas gazelle (G. dorcas)
+* Saudi gazelle (G. saudiya)
+* Chinkara (G. bennettii)
+* Thomson's gazelle (G. thomsonii)
+* Red-fronted gazelle (G. rufifrons)
+* Dama gazelle (G. dama)
+* Grant's gazelle (G. granti)
+* Soemmerring's gazelle (G. soemmerringii)
+* Cuvier's gazelle (G. cuvieri)
+* Rhim gazelle (G. leptoceros)
+* Goitered gazelle (G. subgutturosa)
+
+Litocranius
+
+* Gerenuk (L. walleri)
+
+Procapra
+
+* Mongolian gazelle (P. gutturosa)
+* Goa (P. picticaudata)
+* Przewalski's gazelle (P. przewalskii)
+
+Saigini
+
+Pantholops
+
+* Tibetan antelope (P. hodgsonii)
+
+Saiga
+
+* Saiga antelope (S. tatarica)
+
+Neotragini
+
+Dorcatragus
+
+* Beira (D. megalotis)
+
+Madoqua
+
+* Günther's dik-dik (M. guentheri)
+* Kirk's dik-dik (M. kirkii)
+* Silver dik-dik (M. piacentinii)
+* Salt's dik-dik (M. saltiana)
+
+Neotragus
+
+* Bates's pygmy antelope (N. batesi)
+* Suni (N. moschatus)
+* Royal antelope (N. pygmaeus)
+
+Oreotragus
+
+* Klipspringer (O. oreotragus)
+
+Ourebia
+
+* Oribi (O. ourebi)
+
+Raphicerus
+
+* Steenbok (R. campestris)
+* Cape grysbok (R. melanotis)
+* Sharpe's grysbok (R. sharpei)
+
+Suborder Suina
+
+Suidae
+
+Babyrousa
+
+* Buru babirusa (B. babyrussa)
+* North Sulawesi babirusa (B. celebensis)
+* Togian babirusa (B. togeanensis)
+
+Hylochoerus
+
+* Giant forest hog (H. meinertzhageni)
+
+Phacochoerus
+
+* Desert warthog (P. aethiopicus)
+* Warthog (P. africanus)
+
+Porcula
+
+* Pygmy hog (P. salvania)
+
+Potamochoerus
+
+* Bushpig (P. larvatus)
+* Red River Hog (P. porcus)
+
+Sus
+
+* Palawan bearded pig (S. ahoenobarbus)
+* Bornean bearded pig (S. barbatus)
+* Indo-chinese warty pig (S. bucculentus)
+* Visayan warty pig (S. cebifrons)
+* Celebes warty pig (S. celebensis)
+* Flores warty pig (S. heureni)
+* Oliver's warty pig (S. oliveri)
+* Philippine warty pig (S. philippensis)
+* Wild boar (S. scrofa)
+* Timor warty pig (S. timoriensis)
+* Javan warty pig (S. verrucosus)
+
+Tayassuidae
+
+Tayassu
+
+* White-lipped peccary (T. pecari)
+
+Catagonus
+
+* Chacoan peccary (C. wagneri)
+
+Pecari
+
+* Collared peccary (P. tajacu)
+* Giant peccary (P. maximus)
+
+Suborder Tylopoda
+
+Camelidae
+
+Lama
+
+* Llama (L. glama)
+* Guanaco (L. guanicoe)
+
+Vicugna
+
+* Vicuña (V. vicugna)
+* Alpaca (V. pacos)
+
+Camelus
+
+* Dromedary (C. dromedarius)
+* Bactrian camel (C. bactrianus)
+
+Cetartiodactyla (unranked clade, higher than Artiodactyla)
+
+Hippopotamidae
+
+Hippopotamus
+
+* Hippopotamus (H. amphibius)
+
+Choeropsis
+
+* Pygmy hippopotamus (C. liberiensis)

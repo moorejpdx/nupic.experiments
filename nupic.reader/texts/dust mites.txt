@@ -1,0 +1,148 @@
+The house dust mite (sometimes referred to by allergists as HDM) is a cosmopolitan guest in human habitation. Dust mites feed on organic detritus such as flakes of shed human skin and flourish in the stable environment of dwellings. House dust mites are a common cause of asthma and allergic symptoms worldwide. The mite's gut contains potent digestive enzymes (notably proteases) that persist in their feces and are major inducers of allergic reactions such as wheezing. The mite's exoskeleton can also contribute to allergic reactions. The European house dust mite (Dermatophagoides pteronyssinus) and the American house dust mite (Dermatophagoides farinae) are two different species, but are not necessarily confined to Europe or North America; a third species Euroglyphus maynei also occurs widely.
+
+Contents
+
+* 1 Description
+* 2 Life cycle
+* 3 Habitat and food
+* 4 Asthma and allergies
+* 5 Common beliefs and misconceptions
+* 6 Eradication
+* 7 See also
+* 8 References
+* 9 External links
+
+DescriptionHouse dust mites, due to their very small size and translucent bodies, are barely visible to the unaided eye. [1] A typical house dust mite measures 0.25–0.3 millimetre (0.010–0.012 in) in length. [2] For accurate identification, one needs at least 10× magnification. The body of the house dust mite has a striated cuticle. Like all acari, house dust mites have eight legs (except the first instar, which has six).
+
+Life cycleThe average life cycle for a male house dust mite is 10 to 19 days. A mated female house dust mite can last up to 70 days, laying 60 to 100 eggs in the last 5 weeks of her life. In a 10-week life span, a house dust mite will produce approximately 2,000 fecal particles and an even larger number of partially digested enzyme-covered dust particles. [3]
+
+Habitat and foodThe house dust mite survives in all climates, even at high altitude. House dust mites thrive in the indoor environment provided by homes, specifically in bedrooms and kitchens. Dust mites survive well in mattresses, carpets, furniture and bedding, with figures around 100–500 animals/g dust. [4] Even in dry climates, house dust mites survive and reproduce easily in bedding (especially in pillows), which takes up moisture from body contact. [5]
+
+House dust mites consume minute particles of organic matter. Like all acari, house dust mites have a simple gut; they have no stomach but rather diverticulae, which are sacs or pouches that divert out of hollow organs. Like many decomposer animals, they select food that has been already partially decomposed by fungi.
+
+Asthma and allergiesMain articles: Asthma and Allergy
+
+Allergens produced by house dust mites are among the most common triggers of asthma. There are at least 15 mite allergens which are subdivided into groups. Group 1 and 2 allergens are the most problematic. Group 1 consists of proteins with a catalytic activity, for example Der p 1 (Dermatophagoides pteronyssinus group 1) allergen is a cysteine protease, as is its American counterpart Der f 1 (Dermatophagoides farinae group 1). Group 2 are proteins important for the mite. Proteins from the other groups affect only few patients.
+
+Studies have shown the mean attributable fraction of adult asthma due to atopic sensitization was 30% and 18% for sensitization to dust mites. [6] Taken into consideration this could mean as many as 1.2 billion people could have some form of chronic sensitization to dust mites. [6]
+
+The allergy occurs because the immune system of allergy affected individuals, for reasons not fully understood, misinterprets a usually innocuous substance as a disease agent and begins producing a type of antibody against it, called immunoglobulin E (IgE). [7] This is called the 'primary antibody response.' The IgE produced during this response binds to basophils in the bloodstream and to a similar type of cell called mast cells in the tissues. When the person again encounters the allergen, these basophils and mast cells that have bound to IgE release histamine, prostaglandins and leukotrienes, which causes inflammation of the surrounding tissues, resulting in allergic symptoms. Most treatment has relied so far on trying to counteract the released chemicals with anti-histamines, corticosteroids or Salbutamol. Commercial brands of these medications most commonly prescribed to treat Asthma include Ventolin and Seretide.
+
+Newer methods to try to treat house dust mite allergy involve immunotherapy. A safety and tolerability clinical trial (Phase IIa) has been completed with positive results by Cytos Biotechnology using an immunotherapeutic (CYT003-QbG10) for treatment of house dust mite-triggered allergies. [8]
+
+A 10 year controlled study in 60 mite sensitised, asthmatic children, showed almost complete remission of asthma in those treated with sublingual immunotherapy (SLIT), and that this remission was still apparent 5 years beyond the completion of treatment. [9]
+
+This finding was supported by a review of 39 mite triggered asthmatic children, who were suffering an average of 8 acute exacerbations per year. After treatment with SLIT, the exacerbation rate was reduced by 95%. [10]
+
+The French biopharmaceutical company Stallergenes is developing, via the Stalair Program, sublingual desensitization treatments for house dust mite allergy. The immunotherapy tablet, "Actair", has demonstrated efficacy after 4 months of treatment and the persistence of its therapeutic effect after only one year of treatment. (study VO57.07 conducted in Europe) Stallergenes is now preparing filing NDA in Germany. A phase-III pediatric study has been launched.
+
+Typical symptoms of house dust mite allergies are itchiness; sneezing; inflamed or infected eczema skin; watering/reddening eye; sneezing repeatedly and frequently, e.g. on waking up or sneezing 10 or more times; runny nose; and clogging in the lungs.
+
+Dust mite immunotherapy is still not widespread, especially in countries such the UK. If allergic asthmatic children cannot get access to desensitisation, then the best form of treatment for dust mite allergies remains one of avoidance, although this requires a high level of commitment from patient/parents. It is important however, to maintain use of medication such as anti-histamines, corticosteroids or Salbutamol. The environment of bedding is optimal for most dust mites, and comparative studies have shown that the density of dust mites in mattresses is on average greater than 2500/gram of dust. [11] Cleaning beds with most vacuum cleaners will not remove dust mite allergens, but instead throw them into the air and increase their volatility. [12] Some polyethylene bedding is beneficial as it makes the environment difficult for the dust mites. This bedding should also be breathable and be able to withstand frequent washing. A home allergen reduction plan has been recognized as being an essential part to the management of asthma symptoms, [13] and therefore all aspects of the home environment should be considered (proper vacuuming, use of air cleaners, etc.). The Asthma and Allergy Foundation of America as well as the Asthma Society of Canada certify products that may be used in a home allergen reduction plan in a Program called Asthma and Allergy Friendly.
+
+Common beliefs and misconceptionsIt is commonly believed that the accumulated detritus from dust mites can add significantly to the weight of mattresses and pillows. While some recent studies have supported this claim, [14] other reports dispute it. [15] However, more scientific evidence is needed for a complete consensus.
+
+Allergy and asthma sufferers are also often advised to avoid feather pillows due to the presumed increased presence of the house dust mite allergen (Der p I). However, according to a 1996 study from the British Medical Journal, the reverse is true. The study showed that polyester fibre pillows contained more than 8 times the total weight of Der p I and 3.57 times more micrograms of Der p I per gram of fine dust than feather pillows. [16]
+
+EradicationHouse dust mites reproduce quickly enough that their effect on human health can be significant. Since dust mites depend on moisture to survive, they are most often found in bedding such as pillows and duvets. [17] Dust mites numbers can be reduced by replacing carpets with flat surfaces that are easier to vacuum and maintaining relative humidity below 50%. [18] Existing mites can be eradicated through ten minutes' exposure to the lethal temperatures – near 105 °C (221 °F) – in a household clothes dryer, [19] or using disodium octaborate tetrahydrate (DOT) powder. [20] A side-effect of DOT is irritation of eyes.
+
+See alsoArthropods portal
+
+* List of mites associated with cutaneous reactions
+
+References* ^ "Why Study the Mite". Retrieved September 29, 2013.
+* ^ "Ohio State University Extension Fact Sheet". Retrieved June 11, 2013.
+* ^ "Allergia agli acari" (in Italian).
+* ^ "House Dust Allergy". American College of Allergy, Asthma & Immunology. Retrieved September 12, 2012.
+* ^ G. Daniel Brooks & Robert K. Bush (2009). "Allergens and other factors important in atopic disease". In Leslie Carroll Grammer & Paul A. Greenberger. Patterson's Allergic Diseases (7th ed.). Lippincott Williams & Wilkins. pp. 73–103. ISBN 978-0-7817-9425-1.
+* ^ a b Xavier Basagaña, Jordi Sunyer, Manolis Kogevinas, Jan-Paul Zock, Enric Duran-Tauleria, Deborah Jarvis, Peter Burney, Josep Maria Anto, and on behalf of the European Community Respiratory Health Survey (2004). "Socioeconomic status and asthma prevalence in young adults. The European Community respiratory health survey". American Journal of Epidemiology 160 (2): 178–188. doi:10.1093/aje/kwh186. PMID 15234940.
+* ^ J.-Y. Shim, B.-S. Kim, S.-H. Cho, K.-U. Min & S.-J. Hong (2003). "Allergen-specific conventional immunotherapy decreases immunoglobulin E-mediated basophil histamine releasability". Clinical & Experimental Allergy 33 (1): 52–57. doi:10.1046/j.1365-2222.2003.01567.x. PMID 12534549.
+* ^ Staff (June 15, 2007). "Clinical trials update: allergies". Genetic Engineering & Biotechnology News (Mary Ann Liebert). p. 52.
+* ^ V. Di Rienzo, F. Marcucci, P. Puccinelli, S. Parmiani, F. Frati, L. Sensi, G. W. Canonica & G. Passalacqua (2003). "Long-lasting effect of sublingual immunotherapy in children with asthma due to house dust mite: a 10-year prospective study". Clinical & Experimental Allergy 33: 206–210. doi:10.1046/j.1365-2222.2003.01587.x. PMID 12580913.
+* ^ Y. Nuhoglu, S. S. Ozumut, C. Ozdemir, M. Ozdemir, C. Nuhoglu & M. Erguven (2007). "Sublingual immunotherapy to house dust mite in pediatric patients with allergic rhinitis and asthma: a retrospective analysis of clinical course over a 3-year follow-up period". Journal of Investigational Allergology and Clinical Immunology 17 (6): 375–378. PMID 18088019.
+* ^ J. Korsgaard & M. Iversen (1991). "Epidemiology of house dust mite allergy". Allergy 46 (Suppl.11): 14–18. doi:10.1111/j.1398-9995.1991.tb00643.x. PMID 1897695.
+* ^ http://www.webmd.com/allergies/news/20060217/dust-mites-elude-vacuums
+* ^ "Guidelines for the diagnosis and management of asthma.". National Heart Lung and Blood Institute. 2007.
+* ^ MacRae, Fiona (June 22, 2011). "How your pillow is the perfect breeding ground for gruesome array of pests and diseases". Daily Mail.
+* ^ "Does a mattress double its weight due to dust mites and their debris?".
+* ^ T. J. Kemp, R. W. Siebers, D. Fishwick, G. B. O'Grady, P. Fitzharris & J. Crane (October 12 1996). "House dust mite allergen in pillows". British Medical Journal 313 (7062): 916–919. doi:10.1136/bmj.313.7062.916. PMC 2352227. PMID 8876094. "For many years asthmatic patients have been told to avoid using feather filled pillows on their beds, although there is no evidence to support this practice. Strachan and Carey's case-control study is the first to have directly challenged this assumption.1 This study showed that, after exclusion of asthmatic subjects whose bedding had been changed because of their disease, pillows with synthetic fillings were a risk factor for severe asthma. In the light of this finding, we have compared pillows with synthetic and feather fillings for their content of Der p I, the major allergen of the house dust mite Dermatophagoides pteronyssinus."
+* ^ Ella Davies (December 21, 2010). "Dust mites 'swarm' around houses". BBC News. Retrieved September 11, 2012.
+* ^ Soo-Young Choi, In-Yong Lee, Jung-Ho Sohn, Yong-Won Lee, Yoo-Seob Shin, Tae-Soon Yong, Chein-Soo Hong & Jung-Won Park (2008). "Optimal conditions for the removal of house dust mite, dog dander, and pollen allergens using mechanical laundry". Annals of Allergy, Asthma & Immunology 100 (6): 583–588. doi:10.1016/S1081-1206(10)60060-9. PMID 18592823.
+* ^ J. D. Miller, A. Miller (1996). "Ten minutes in a clothes dryer kills all mites in blankets". Journal of Allergy and Clinical Immunology 97 (1, part 3): 423. doi:10.1016/S0091-6749(96)81180-8.
+* ^ R. Codina, R. F. Lockey, R. Diwadkar, L. L. Mobly & S. Godfrey (2003). "Disodium octaborate tetrahydrate (DOT) application and vacuum cleaning, a combined strategy to control house dust mites". Allergy 58 (4): 318–324. doi:10.1034/j.1398-9995.2003.00100.x. PMID 12708980.
+
+External links* House Dust Mite site with research, animations and advice for patients and parents.
+* Dust Mite Information – Allergies, biology, control measures and locating dust mites
+* House dust mites on the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures website
+
+* v
+* t
+* e
+
+Acari (ticks and mites)
+
+Acariformes
+
+Trombidiformes
+
+* Sphaerolichida
+* Prostigmata
+
+Sarcoptiformes
+
+* Endeostigmata
+* Oribatida
+
+Parasitiformes
+
+Opilioacariformes
+
+* Opilioacaridae
+
+Holothyrida
+
+* Allothyridae
+* Holothyridae
+* Neothyridae
+
+Ixodida (ticks)
+
+* Argasidae
+* Ixodidae
+* Nuttalliellidae
+
+Mesostigmata
+
+Sejida
+
+* Sejoidea
+
+Trigynaspida
+
+* Cercomegistoidea
+* Antennophoroidea
+* Celaenopsoidea
+* Fedrizzioidea
+* Megisthanoidea
+* Parantennuloidea
+* Aenictequoidea
+
+Monogynaspida
+
+* Microgynioidea
+* Heatherelloidea
+* Thinozerconoidea
+* Polyaspidoidea
+* Uropodoidea
+* Trachyuropodoidea
+* Diarthrophalloidea
+* Epicrioidea
+* Zerconoidea
+* Arctacaroidea
+* Parasitoidea
+* Veigaioidea
+* Rhodacaroidea
+* Eviphidoidea
+* Ascoidea
+* Phytoseioidea
+* Dermanyssoidea

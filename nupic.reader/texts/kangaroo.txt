@@ -1,0 +1,496 @@
+The kangaroo /ˌkæŋɡəˈruː/ is a marsupial from the family Macropodidae (macropods, meaning 'large foot'). In common use the term is used to describe the largest species from this family, especially those of the genus Macropus, red kangaroo, antilopine kangaroo, eastern grey kangaroo and western grey kangaroo. [1] Kangaroos are endemic to Australia. The smaller macropods are found in Australia and New Guinea.
+
+Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head. Like most marsupials, female kangaroos have a pouch called a marsupium in which joeys complete postnatal development.
+
+Larger kangaroos have adapted much better [which?] to changes brought to the Australian landscape by humans and though many of their smaller cousins are endangered, they are plentiful. They are not farmed to any extent, but wild kangaroos are shot for meat, leather hides, and to protect grazing land for sheep and cattle. [2] Although there is some controversy, harvesting kangaroo meat has many environmental and health benefits over traditional meats. [3]
+
+The kangaroo is an unofficial symbol of Australia, and appears as an emblem on the Australian coat of arms, [4] on some of its currency, [5] and is used by some of Australia's well known organisations, including Qantas [6] and the Royal Australian Air Force. [7] The kangaroo is important to both Australian culture and the national image, and consequently there are numerous popular culture references.
+
+Contents
+
+* 1 Terminology
+* 2 Taxonomy and description
+* 3 Biology and behaviour* 3.1 Locomotion
+* 3.2 Diet* 3.2.1 Absence of digestive methane release
+
+* 3.3 Social and sexual behaviour
+* 3.4 Predators
+* 3.5 Adaptations
+* 3.6 Blindness
+* 3.7 Reproduction and life cycle
+
+* 4 Interaction with humans* 4.1 Conflict with vehicles
+
+* 5 Emblems and popular culture
+* 6 Meat
+* 7 See also
+* 8 References
+* 9 Further reading
+* 10 External links
+
+TerminologyThe word "kangaroo" derives from the Guugu Yimithirr word gangurru, referring to grey kangaroos. [8] [9] The name was first recorded as "kanguru" on 12 July 1770 in an entry in the diary of Sir Joseph Banks; this occurred at the site of modern Cooktown, on the banks of the Endeavour River, where HMS Endeavour under the command of Lieutenant James Cook was beached for almost seven weeks to repair damage sustained on the Great Barrier Reef. [10] Cook first referred to kangaroos in his diary entry of 4 August. Guugu Yimithirr is the language of the people of the area.
+
+A common myth about the kangaroo's English name is that "kangaroo" was a Guugu Yimithirr phrase for "I don't understand you." [11] According to this legend, Lieutenant Cook and naturalist Sir Joseph Banks were exploring the area when they happened upon the animal. They asked a nearby local what the creatures were called. The local responded "Kangaroo", meaning "I don't understand you", which Cook took to be the name of the creature. The Kangaroo myth was debunked in the 1970s by linguist John B. Haviland in his research with the Guugu Yimithirr people. [12]
+
+Kangaroos are often colloquially referred to as "roos". [13] Male kangaroos are called bucks, boomers, jacks, or old men; females are does, flyers, or jills, and the young ones are joeys. [14] The collective noun for kangaroos is a mob, troop, or court. [15]
+
+Taxonomy and descriptionThere are four species that are commonly referred to as kangaroos:
+
+* The red kangaroo (Macropus rufus) is the largest surviving marsupial anywhere in the world. Fewer in numbers, the Red Kangaroo occupies the arid and semi-arid centre of the country. A large male can be 2 metres (6 ft 7 in) tall and weigh 90 kg (200 lb). [16]
+* The eastern grey kangaroo (Macropus giganteus) is less well-known than the red (outside of Australia), but the most often seen, as its range covers the fertile eastern part of the country.
+* The western grey kangaroo (Macropus fuliginosus) is slightly smaller again at about 54 kg (119 lb) for a large male. It is found in the southern part of Western Australia, South Australia near the coast, and the Darling River basin.
+* The antilopine kangaroo (Macropus antilopinus) is, essentially, the far-northern equivalent of the eastern and western grey kangaroos. Like them, it is a creature of the grassy plains and woodlands, and gregarious.
+
+In addition, there are about 50 smaller macropods closely related to the kangaroo in the family Macropodidae. Kangaroos and other macropods share a common ancestor with Phalangeridae from the mid-Miocene. [17] This ancestor was likely arboreal and lived in the canopies of the extensive forests that covered most of Australia at that time, when the climate was much wetter, and fed on leaves and stems. [18] From the late Miocene though the Pliocence and into the Pleistocene the climate got drier which lead to a decline of forests and expansion of grasslands. At this time there was a radiation of macropodids characterised by enlarged body size and adaptation to the low quality grass diet with the development of foregut fermentation. [18] The most numerous early macropods, the Balbaridae and Bulungmayinae, went extinct in the late Miocene around 5–10 mya. [19] There is dispute over the relationships of the two groups to modern kangaroos and rat kangaroos. Some argue that the balbarines were the ancestors of rat kangaroos and the bulungmayines were the ancestors of kangaroos. [20] while others hold the contrary view. [21]
+
+The middle to late bulungmayines, Gungaroo and Wanburoo lacked digit 1 of the hind foot and digits 2 and 3 were reduced and partly under the large digit 4, much like the modern kangaroo foot. This would indicate that they were bipedal. In addition their ankle bones had an articulation that would have prohibited much laternal movements, an adaptation for bipedal hopping. [19] Species related to the modern grey kangaroos and wallaroos begin to appear in the Pliocene. The red kangaroo appears to be the most recently evolved kangaroo with its fossil record not going back beyond the Pleistocene period, 1–2 mya. [22]
+
+Europeans have long regarded kangaroos as strange animals. Early explorers described them as creatures that had heads like deer (without antlers), stood upright like men, and hopped like frogs. Combined with the two-headed appearance of a mother kangaroo, this led many back home to dismiss them as travellers' tales for quite some time. [citation needed] The first kangaroo to be exhibited in the western world was an example shot by John Gore, an officer on Captain Cook's Endeavour in 1770. [23] [24] The animal was shot and its skin and skull transported back to England whereupon it was stuffed (by taxidermists who had never seen the animal before) and displayed to the general public as a curiosity. The first glimpse of a kangaroo for many 18th-century Britons was a painting by George Stubbs. [25]
+
+Biology and behaviourSee also: Red kangaroo#Behaviour and Eastern grey kangaroo#Behaviour
+
+LocomotionKangaroos are the only large animals to use hopping as a means of locomotion. The comfortable hopping speed for a red kangaroo is about 20–25 km/h (13–16 mph), but speeds of up to 70 km/h (44 mph) can be attained over short distances, while it can sustain a speed of 40 km/h (25 mph) for nearly 2 km (1.2 mi). [26] This fast and energy-efficient method of travel has evolved because of the need to regularly cover large distances in search of food and water, rather than the need to escape predators. [citation needed] To move at slow speeds, it uses its tail to form a tripod with its two forelimbs, then raises its hind feet forward. Kangaroos are adept swimmers, and often flee into waterways if threatened by a predator. If pursued into the water, a kangaroo may use its forepaws to hold the predator underwater so as to drown it. [27]
+
+DietKangaroos have chambered stomachs similar to those of cattle and sheep. They regurgitate the vegetation they have eaten, chew it as cud, and then swallow it again for final digestion. Different species of kangaroos have different diets, although all are strict herbivores. The eastern grey kangaroo is predominantly a grazer, eating a wide variety of grasses, whereas some other species (e.g. the red kangaroo) include significant amounts of shrubs in their diets. The smaller species of kangaroos also consume hypogeal fungi. Many species are nocturnal, [28] and crepuscular, [29] [30] usually spending the days resting in shade, and the cool evenings, nights and mornings moving about and feeding.
+
+Because of its grazing, kangaroos have developed specialised teeth. Its incisors are able to crop grass close to the ground, and its molars chop and grind the grass. Since the two sides of the lower jaw are not joined together, the lower incisors are farther apart, giving the kangaroo a wider bite. The silica in grass is abrasive, so kangaroo molars move forward as they are ground down, and eventually fall out, replaced by new teeth that grow in the back. [26] This process is known as polyphyodonty and amongst other mammals, only occurs in elephants and manatees.
+
+Absence of digestive methane releaseDespite having herbivorous diets similar to ruminants such as cattle, which release large quantities of methane through exhaling and eructation (burping), kangaroos release virtually none. The hydrogen byproduct of fermentation is instead converted into acetate, which is then used to provide further energy. Scientists are interested in the possibility of transferring the bacteria responsible from kangaroos to cattle, since the greenhouse gas effect of methane is 23 times greater than that of carbon dioxide, per molecule. [31]
+
+Social and sexual behaviourGroups of kangaroos are called mobs. Mobs usually have 10 or more kangaroos in them. Living in mobs provides protection for some of the weaker members of the group. [15] The size and stability of the mobs vary between geographic regions, [18] with eastern Australia having larger and more stable aggregations than in arid areas farther west. [18] Larger aggregations display high amounts of interactions and complex social structures, comparable to that of ungulates. [18] One common behaviour is nose touching and sniffing, which mostly occurs when an individual joins a group. [22] The kangaroos performing the sniffing gain much information from smell cues. This behaviour enforces social cohesion without consequent aggression. During mutual sniffing, if one kangaroo is smaller, it will hold its body closer to the ground and its head will quiver; this is possibly a form of submission. [22] Greetings between males and females are common, with larger males being the most involved in meeting females. Most other non-antagonistic behaviour occurs between mothers and their young. Mother and young reinforce their bond though grooming. A mother will groom her young during or after it is suckling. [22] A joey will nuzzle its mother’s pouch if it wants access to it.
+
+Sexual activity of kangaroos consists of consort pairs. [32] Oestrous females roam widely and attract the attention of males with conspicuous signals [clarify]. [32] A male will monitor a female and follow her every movement. He sniffs her urine to see if she is in oestrus, a process exhibiting the flehmen response. The male will then proceed to approach her slowly to avoid alarming her. [18] If the female does not run away, the male will continue by licking, pawing, and scratching her, and copulation will follow. [clarification needed] [18] After copulation is over, the male will move on to another female. Consort pairing may take several days and the copulation is also long [clarify]. Thus, a consort pair is likely to attract the attention of a rival male. [32] As larger males are in tending bonds with females near oestrus, smaller males will tend to females that are farther from oestrus. [18] Dominant males can avoid having to sort through females to determine their reproductive status by searching for tending bonds held by the largest male they can displace without a fight. [18]
+
+Fighting has been described in all species of kangaroos. Fights between kangaroos can be brief or long and ritualised. [22] In highly competitive situations such as males fighting for access to oestrous females or at limited drinking spots, the fights are brief. [22] Both sexes will fight for drinking spots, but long, ritualised fighting or "boxing" is largely done by males. Smaller males fight more often near females in oestrus, while the large males in consorts do not seem to get involved. Ritualised fights can arise suddenly when males are grazing together. However, most fights are preceded by two males scratching and grooming each other. [22] One or both of them will adopt a high standing posture, with one male issuing a challenge by grasping the other male’s neck with its forepaw. Sometimes, the challenge will be declined. Large males often reject challenges by smaller males. During fighting, the combatants adopt a high standing posture and paw at each other's heads, shoulders and chests. They will also lock forearms and wrestle and push each other as well as balance on their tails to kick each other in the abdomens. [22] Brief fights are similar except there is no forearm locking. The losing combatant seems to use kicking more often, perhaps to parry the thrusts of the eventual winner. Winners are decided when a kangaroo breaks off the fight and retreats. Winners are able to push their opponents backwards or down to the ground. They also seem to grasp their opponents when they break contact and push them away. [22] The initiators of the fights are usually the winners. These fights may serve to establish dominance hierarchies among males, as winners of fights have been seen to displace their opponent from resting sites later in the day. [22] Dominant males may also pull grass to intimidate subordinates. [18]
+
+PredatorsKangaroos have few natural predators. The thylacine, considered by palaeontologists to have once been a major natural predator of the kangaroo, is now extinct. Other extinct predators included the marsupial lion, Megalania and the Wonambi. However, with the arrival of humans in Australia at least 50,000 years ago and the introduction of the dingo about 5,000 years ago, kangaroos have had to adapt. The mere barking of a dog can set a full-grown male boomer into a wild frenzy. [citation needed] Wedge-tailed eagles and other raptors usually eat kangaroo carrion. Goannas and other carnivorous reptiles also pose a danger to smaller kangaroo species when other food sources are lacking.
+
+Along with dingos, introduced species such as foxes, feral cats, and both domestic and feral dogs, pose a threat to kangaroo populations. Kangaroos and wallabies are adept swimmers, and often flee into waterways if presented with the option. If pursued into the water, a large kangaroo may use its forepaws to hold the predator underwater so as to drown it. [27] Another defensive tactic described by witnesses is catching the attacking dog with the forepaws and disembowelling it with the hind legs.
+
+AdaptationsKangaroos have developed a number of adaptations to a dry, infertile country and highly variable climate. As with all marsupials, the young are born at a very early stage of development – after a gestation of 31–36 days. At this stage, only the forelimbs are somewhat developed, to allow the newborn to climb to the pouch and attach to a teat. In comparison, a human embryo at a similar stage of development would be about seven weeks old, and premature babies born at less than 23 weeks are usually not mature enough to survive. When the joey is born, it is about the size of a lima bean. The joey will usually stay in the pouch for about nine months (180–320 days for the Western Grey) before starting to leave the pouch for small periods of time. It is usually fed by its mother until reaching 18 months.
+
+The female kangaroo is usually pregnant in permanence, except on the day she gives birth; however, she has the ability to freeze the development of an embryo until the previous joey is able to leave the pouch. This is known as diapause, and will occur in times of drought and in areas with poor food sources. The composition of the milk produced by the mother varies according to the needs of the joey. In addition, the mother is able to produce two different kinds of milk simultaneously for the newborn and the older joey still in the pouch.
+
+Unusually, during a dry period, males will not produce sperm, and females will only conceive if enough rain has fallen to produce a large quantity of green vegetation. [33]
+
+Kangaroos and wallabies have large, elastic tendons in their hind legs. They store elastic strain energy in the tendons of their large hind legs, providing most of the energy required for each hop by the spring action of the tendons rather than by any muscular effort. [34] This is true in all animal species which have muscles connected to their skeletons through elastic elements such as tendons, but the effect is more pronounced in kangaroos.
+
+There is also a link between the hopping action and breathing: as the feet leave the ground, air is expelled from the lungs; bringing the feet forward ready for landing refills the lungs, providing further energy efficiency. Studies of kangaroos and wallabies have demonstrated, beyond the minimum energy expenditure required to hop at all, increased speed requires very little extra effort (much less than the same speed increase in, say, a horse, dog or human), and the extra energy is required to carry extra weight. For kangaroos, the key benefit of hopping is not speed to escape predators—the top speed of a kangaroo is no higher than that of a similarly sized quadruped, and the Australian native predators are in any case less fearsome than those of other countries – but economy: in an infertile country with highly variable weather patterns, the ability of a kangaroo to travel long distances at moderately high speed in search of food sources is crucial to survival.
+
+A DNA sequencing project of the genome of a member of the kangaroo family, the tammar wallaby, was started in 2004. It was a collaboration between Australia (mainly funded by the state of Victoria) and the National Institutes of Health in the US. [35] The tammar's genome was fully sequenced in 2011. [36] The genome of a marsupial such as the kangaroo is of great interest to scientists studying comparative genomics, because marsupials are at an ideal degree of evolutionary divergence from humans: mice are too close and have not developed many different functions, while birds are genetically too remote. The dairy industry has also expressed some interest in this project. [specify] [citation needed]
+
+BlindnessEye disease is rare but not new among kangaroos. The first official report of kangaroo blindness took place in 1994, in central New South Wales. The following year, reports of blind kangaroos appeared in Victoria and South Australia. By 1996, the disease had spread "across the desert to Western Australia". [citation needed] Australian authorities were concerned the disease could spread to other livestock and possibly humans. Researchers at the Australian Animal Health Laboratories in Geelong detected a virus called the Wallal virus in two species of midges, believed to have been the carriers. [37] [38] Veterinarians also discovered less than 3% of kangaroos exposed to the virus developed blindness. [39]
+
+Reproduction and life cycleSee also: Red kangaroo#Reproduction and Eastern grey kangaroo#Reproduction
+
+Kangaroo reproduction is similar to that of opossums. The egg (still contained in the evolutionary remnant of a shell, a few micrometres thick, and with only a small quantity of yolk within it) descends from the ovary into the uterus. There it is fertilised and quickly develops into a neonate. Even in the largest kangaroo (the red kangaroo) the neonate emerges after only 33 days. Usually, only one young is born at a time. It is blind, hairless, and only a few centimetres long; its hindlegs are mere stumps; it instead uses its more developed forelegs to climb its way through the thick fur on its mother's abdomen into the pouch, which takes about three to five minutes. Once in the pouch, it fastens onto one of the four teats and starts to feed. Almost immediately, the mother's sexual cycle starts again. Another egg descends into the uterus and she becomes sexually receptive. Then, if she mates and a second egg is fertilised, its development is temporarily halted. Meanwhile, the neonate in the pouch grows rapidly. After about 190 days, the baby (joey) is sufficiently large and developed to make its full emergence out of the pouch, after sticking its head out for a few weeks until it eventually feels safe enough to fully emerge. From then on, it spends increasing time in the outside world and eventually, after about 235 days, it leaves the pouch for the last time. [40] The lifespan of kangaroos averages at six years in the wild [41] to in excess of 20 years in captivity, varying by species. [42] Most individuals, however, do not reach maturity in the wild. [43] [44]
+
+Interaction with humansThe kangaroo has always been a very important animal for Australian Aborigines, for its meat, hide, bone and tendon. Kangaroo hides were also sometimes used for recreation, in particular there are accounts of some tribes (Kurnai) using stuffed kangaroo scrotum as a ball for the traditional football game of marngrook. In addition, there were important Dreaming stories and ceremonies involving the kangaroo. Aherrenge is a current kangaroo dreaming site in the Northern Territory. [45]
+
+Unlike many of the smaller macropods, kangaroos have fared well since European settlement. European settlers cut down forests to create vast grasslands for sheep and cattle grazing, added stock watering points in arid areas, and have substantially reduced the number of dingoes.
+
+Kangaroos are shy and retiring by nature, and in normal circumstances present no threat to humans. In 2003, Lulu, an Eastern Grey which had been hand-reared, saved a farmer's life by alerting family members to his location when he was injured by a falling tree branch. She received the RSPCA Australia National Animal Valour Award on 19 May 2004. [46] [47] [48]
+
+There are very few records of kangaroos attacking humans without provocation; however, several such unprovoked attacks in 2004 spurred fears of a rabies-like disease possibly affecting the marsupials. The only reliably documented case of a fatality from a kangaroo attack occurred in New South Wales, in 1936. A hunter was killed when he tried to rescue his two dogs from a heated fray. Other suggested causes for erratic and dangerous kangaroo behaviour include extreme thirst and hunger. In July 2011 a male red kangaroo attacked a 94 year old woman in her own backyard as well as her son and 2 police officers responding to the situation. The kangaroo was capsicum sprayed (pepper sprayed) and later put down after the attack. [49] [50]
+
+Conflict with vehiclesA collision with a vehicle is capable of killing a kangaroo. Kangaroos dazzled by headlights or startled by engine noise often leap in front of cars. Since kangaroos in mid-bound can reach speeds of around 50 km/h (31 mph) and are relatively heavy, the force of impact can be severe. Small vehicles may be destroyed, while larger vehicles may suffer engine damage. The risk of harm to vehicle occupants is greatly increased if the windscreen is the point of impact. As a result, "kangaroo crossing" signs are commonplace in Australia.
+
+Vehicles that frequent isolated roads, where roadside assistance may be scarce, are often fitted with "roo bars" to minimise damage caused by collision. Bonnet-mounted devices, designed to scare wildlife off the road with ultrasound and other methods, have been devised and marketed.
+
+If a female is the victim of a collision, animal welfare groups ask that her pouch be checked for any surviving joey, in which case it may be removed to a wildlife sanctuary or veterinary surgeon for rehabilitation. Likewise, when an adult kangaroo is injured in a collision, a vet, the RSPCA Australia or the National Parks and Wildlife Service can be consulted for instructions on proper care. In New South Wales, rehabilitation of kangaroos is carried out by volunteers from WIRES. Council road signs often list phone numbers for callers to report injured animals.
+
+Emblems and popular cultureMain article: Kangaroo emblems and popular culture
+
+Kangaroos have been featured on coins, as well as being used as emblems, logos and mascots. They have also been used in the naming of sports teams. They are well represented in films, television, books, toys and souvenirs around the world.
+
+MeatMain article: Kangaroo meat
+
+The kangaroo has been historically a source of food for indigenous Australians. Kangaroo meat is high in protein and low in fat (about 2%). Kangaroo meat has a high concentration of the fatty acid conjugated linoleic acid (CLA) when compared with other foods. Low fat diets rich in CLA have been studied for their potential in reducing obesity and atherosclerosis. [51] [52] [53]
+
+Kangaroo meat is stronger in flavour than the meat from commercially raised food animals. It is considered to be tender. Minced (or ground) kangaroo meat may be substituted into dishes where minced beef would normally be used.
+
+See also* Boxing kangaroo (symbol)
+* Embryonic diapause
+* Kangaroo court (mock justice)
+* Kangaroo industry
+
+References* ^ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M, eds. Mammal Species of the World (3rd ed.). Baltimore: Johns Hopkins University Press. pp. 64 & 66. OCLC 62265494. ISBN 0-801-88221-4.
+* ^ "Kangaroo Industry Background Kangaroo Industries Association of Australia. July 2008". Kangaroo-industry.asn.au. 31 July 1997. Retrieved 5 April 2009.
+* ^ Dow, Steve (26 September 2007). "An industry that's under the gun". Sydney Morning Herald (Fairfax Media). Retrieved 2 October 2011.
+* ^ "Coat of arms". Department of Foreign Affairs and Trade. Australian Government. Retrieved 2 October 2011.
+* ^ "Our currency". Department of Foreign Affairs and Trade. Australian Government. Retrieved 2 October 2011.
+* ^ "The Kangaroo Symbol". Qantas. Archived from the original on 14 April 2006. [dead link]
+* ^ RAAF Ensign and Roundel
+* ^ "Etymology of mammal names in English". IberiaNature. Retrieved 18 June 2011.
+* ^ Stephens, S.E.; Cilento,Raphael (1976). Introduction to Cooktown and its Museum. National Trust of Queensland. ASIN B0000CPFEZ.
+* ^ Bruce Moore, The Vocabulary of Australian English, Australian National Dictionary Centre, Australian National University
+* ^ "Believe it or nuts. (Columns/Posted 11/09/99)". Word Detective. Retrieved 18 June 2011.
+* ^ Haviland, John B. (1974). "A last look at Cook's Guugu-Yimidhirr wordlist" (PDF). Oceania 44 (3): 216–232. Retrieved 13 April 2008.
+* ^ "Roo". Compact Oxford English Dictionary. Ask Oxford.com. Retrieved 31 December 2006.
+* ^ "Kangaroo and Wallaby". San Diego Zoo. Zoological Society of San Diego. Retrieved 2 October 2011.
+* ^ a b Sydenham, S; Thomas, R. "Kangaroos". Kidcyber. Retrieved 2 October 2011.
+* ^ "Red Kangaroo". NAT GEO Wild. National Geographic Society. Retrieved 2 October 2011.
+* ^ Rice, W.D.L. (1978). "Historical introduction to studies on the evolution and phylogeny of the Macropodidae". Australian Mammalogy 2: 1–14.
+* ^ a b c d e f g h i j McCullough 2000
+* ^ a b Tyndale-Biscoe, H (2005). Life of Marsupials. CSIRO Publishing. p. 302. ISBN 978-0-643-06257-3.
+* ^ Cooke B, Kear B (1999). "Evolution and diversity of kangaroos (Macropodoidea, Marsupialia)". Australian Mammalogy 21: 27–29.
+* ^ Flannery, T.F. (1989). "Phylogeny of the Macropodoidea; a study in convergence". In Grigg G., Jarman P., Hume I.D. Kangaroos, Wallabies and Rat-kangaroos. Sydney: Surrey Beatty. pp. 1–46. ISBN 0-949324-22-1.
+* ^ a b c d e f g h i j Dawson, Terence J. (1995). Kangaroos: Biology of the Largest Marsupials. Cornell University Press/Comstock Publishing. ISBN 0-8014-8262-3.
+* ^ <Please add first missing authors to populate metadata.> (June 2006). "Captain John Gore" (PDF). FRiENDS (National Museum of Australia) 17 (2): 18. ISSN 1323-5826. Retrieved 2 October 2011. [dead link]
+* ^ Cowley, Des; Hubber, Brian (2000). "Kangaroo". In Barnes, John; Burt, Sandra. The La Trobe Journal (66): 4–5. ISSN 1441-3760. Retrieved 2 October 2011.
+* ^ The "i" newspaper, June 21, 2013. page 2
+* ^ a b Penny, Malcolm (2002). The Secret Life of Kangaroos. Austin TX: Raintree Steck-Vaughn. ISBN 0-7398-4986-7.
+* ^ a b "Kangaroos". Natural History Notebooks. Canadian Museum of Nature. 3 May 2011. Retrieved 2 October 2011.
+* ^ McGuinness, Keith (25 November 1996). "Re: Kangaroos". MadSci Network. Retrieved 2 October 2011.
+* ^ "From Boomers to Blue fliers: Fun facts About Kangaroos!!". Columbus Zoo and Aquarium. Archived from the original on 26 February 2004. [dead link]
+* ^ "About Australia: Kangaroos". Department of Foreign Affairs and Trade. Retrieved 2012-06-06.
+* ^ "Methane In Agriculture". ABC Radio Australia. Australian Broadcasting Corporation. 15 August 2004. Retrieved 2 October 2011.
+* ^ a b c Gansloßer, Udo (1995). "Courtship behaviour in Macropodoidea (kangaroos, wallabies and rat kangaroos) – phylogenetic and ecological influences on ritualization". Mammal Review 25 (3): 131–157. doi:10.1111/j.1365-2907.1995.tb00453.x.
+* ^ Burnie, David; Don E. Wilson (2001). Animal. New York NY: DK. pp. 99–101. ISBN 0-7894-7764-5.
+* ^ Dawson, Terence J. (Professor UNSW) (1998). Kangaroos: Biology of the largest marsupials (Paperback) (2 ed.). Ithaca, N.Y.: Comstock Pub. Associates. pp. 7–11. ISBN 9 780801 482625. Retrieved 3 August 2013.
+* ^ Spencer, Geoff (8 June 2004). "Kangaroo Hops in Line for Genome Sequencing". National Human Genome Research Institute (Press release). National Institutes of Health. Retrieved 2 October 2011.
+* ^ Renfree M. B.; Papenfuss, A. T.; Deakin, J. E. et al. (19 August 2011-online). "Genome sequence of an Australian kangaroo, Macropus eugenii, provides insight into the evolution of mammalian reproduction and development.". Genome Biology 12 (8): R81. doi:10.1186/gb-2011-12-8-r81. PMC 3277949. PMID 21854559. |accessdate=
+
+requires |url=
+
+(help)
+* ^ Hooper, P (August 1999). "Kangaroo blindness and some other new viral diseases in Australia". Australian Veterinary Journal 77 (8): 514. doi:10.1111/j.1751-0813.1999.tb12122.x. Archived from the original on 17 September 2006. Retrieved 31 December 2006.
+* ^ <Please add first missing authors to populate metadata.> (Autumn 1996). "Viruses on the hop" (PDF). Ecos (CSIRO Publishing) (87). doi:10.1071/EC87p36.
+* ^ Harrison, George (September/October 1997). "Everything You Always Wanted to Know About Kangaroos". National Wildlife Federation. Archived from the original on 30 December 2005.
+* ^ Evolution of Biodiversity, BCB705 Biodiversity, University of the Western Cape
+* ^ Miller-Schroeder, Patricia (2002). Kangaroos. The Untamed World. Raintree Steck-Vaughn. ISBN 978-0-7398-4972-9.
+* ^ "Kangaroo". Parks Victoria. Retrieved 20 February 2011. [dead link]
+* ^ Nowak, Ronald M. (1999). Walker's mammals of the world 2. Johns Hopkins University Press. ISBN 0-8018-5789-9.
+* ^ Joo, Michael S.; Wund, Matthew. "Macropus giganteus". Animal Diversity Web, University of Michigan Museum of Zoology. Retrieved 20 February 2011.
+* ^ "Aherrenge Road". Northern Territory Land Information System. Northern Territory Government. Retrieved 2 October 2011.
+* ^ Leung, Chee Chee (23 September 2003). "Lulu the kangaroo hops to the rescue". The Age (Australia). Retrieved 10 January 2010.
+* ^ "Life-saving kangaroo wins award". BBC News. 29 April 2004. Retrieved 10 January 2010.
+* ^ "Skippy to the rescue". BBC News. 22 September 2003. Retrieved 2 October 2011.
+* ^ "Rogue kangaroo attacks 94-year-old Phyllis Johnson". BBC News. 26 July 2011. Retrieved 2 October 2011.
+* ^ "Pepper-sprayed kangaroo put down". ABC News. 27 July 2011. Retrieved 2 October 2011.
+* ^ "Kangaroo meat – health secret revealed" (Press release). Commonwealth Scientific and Industrial Research Organisation (CSIRO). 23 April 2004. [dead link]
+* ^ Dow, Steve (26 September 2007). "An industry that's under the gun". Sydney Morning Herald. Retrieved 19 August 2008.
+* ^ Sinclair AJ, O'Dea K, Dunstan G, Ireland PD, Niall M (July 1987). "Effects on plasma lipids and fatty acid composition of very low fat diets enriched with fish or kangaroo meat". Lipids 22 (7): 523–9. doi:10.1007/BF02540369. PMID 3626779.
+
+Further reading* McCullough, Dale R.; McCullough, Yvette (2000). Kangaroos in Outback Australia. Columbia University Press. ISBN 0-231-11916-X.
+* Flannery, Timothy Fridtjof (1996). Tree Kangaroos: A Curious Natural History. Melbourne: Reed Books. ISBN 0-7301-0492-3.
+* Underhill D. (1993). Australia's Dangerous Creatures. Sydney NSW: Reader's Digest. ISBN 0-86438-018-6.
+* Weldon, Kevin (1985). The Kangaroo. Sydney NSW: Weldons. ISBN 0-949708-22-4.
+
+External links* The Kangaroo Genome Project at Australian National University
+* Prehistoric mammals
+* Video of Kangaroo giving Birth
+
+* v
+* t
+* e
+
+Extant Diprotodontia species
+
+* Kingdom Animalia
+* Phylum Chordata
+* Class Mammalia
+* Infraclass Marsupialia
+
+Suborder Vombatiformes
+
+Phascolarctidae
+
+Phascolarctos
+
+* Koala (P. cinereus)
+
+Vombatidae
+(Wombats)
+
+Vombatus
+
+* Common wombat (V. ursinus)
+
+Lasiorhinus
+
+* Southern hairy-nosed wombat (L. latifrons)
+* Northern hairy-nosed wombat (L. krefftii)
+
+Suborder Phalangeriformes (Possums) (cont. below)
+
+Phalangeridae
+(including Cuscuses)
+
+Ailurops
+(Bear cuscuses)
+
+* Talaud bear cuscus (A. melanotis)
+* Sulawesi bear cuscus (A. ursinus)
+
+Phalanger
+
+* Gebe Cuscus (P. alexandrae)
+* Mountain cuscus (P. carmelitae)
+* Ground cuscus (P. gymnotis)
+* Eastern common cuscus (P. intercastellanus)
+* Woodlark cuscus (P. lullulae)
+* Blue-eyed cuscus (P. matabiru)
+* Telefomin cuscus (P. matanim)
+* Southern common cuscus (P. mimicus)
+* Northern common cuscus (P. orientalis)
+* Ornate cuscus (P. ornatus)
+* Rothschild's cuscus (P. rothschildi)
+* Silky cuscus (P. sericeus)
+* Stein's cuscus (P. vestitus)
+
+Spilocuscus
+
+* Admiralty Island cuscus (S. kraemeri)
+* Common spotted cuscus (S. maculatus)
+* Waigeou cuscus (S. papuensis)
+* Black-spotted cuscus (S. rufoniger)
+* Blue-eyed spotted cuscus (S. wilsoni)
+
+Strigocuscus
+
+* Sulawesi dwarf cuscus (S. celebensis)
+* Banggai cuscus (S. pelegensis)
+
+Trichosurus
+(Brushtail possums)
+
+* Northern brushtail possum (T. arnhemensis)
+* Short-eared possum (T. caninus)
+* Mountain brushtail possum (T. cunninghami)
+* Coppery brushtail possum (T. johnstonii)
+* Common brushtail possum (T. vulpecula)
+
+Wyulda
+
+* Scaly-tailed possum (W. squamicaudata)
+
+Burramyidae
+(Pygmy possums)
+
+Burramys
+
+* Mountain pygmy possum (B. parvus)
+
+Cercartetus
+
+* Long-tailed pygmy possum (C. caudatus)
+* Southwestern pygmy possum (C. concinnus)
+* Tasmanian pygmy possum (C. lepidus)
+* Eastern pygmy possum (C. nanus)
+
+Suborder Phalangeriformes (Possums) (cont. above)
+
+Tarsipedidae
+
+Tarsipes
+
+* Honey possum (T. rostratus)
+
+Petauridae
+
+Dactylopsila
+
+* Great-tailed triok (D. megalura)
+* Long-fingered triok (D. palpator)
+* Tate's triok (D. tatei)
+* Striped possum (D. trivirgata)
+
+Gymnobelideus
+
+* Leadbeater's possum (G. leadbeateri)
+
+Petaurus
+
+* Northern glider (P. abidi)
+* Yellow-bellied glider (P. australis)
+* Biak glider (P. biacensis)
+* Sugar glider (P. breviceps)
+* Mahogany glider (P. gracilis)
+* Squirrel glider (P. norfolcensis)
+
+Pseudocheiridae
+
+Hemibelideus
+
+* Lemur-like ringtail possum (H. lemuroides)
+
+Petauroides
+
+* Greater glider (P. volans)
+
+Petropseudes
+
+* Rock-haunting ringtail possum (P. dahli)
+
+Pseudocheirus
+
+* Common ringtail possum (P. peregrinus)
+
+Pseudochirulus
+
+* Lowland ringtail possum (P. canescens)
+* Weyland ringtail possum (P. caroli)
+* Cinereus ringtail possum (P. cinereus)
+* Painted ringtail possum (P. forbesi)
+* Herbert River ringtail possum (P. herbertensis)
+* Masked ringtail possum (P. larvatus)
+* Pygmy ringtail possum (P. mayeri)
+* Vogelkop ringtail possum (P. schlegeli)
+
+Pseudochirops
+
+* D'Albertis' ringtail possum (P. albertisii)
+* Green ringtail possum (P. archeri)
+* Plush-coated ringtail possum (P. corinnae)
+* Reclusive ringtail possum (P. coronatus)
+* Coppery ringtail possum (P. cupreus)
+
+Acrobatidae
+
+Acrobates
+
+* Feathertail glider (A. pygmaeus)
+
+Distoechurus
+
+* Feather-tailed possum (D. pennatus)
+
+Suborder Macropodiformes (cont. below)
+
+Macropodidae
+(includes Wallabies)
+
+Lagostrophus
+
+* Banded hare-wallaby (L. fasciatus)
+
+Dendrolagus
+(Tree-kangaroos)
+
+* Grizzled tree-kangaroo (D. inustus)
+* Lumholtz's tree-kangaroo (D. lumholtzi)
+* Bennett's tree-kangaroo (D. bennettianus)
+* Ursine tree-kangaroo (D. ursinus)
+* Matschie's tree-kangaroo (D. matschiei)
+* Doria's tree-kangaroo (D. dorianus)
+* Ifola tree-kangaroo (D. notatus)
+* Goodfellow's tree-kangaroo (D. goodfellowi)
+* Lowlands tree-kangaroo (D. spadix)
+* Golden-mantled tree-kangaroo (D. pulcherrimus)
+* Seri's tree-kangaroo (D. stellarum)
+* Dingiso (D. mbaiso)
+* Tenkile (D. scottae)
+
+Dorcopsis
+
+* Brown dorcopsis (D. muelleri)
+* White-striped dorcopsis (D. hageni)
+* Black dorcopsis (D. atrata)
+* Gray dorcopsis (D. luctuosa)
+
+Dorcopsulus
+
+* Small dorcopsis (D. vanheurni)
+* Macleay's dorcopsis (D. macleayi)
+
+Lagorchestes
+
+* Spectacled hare-wallaby (L. conspicillatus)
+* Rufous hare-wallaby (L. hirsutus)
+
+Macropus
+(includes Kangaroos
+and Wallaroos)
+
+* Subgenus Notamacropus: Agile wallaby (M. agilis)
+* Black-striped wallaby (M. dorsalis)
+* Tammar wallaby (M. eugenii)
+* Western brush wallaby (M. irma)
+* Parma wallaby (M. parma)
+* Pretty-faced wallaby (M. parryi)
+* Red-necked wallaby (M. rufogriseus)
+
+* Subgenus Osphranter: Antilopine kangaroo (M. antilopinus)
+* Woodward's wallaroo (M. bernadus)
+* Eastern wallaroo (M. robustus)
+* Red kangaroo (M. rufus)
+
+* Subgenus Macropus: Western grey kangaroo (M. fuliginosus)
+* Eastern grey kangaroo (M. giganteus)
+
+Onychogalea
+(Nail-tail wallabies)
+
+* Bridled nail-tail wallaby (O. fraenata)
+* Northern nail-tail wallaby (O. unguifera)
+
+Petrogale
+(Rock-wallabies)
+
+* P. brachyotis species-group: Short-eared rock-wallaby (P. brachyotis)
+* Monjon (P. burbidgei)
+* Nabarlek (P. concinna)
+
+* P. xanthopus species-group: Proserpine rock-wallaby (P. persephone)
+* Rothschild's rock-wallaby (P. rothschildi)
+* Yellow-footed rock-wallaby (P. xanthopus)
+
+* P. lateralis/penicillata species-group: Allied rock-wallaby (P. assimilis)
+* Cape York rock-wallaby (P. coenensis)
+* Godman's rock-wallaby (P. godmani)
+* Herbert's rock-wallaby (P. herberti)
+* Unadorned rock-wallaby (P. inornata)
+* Black-flanked rock-wallaby (P. lateralis)
+* Mareeba rock-wallaby (P. mareeba)
+* Brush-tailed rock-wallaby (P. penicillata)
+* Purple-necked rock-wallaby (P. purpureicollis)
+* Mount Claro rock-wallaby (P. sharmani)
+
+Setonix
+
+* Quokka (S. brachyurus)
+
+Thylogale
+(Pademelons)
+
+* Tasmanian pademelon (T. billardierii)
+* Brown's pademelon (T. browni)
+* Dusky pademelon (T. brunii)
+* Calaby's pademelon (T. calabyi)
+* Mountain pademelon (T. lanatus)
+* Red-legged pademelon (T. stigmatica)
+* Red-necked pademelon (T. thetis)
+
+Wallabia
+
+* Swamp wallaby (W. bicolor)
+
+Suborder Macropodiformes (cont. above)
+
+Potoroidae
+
+Aepyprymnus
+
+* Rufous rat-kangaroo (A. rufescens)
+
+Bettongia
+(Bettongs)
+
+* Eastern bettong (B. gaimardi)
+* Boodie (B. lesueur)
+* Woylie (B. penicillata)
+* Northern bettong (B. tropica)
+
+Potorous
+(Potoroos)
+
+* Long-footed potoroo (P. longipes)
+* Long-nosed potoroo (P. tridactylus)
+* Gilbert's potoroo (. gilbertii)
+
+Hypsiprymnodontidae
+
+Hypsiprymnodon
+
+* Musky rat-kangaroo (H. moschatus)

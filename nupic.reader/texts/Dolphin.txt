@@ -1,0 +1,391 @@
+Dolphins are marine mammals closely related to whales and porpoises. There are almost forty species of dolphin in 17 genera. They vary in size from 1.2 m (4 ft) and 40 kg (90 lb) (Maui's dolphin), up to 9.5 m (30 ft) and 10 tonnes (9.8 long tons; 11 short tons) (the orca or killer whale). They are found worldwide, mostly in the shallower seas of the continental shelves and are carnivores, eating mostly fish and squid. The family Delphinidae, the largest in the Cetacean order, evolved relatively recently, about ten million years ago during the Miocene.
+
+Contents
+
+* 1 Etymology
+* 2 Taxonomy* 2.1 Hybridization
+
+* 3 Evolution and anatomy* 3.1 Evolution
+* 3.2 Anatomy
+* 3.3 Senses
+
+* 4 Behavior* 4.1 Social behavior
+* 4.2 Reproduction and sexuality
+* 4.3 Feeding
+* 4.4 Vocalizations
+* 4.5 Jumping and playing
+* 4.6 Sleeping
+
+* 5 Threats* 5.1 Natural threats
+* 5.2 Human threats
+
+* 6 Conservation
+* 7 Relationships with humans* 7.1 Mythology
+* 7.2 Popular culture
+* 7.3 Dolphinaria
+* 7.4 Attack on humans
+* 7.5 Therapy
+* 7.6 Military
+* 7.7 Literature
+* 7.8 Art
+* 7.9 Cuisine
+
+* 8 See also
+* 9 References
+* 10 Further reading
+* 11 External links
+
+EtymologyThe name is originally from Greek δελφίς (delphís), "dolphin", [1] which was related to the Greek δελφύς (delphus), "womb". [2] The animal's name can therefore be interpreted as meaning "a 'fish' with a womb". [3] The name was transmitted via the Latin delphinus [4] (the romanization of the later Greek δελφῖνος – delphinos [5]), which in Medieval Latin became dolfinus and in Old French daulphin, which reintroduced the ph into the word. The term mereswine (that is, "sea pig") has also historically been used. [6]
+
+The term 'dolphin' can be used to refer to, under the suborder odontoceti, all the species in the family delphinidae (marine dolphins including orcas and pilot whales) and the river dolphin superfamily Platanistoidea, which includes the families Iniidae (Amazon river dolphin), Lipotidae (Yangtze river dolphin) and Platanistidae (Ganges river dolphin and Indus river dolphin). [7] [8] This term has often been misused in the US, mainly in the fishing industry, where all small cetaceans (dolphins and porpoises) are considered porpoises, while the fish dorado is called dolphin fish. [9] In common usage the term 'whale' is used only for the larger species under cetaceans, [10] while the smaller ones with a beaked or longer nose are considered 'dolphins'. [11] The name 'dolphin' is used casually as a synonym for bottlenose dolphin, the most common and familiar species of dolphin. [12] Orcas and some closely related species belong to the delphinidae family and therefore qualify as dolphins, though they are called killer whales in common usage. Though the terms 'dolphin' and 'porpoise' are used interchangeably, porpoises are not considered dolphins and have different physical features such as a shorter beak and spade-shaped teeth; they even differ in their behavior. Porpoises belong to the family Phocoenidae and share a common ancestry with the delphinidae under the suborder odontocetes. [12]
+
+A group of dolphins is called a "school" or a "pod". Male dolphins are called "bulls", females "cows" and young dolphins are called "calves". [13]
+
+Taxonomy* Suborder Odontoceti, toothed whales* Family Delphinidae, oceanic dolphins* Genus Delphinus* Long-beaked common dolphin, Delphinus capensis
+* Short-beaked common dolphin, Delphinus delphis
+
+* Genus Tursiops* Common bottlenose dolphin, Tursiops truncatus
+* Indo-Pacific bottlenose dolphin, Tursiops aduncus
+* Burrunan dolphin, Tursiops australis, a newly discovered species from the sea around Melbourne in September 2011. [14]
+
+* Genus Lissodelphis* Northern right whale dolphin, Lissodelphis borealis
+* Southern right whale dolphin, Lissodelphis peronii
+
+* Genus Sotalia* Tucuxi, Sotalia fluviatilis
+* Costero, Sotalia guianensis
+
+* Genus Sousa* Indo-Pacific humpback dolphin, Sousa chinensis* Chinese white dolphin (the Chinese variant), Sousa chinensis chinensis
+
+* Atlantic humpback dolphin, Sousa teuszii
+
+* Genus Stenella* Atlantic spotted dolphin, Stenella frontalis
+* Clymene dolphin, Stenella clymene
+* Pantropical spotted dolphin, Stenella attenuata
+* Spinner dolphin, Stenella longirostris
+* Striped dolphin, Stenella coeruleoalba
+
+* Genus Steno* Rough-toothed dolphin, Steno bredanensis
+
+* Genus Cephalorhynchus* Chilean dolphin, Cephalorhynchus eutropia
+* Commerson's dolphin, Cephalorhynchus commersonii
+* Heaviside's dolphin, Cephalorhynchus heavisidii
+* Hector's dolphin, Cephalorhynchus hectori
+
+* Genus Grampus* Risso's dolphin, Grampus griseus
+
+* Genus Lagenodelphis* Fraser's dolphin, Lagenodelphis hosei
+
+* Genus Lagenorhynchus* Atlantic white-sided dolphin, Lagenorhynchus acutus
+* Dusky dolphin, Lagenorhynchus obscurus
+* Hourglass dolphin, Lagenorhynchus cruciger
+* Pacific white-sided dolphin, Lagenorhynchus obliquidens
+* Peale's dolphin, Lagenorhynchus australis
+* White-beaked dolphin, Lagenorhynchus albirostris
+
+* Genus Orcaella* Australian snubfin dolphin, Orcaella heinsohni
+* Irrawaddy dolphin, Orcaella brevirostris
+
+* Genus Peponocephala* Melon-headed whale, Peponocephala electra
+
+* Genus Orcinus* Killer whale (Orca), Orcinus orca
+
+* Genus Feresa* Pygmy killer whale, Feresa attenuata
+
+* Genus Pseudorca* False killer whale, Pseudorca crassidens
+
+* Genus Globicephala* Long-finned pilot whale, Globicephala melas
+* Short-finned pilot whale, Globicephala macrorhynchus
+
+* Genus †Australodelphis* †Australodelphis mirus
+
+* Family Platanistidae* Ganges and Indus river dolphin, Platanista gangetica with two subspecies* Ganges river dolphin (or Susu), Platanista gangetica gangetica
+* Indus river dolphin (or Bhulan), Platanista gangetica minor
+
+* Family Iniidae* Amazon river dolphin (or Boto), Inia geoffrensis
+
+* Family Lipotidae* Baiji (or Chinese river dolphin), Lipotes vexillifer (possibly extinct, since December 2006)
+
+* Family Pontoporiidae* La Plata dolphin (or Franciscana), Pontoporia blainvillei
+
+Six species in the family Delphinidae are commonly called "whales", but genetically are dolphins. They are sometimes called blackfish.
+
+* Melon-headed whale, Peponocephala electra
+* Killer whale (Orca), Orcinus orca
+* Pygmy killer whale, Feresa attenuata
+
+* False killer whale, Pseudorca crassidens
+* Long-finned pilot whale, Globicephala melas
+* Short-finned pilot whale, Globicephala macrorhynchus
+
+HybridizationIn 1933, three strange dolphins beached off the Irish coast; they appeared to be hybrids between Risso's and bottlenose dolphins. [15] This mating was later repeated in captivity, producing a hybrid calf. In captivity, a bottlenose and a rough-toothed dolphin produced hybrid offspring. [16] A common-bottlenose hybrid lives at SeaWorld California. [17] Other dolphin hybrids live in captivity around the world or have been reported in the wild, such as a bottlenose-Atlantic spotted hybrid. [18] The best known hybrid is the wolphin, a false killer whale-bottlenose dolphin hybrid. The wolphin is a fertile hybrid. Two wolphins currently live at the Sea Life Park in Hawaii; the first was born in 1985 from a male false killer whale and a female bottlenose. Wolphins have also been observed in the wild. [19]
+
+Evolution and anatomyEvolutionSee also: Evolution of cetaceans
+
+Along with whales and porpoises, dolphins are descendants of terrestrial mammals, most likely of the Artiodactyl order. The ancestors of the modern-day dolphins entered the water roughly 55 million years ago, in the Eocene epoch. [20]
+
+Modern dolphin skeletons have two small, rod-shaped pelvic bones thought to be vestigial hind limbs. In October 2006, an unusual bottlenose dolphin was captured in Japan; it had small fins on each side of its genital slit, which scientists believe to be an unusually pronounced development of these vestigial hind limbs. [21]
+
+AnatomyDolphins have a streamlined fusiform body, adapted for fast swimming. The tail fin, called the fluke, is used for propulsion while the pectoral fins, together with the entire tail section, provide directional control. The dorsal fin, in those species that have one, provides stability while swimming. Though varying by species, basic coloration patterns are shades of grey, usually with a lighter underside and often with lines and patches of different hue and contrast.
+
+The head contains the melon, a round organ used for echolocation. In many species, elongated jaws form a distinct beak; species such as the bottlenose have a curved mouth which looks like a fixed smile. Some species have up to 250 teeth. Dolphins breathe through a blowhole on top of their head. The trachea is anterior to the brain. The dolphin brain is large and highly complex, and is different in structure from that of most land mammals. [22]
+
+Unlike most mammals, dolphins do not have hair, except for a few hairs around the tip of their rostrum (beak) which they lose shortly before or after birth. [23] The only exception to this is the Boto river dolphin, which has persistent small hairs on the rostrum. [24]
+
+Dolphins' reproductive organs are located on the underside of the body. Males have two slits, one concealing the penis and one further behind for the anus. [25] The female has one genital slit, housing the vagina and the anus. Two mammary slits are positioned on either side of the female's genital slit. [26] [27] [28]
+
+Dolphins can tolerate and recover from extreme injuries such as shark bites although the exact methods used to achieve this are not known. The healing process is rapid and even very deep wounds do not cause dolphins to hemorrhage to death. Furthermore, even gaping wounds restore in such a way that the animal's body shape is restored, and infection of such large wounds seems rare. [29]
+
+A study at the U.S. National Marine Mammal Foundation revealed that dolphins, like humans, develop a natural form of type 2 diabetes which may lead to a better understanding of the disease and new treatments for both humans and dolphins. [30]
+
+SensesMost dolphins have acute eyesight, both in and out of the water, and they can hear frequencies ten times or more above the upper limit of adult human hearing. [31] Though they have a small ear opening on each side of their head, it is believed hearing underwater is also, if not exclusively, done with the lower jaw, which conducts sound to the middle ear via a fat-filled cavity in the lower jaw bone. Hearing is also used for echolocation, which all dolphins have. Dolphin teeth are believed to function as antennae to receive incoming sound and to pinpoint the exact location of an object. [32] Beyond locating an object, echolocation also provides the animal with an idea on the object's shape and size, though how exactly this works is not yet understood. [33] The Indus Dolphin is effectively blind. This may be because not much light penetrates the waters of the Indus river (due to suspended sediments), making the need for vision unnecessary. [34]
+
+The dolphin's sense of touch is also well-developed, with free nerve endings densely packed in the skin, especially around the snout, pectoral fins and genital area. However, dolphins lack an olfactory nerve and lobes, and thus are believed to have no sense of smell. [35] They do have a sense of taste and show preferences for certain kinds of fish. Since dolphins spend most of their time below the surface, tasting the water could function like smelling, in that substances in the water can signal the presence of objects that are not in the dolphin’s mouth.
+
+Though most dolphins do not have hair, they do have hair follicles that may perform some sensory function. [36] The small hairs on the rostrum of the Boto river dolphin are believed to function as a tactile sense possibly to compensate for the Boto's poor eyesight. [37]
+
+BehaviorSee also: Whale surfacing behaviour
+
+Dolphins are often regarded as one of Earth's most intelligent animals, though it is hard to say just how intelligent. Comparing species' relative intelligence is complicated by differences in sensory apparatus, response modes, and nature of cognition. Furthermore, the difficulty and expense of experimental work with large aquatic animals has so far prevented some tests and limited sample size and rigor in others. Compared to many other species, however, dolphin behavior has been studied extensively, both in captivity and in the wild. See cetacean intelligence for more details.
+
+Social behaviorDolphins are social, living in pods of up to a dozen individuals. In places with a high abundance of food, pods can merge temporarily, forming a superpod; such groupings may exceed 1,000 dolphins. Individual dolphins communicate using a variety of clicks, whistle-like sounds and other vocalizations. Membership in pods is not rigid; interchange is common. Dolphins can, however, establish strong social bonds; they will stay with injured or ill individuals, even helping them to breathe by bringing them to the surface if needed. [38] This altruism does not appear to be limited to their own species. The dolphin Moko in New Zealand has been observed guiding a female Pygmy Sperm Whale together with her calf out of shallow water where they had stranded several times. [39] They have also been seen protecting swimmers from sharks by swimming circles around the swimmers [40] [41] or charging the sharks to make them go away.
+
+Dolphins also display culture, something long believed to be unique to humans (and possibly other primate species). In May 2005, a discovery in Australia found Indo-Pacific bottlenose dolphins (Tursiops aduncus) teaching their young to use tools. They cover their snouts with sponges to protect them while foraging. This knowledge is mostly transferred by mothers to daughters, unlike simian primates, where knowledge is generally passed on to both sexes. Using sponges as mouth protection is a learned behavior. [42] Another learned behavior was discovered among river dolphins in Brazil, where some male dolphins use weeds and sticks as part of a sexual display. [43]
+
+Dolphins engage in acts of aggression towards each other. The older a male dolphin is, the more likely his body is to be covered with bite scars. Male dolphins engage in acts of aggression apparently for the same reasons as humans: disputes between companions and competition for females. Acts of aggression can become so intense that targeted dolphins sometimes go into exile after losing a fight.
+
+Male bottlenose dolphins have been known to engage in infanticide. Dolphins have also been known to kill porpoises for reasons which are not fully understood, as porpoises generally do not share the same diet as dolphins and are therefore not competitors for food supplies. [44]
+
+Reproduction and sexualitySee also: Bottlenose dolphin#Reproduction
+
+Dolphin copulation happens belly to belly; though many species engage in lengthy foreplay, the actual act is usually brief, but may be repeated several times within a short timespan. The gestation period varies with species; for the small Tucuxi dolphin, this period is around 11 to 12 months, while for the orca, the gestation period is around 17 months. Typically dolphins give birth to a single calf, which is, unlike most other mammals, born tail first in most cases. [45] They usually become sexually active at a young age, even before reaching sexual maturity. The age of sexual maturity varies by species and gender.
+
+Dolphins are known to display non-reproductive sexual behavior, engaging in masturbation, stimulation of the genital area of other individuals using the rostrum or flippers and homosexual contact. [46] [47] Various species of dolphin have been known to engage in sexual behavior up to and including copulation with dolphins of other species. Sexual encounters may be violent, with male dolphins sometimes showing aggressive behavior towards both females and other males. [48] Occasionally, dolphins behave sexually towards other animals, including humans. [49]
+
+FeedingVarious methods of feeding exist among and within species, some apparently exclusive to a single population. Fish and squid are the main food, but the false killer whale and the orca also feed on other marine mammals. Orcas on occasion also hunt whale species larger than themselves. [50]
+
+One common feeding method is herding, where a pod squeezes a school of fish into a small volume, known as a bait ball. Individual members then take turns plowing through the ball, feeding on the stunned fish. [50] Coralling is a method where dolphins chase fish into shallow water to catch them more easily. [50] Orcas and bottlenose dolphins have also been known to drive their prey onto a beach to feed on it, a behaviour known as beach or strand feeding. [51] [52] Some species also whack fish with their flukes, stunning them and sometimes knocking them out of the water. [50]
+
+Reports of cooperative human-dolphin fishing date back to the ancient Roman author and natural philosopher Pliny the Elder. [53] A modern human-dolphin partnership currently operates in Laguna, Santa Catarina, Brazil. Here, dolphins drive fish towards fishermen waiting along the shore and signal the men to cast their nets. The dolphins’ reward is the fish that escape the nets. [54] [55]
+
+VocalizationsDolphins are capable of making a broad range of sounds using nasal airsacs located just below the blowhole. Roughly three categories of sounds can be identified: frequency modulated whistles, burst-pulsed sounds and clicks. Dolphins communicate with whistle-like sounds produced by vibrating connective tissue, similar to the way human vocal cords function, [56] and through burst-pulsed sounds, though the nature and extent of that ability is not known. The clicks are directional and are for echolocation, often occurring in a short series called a click train. The click rate increases when approaching an object of interest. Dolphin echolocation clicks are amongst the loudest sounds made by marine animals. [57]
+
+Bottlenose dolphins have been found to have signature whistles, a whistle that is unique to a specific individual. These whistles are used in their communication to identify an individual. It can be seen as the dolphin equivalent of a name. [58] The signature whistle of male bottlenose dolphins tends to be similar to that of their mother, while the signature whistle of female bottlenose dolphins tends to be more unique. [59] Bottlenose dolphins have a strong memory when it comes to these signature whistles, being able to relate to a signature whistle of an individual they have not encountered for over twenty years. [60] Research done on signature whistle usage by other dolphin species is relatively limited. The research on other species done so far has yielded varied outcomes and inconclusive results. [61] [62] [63] [64]
+
+Jumping and playingDolphins frequently leap above the water surface, this being done for various reasons. When travelling, jumping can save the dolphin energy as there is less friction while in the air. [65] This type of travel is known as porpoising. [65] Other reasons include orientation, social displays, fighting, non-verbal communication, entertainment and attempting to dislodge parasites. [66] [67]
+
+Dolphins show various types of playful behavior, often including objects, self-made bubble rings, other dolphins or other animals. [8] [68] [69] When playing with objects or small animals, common behavior includes carrying the object or animal along using various parts of the body, passing it along to other members of the group or taking it from another member, or throwing it out of the water. [68] Dolphins have also been observed harassing animals in other ways, for example by dragging birds underwater without showing any intent to eat them. [68] Playful behaviour that involves an other animal species with active participation of the other animal can also be observed however. Playful human interaction with dolphins being the most obvious example, however playful interactions have been observed in the wild with a number of other species as well, such as Humpback Whales and dogs. [70] [71]
+
+SleepingFurther information: Sleep (non-human)
+
+Generally, dolphins sleep with only one brain hemisphere in slow-wave sleep at a time, thus maintaining enough consciousness to breathe and to watch for possible predators and other threats. Earlier sleep stages can occur simultaneously in both hemispheres. [72] [73] [74] In captivity, dolphins seemingly enter a fully asleep state where both eyes are closed and there is no response to mild external stimuli. In this case, respiration is automatic; a tail kick reflex keeps the blowhole above the water if necessary. Anesthetized dolphins initially show a tail kick reflex. [75] Though a similar state has been observed with wild sperm whales, it is not known if dolphins in the wild reach this state. [76] The Indus river dolphin has a sleep method that is different from that of other dolphin species. Living in water with strong currents and potentially dangerous floating debris, it must swim continuously to avoid injury. As a result, this species sleeps in very short bursts which last between 4 and 60 seconds. [77]
+
+ThreatsNatural threatsExcept for humans (discussed below), dolphins have few natural enemies. Some species or specific populations have none, making them apex predators. For most of the smaller species of dolphins, only a few of the larger sharks, such as the bull shark, dusky shark, tiger shark and great white shark, are a potential risk, especially for calves. [78] Some of the larger dolphin species, especially orcas (killer whales), may also prey on smaller dolphins, but this seems rare. [79] [80] Dolphins also suffer from a wide variety of diseases and parasites. [81] [82]
+
+Human threatsSee also: Dolphin drive hunting and Cetacean bycatch
+
+Some dolphin species face an uncertain future, especially some river dolphin species such as the Amazon river dolphin, and the Ganges and Yangtze river dolphin, which are critically or seriously endangered. A 2006 survey found no individuals of the Yangtze river dolphin, which now appears to be functionally extinct. [83]
+
+Pesticides, heavy metals, plastics, and other industrial and agricultural pollutants that do not disintegrate rapidly in the environment concentrate in predators such as dolphins. [84] Injuries or deaths due to collisions with boats, especially their propellers, are also common.
+
+Various fishing methods, most notably purse seine fishing for tuna and the use of drift and gill nets, unintentionally kill many dolphins. [85] Accidental by-catch in gill nets and incidental captures in antipredator nets that protect marine fish farms are common and pose a risk for mainly local dolphin populations. [86] [87] In some parts of the world, such as Taiji in Japan and the Faroe Islands, dolphins are traditionally considered food and are killed in harpoon or drive hunts. [88] Dolphin meat is high in mercury and may thus pose a health danger to humans when consumed. [89]
+
+Dolphin safe labels attempt to reassure consumers that fish and other marine products have been caught in a dolphin-friendly way. The earliest campaigns with "Dolphin safe" labels were initiated in the 1980s as a result of cooperation between marine activists and the major tuna companies, and involved decreasing incidental dolphin kills by up to 50% by changing the type of nets used to catch tuna. The dolphins are netted only while fishermen are in pursuit of smaller tuna. Albacore are not netted this way, making albacore the only truly dolphin-safe tuna. [citation needed]
+
+Loud underwater noises, such as those resulting from naval sonar use, live firing exercises, and certain offshore construction projects such as wind farms, may be harmful to dolphins, increasing stress, damaging hearing, and causing decompression sickness by forcing them to surface too quickly to escape the noise. [90] [91]
+
+ConservationOrganizations such as the Mote Marine Laboratory rescue and rehabilitate sick, wounded, stranded or orphaned dolphins while others, such as the Whale and Dolphin Conservation Society and Hong Kong Dolphin Conservation Society, work on dolphin conservation and welfare. India has declared the dolphin as its national aquatic animal in an attempt to protect the endangered Ganges River Dolphin. The Vikramshila Gangetic Dolphin Sanctuary has been created in the Ganges river for the protection of the animals.
+
+Several scientists who have researched dolphin behaviour have proposed that dolphins' unusually high intelligence in comparison to other animals means that dolphins should be seen as non-human persons who should have their own specific rights and that it is morally unacceptable to keep them captive for entertainment purposes or to kill them either intentionally for consumption or unintentionally as by-catch. [92] [93] Four countries – Chile, Costa Rica, Hungary, and India – have declared dolphins to be "non-human persons" and have banned the capture and import of live dolphins for entertainment. [94] [95]
+
+Relationships with humansMythologySee also: Dolphins in mythology
+
+Dolphins have long played a role in human culture. Dolphins are common in Greek mythology, and many coins from ancient Greece have been found which feature a man, a boy or a deity riding on the back of a dolphin. [96] The Ancient Greeks welcomed dolphins; spotting dolphins riding in a ship’s wake was considered a good omen. [97] In both ancient and later art, Cupid is often shown riding a dolphin.
+
+In Hindu mythology, the Ganges River Dolphin is associated with Ganga, the deity of the Ganges river.
+
+Popular cultureIn more recent times, the 1963 film Flipper and the subsequent 1964 television series popularized dolphins in Western society. The series, created by Ivan Tors, portrayed a dolphin as a kind of seagoing version of Lassie, the collie made popular in the 1950s TV series. Flipper was a bottlenose dolphin who understood commands and always behaved heroically. Flipper was remade as a film in 1996.
+
+The 1973 movie The Day of the Dolphin portrays kidnapped dolphins performing a naval military assassination using explosives. This was also explored in the similarly named The Simpsons Treehouse of Horror episode, "Night of the Dolphin", where Lisa frees a dolphin at an aquarium exhibit and unwittingly initiates their plan to overthrow the land-dwellers and live in their place. The 1990s science fiction television series seaQuest DSV featured a bottlenose dolphin named Darwin who could communicate using a vocoder, a fictional invention which translated clicks and whistles to English and back.
+
+The 1995 movie Johnny Mnemonic portrays an ex-military dolphin named Jones who tries to find a password for Johnny by decrypting data in the latter's head.
+
+Killer whales have also been portrayed in film, though to a lesser extent than bottlenose dolphins. The 1977 horror movie Orca portrayed killer whales as intelligent and capable of pair-bonding and aggressive behavior. In the movie, a male killer whale takes revenge on fishermen after they kill his mate. The 1993 movie Free Willy made a star of the killer whale playing Willy, Keiko.
+
+DolphinariaSee also: Dolphinarium
+
+The renewed popularity of dolphins in the 1960s resulted in the appearance of many dolphinaria around the world, making dolphins accessible to the public. Criticism and animal welfare laws forced many to close, although hundreds still exist around the world. In the United States, the best known are the SeaWorld marine mammal parks. In the Middle East the best known are Dolphin Bay at Atlantis, The Palm and the Dubai Dolphinarium.
+
+Attack on humansAlthough dolphins generally interact well with humans, some attacks have occurred, most of them resulting in small injuries. [98]
+
+Orcas, the largest species of dolphin, have been involved in fatal attacks on humans in captivity. The record-holder of documented orca fatal attacks is a male named Tilikum, that belongs to SeaWorld and has played a role in the death of three people in three different incidents (1991, 1999 and 2010). [99] There are documented incidents in the wild too, but none of them fatal. [100]
+
+Fatal attacks from other species are less common, but there is a registered occurrence off the coast of Brazil in 1994, when a man died after being attacked by a bottlenose dolphin named Tião. [101] [102] Tião had suffered harassment by human visitors, including attempts to stick ice cream sticks down his blowhole. [103] Non-fatal incidents occur more frequently, both in the wild and in captivity.
+
+While dolphin attacks occur far less frequently than attacks by other sea animals, such as sharks, some scientists are worried about the careless programs of human-dolphin interaction. Dr. Andrew J. Read, a biologist at the Duke University Marine Laboratory who studies dolphin attacks, points out that dolphins are large and wild predators, so people should be more careful when they interact with them. [98]
+
+TherapyDolphins are an increasingly popular choice of animal-assisted therapy for psychological problems and developmental disabilities. For example, a 2005 study found dolphins an effective treatment for mild to moderate depression. [104] However, this study was criticized on several grounds. For example, it is not known whether dolphins are more effective than common pets. [105] Reviews of this and other published dolphin-assisted therapy (DAT) studies have found important methodological flaws and have concluded that there is no compelling scientific evidence that DAT is a legitimate therapy or that it affords more than fleeting mood improvement. [106]
+
+MilitarySee also: Military dolphin
+
+A number of militaries have employed dolphins for various purposes from finding mines to rescuing lost or trapped humans. The military use of dolphins, however, drew scrutiny during the Vietnam War when rumors circulated that the United States Navy was training dolphins to kill Vietnamese divers. [107] The United States Navy denies that at any point dolphins were trained for combat. Dolphins are still being trained by the United States Navy for other tasks as part of the U.S. Navy Marine Mammal Program. The Russian military is believed to have closed its marine mammal program in the early 1990s. In 2000 the press reported that dolphins trained to kill by the Soviet Navy had been sold to Iran. [108]
+
+LiteratureDolphins are common in contemporary literature, especially science fiction novels. Biophysicist Leó Szilárd, one of the Manhattan Project scientists who invented the atomic bomb and also urged U.S. presidents not to use it, featured dolphins as a metaphor for voices of reason in a Cold War short story "The Voice of the Dolphin" (1960). In it, Russian and American scientists come together and learn to communicate with dolphins, changing the world. [109] Dolphins play a military role in William Gibson's short story Johnny Mnemonic, in which cyborg dolphins find submarines and decode encrypted information. Dolphins play a role as sentient patrollers of the sea enhanced with a deeper empathy toward humans in Anne McCaffrey's The Dragonriders of Pern series. In the Known Space universe of author Larry Niven, dolphins play a significant role as fully recognised "legal entities". More humorous is Douglas Adams’ The Hitchhiker's Guide to the Galaxy series of picaresque novels, in which dolphins are the second most intelligent creatures on Earth (after mice, followed by humans) and try in vain to warn humans of Earth’s impending destruction. Their story is told in So Long, and Thanks for All the Fish. Intelligent dolphins play an important role in David Brin's Uplift series.
+
+Dolphins also appear frequently in non-science fiction literature. In the book The Music of Dolphins by author Karen Hesse, dolphins raise a girl from the age of four until the coast guard eventually discovers her. Fantasy author Ken Grimwood wrote dolphins into his 1995 novel Into the Deep about a marine biologist struggling to crack the code of dolphin intelligence, including chapters written from a dolphin viewpoint.
+
+ArtDolphins are a popular artistic motif, dating back to ancient times. Examples include the Triton Fountain by Bernini and depictions of dolphins in the ruined Minoan palace at Knossos and on Minoan pottery.
+
+CuisineDolphin meat is consumed in a small number of countries world-wide, which include Japan [110] and Peru (where it is referred to as chancho marino, or "sea pork"). [111] While Japan may be the best-known and most controversial example, only a very small minority of the population has ever sampled it.
+
+Dolphin meat is dense and such a dark shade of red as to appear black. Fat is located in a layer of blubber between the meat and the skin. When dolphin meat is eaten in Japan, it is often cut into thin strips and eaten raw as sashimi, garnished with onion and either horseradish or grated garlic, much as with sashimi of whale or horse meat (basashi). When cooked, dolphin meat is cut into bite-size cubes and then batter-fried or simmered in a miso sauce with vegetables. Cooked dolphin meat has a flavor very similar to beef liver. [112]
+
+Health concernsThere have been human health concerns associated with the consumption of dolphin meat in Japan after tests showed that dolphin meat contained high levels of mercury. [113] There are no known cases of mercury poisoning as a result of consuming dolphin meat, though the government continues to monitor people in areas where dolphin meat consumption is high. [114] The Japanese government recommends that children and pregnant women avoid eating dolphin meat on a regular basis. [115]
+
+Similar concerns exist with the consumption of dolphin meat in the Faroe Islands, where prenatal exposure to methylmercury and PCBs primarily from the consumption of pilot whale meat has resulted in neuropsychological deficits amongst children. [116]
+
+See alsoCetaceans portal
+
+* List of cetaceans by population
+
+References* ^ δελφίς, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus Digital Library
+* ^ δελφύς, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus Digital Library
+* ^ "Dolphin". The American Heritage Dictionary of the English Language (Fourth ed.) (Dictionary.com). Retrieved December 17, 2006.
+* ^ delphinus, Charlton T. Lewis, Charles Short, A Latin Dictionary, on Perseus Digital Library
+* ^ δελφίν, -ῖνος, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus Digital Library
+* ^ "mereswine - definition and meaning of mereswine at Wordnik.com". www.wordnik.com. Retrieved 2010-06-28.
+* ^ Aquatic Life of the World. Marshall Cavendish. 1 November 2000. p. 652. ISBN 978-0-7614-7170-7. Retrieved 23 July 2013.
+* ^ a b Walker, Sally M. (November 2007). Dolphins. Lerner Publications. pp. 6, 30. ISBN 978-0-8225-6767-7.
+* ^ Andrew J. Read (1999). Porpoises. Voyageur Press. p. 13. ISBN 978-0-89658-420-4. Retrieved 23 July 2013.
+* ^ Stephen Leatherwood (1988). Whales, Dolphins, and Porpoises of the Eastern North Pacific and Adjacent Arctic Waters: A Guide to Their Identification. Courier Dover Publications. p. 6. ISBN 978-0-486-25651-1. Retrieved 23 July 2013.
+* ^ Ron Hirschi (April 2002). Dolphins. Marshall Cavendish. p. 7. ISBN 978-0-7614-1443-8. Retrieved 23 July 2013.
+* ^ a b Stephanie Nowacek; Douglas Nowacek (2006). Discovering Dolphins. Voyageur Press. pp. 5, 9. ISBN 978-0-7603-2561-2. Retrieved 23 July 2013.
+* ^ "Style guide, animal names". Dictionary.com. Retrieved November 4, 2007.
+* ^ "New Dolphin Species Discovered in Australia". September 15, 2011.
+* ^ "Dolphin Safari sightings log". 2006. Retrieved December 17, 2006.
+* ^ Texas Tech University (1997). "Mammals of Texas – Rough-toothed Dolphin". Retrieved December 8, 2006.
+* ^ Robin's Island. "Dolphins at SeaWorld California". Retrieved December 17, 2006.
+* ^ Denise L. Herzing, Kelly Moewe and Barbara J. Brunnick (2003). "Interspecies interactions between Atlantic spotted dolphins, Stenella frontalis and bottlenose dolphins, Tursiops truncatus, on Great Bahama Bank, Bahamas". Retrieved December 17, 2006.
+* ^ Lee, Jeanette J. (April 15, 2005). "Whale-Dolphin Hybrid Has Baby 'Wholphin'". Livescience.com. Associated Press. Archived from the original on April 17, 2005. Retrieved March 2, 2013.
+* ^ Thewissen, J. G. M.; Williams, E. M. (1 November 2002). "THE EARLY RADIATIONS OF CETACEA (MAMMALIA): Evolutionary Pattern and Developmental Correlations". Annual Review of Ecology and Systematics 33 (1): 73–90. doi:10.1146/annurev.ecolsys.33.020602.095426.
+* ^ Lovett, Richard A. (8 November 2006). "Dolphin With Four Fins May Prove Terrestrial Origins". National Geographic. Retrieved 27 July 2012.
+* ^ Lori Marino et al. (2002), Neuroanatomy of the Common Dolphin (Delphinus delphis) as Revealed by Magnetic Resonance Imaging (MRI)
+* ^ The Institute for Marine Mammal Studies (IMMS). "Dolphin Frequently Asked Questions: Why is a dolphin a mammal and not a fish?". Retrieved 9 September 2012.
+* ^ VirtualExplorers.org. "Amazon River Dolphin fact sheet All About Dolphins". Retrieved February 21, 2008.
+* ^ William F. Perrin; Bernd Wursig; J. G.M. Thewissen (26 February 2009). Encyclopedia of Marine Mammals. Academic Press. ISBN 978-0-08-091993-5. Retrieved 28 June 2013.
+* ^ Carol J. Howard (1 December 1995). Dolphin Chronicles. Random House Digital, Inc. pp. 129–. ISBN 978-0-553-37778-1. Retrieved 26 November 2012.
+* ^ Bernd G. Würsig; Bernd Wursig, Melany Wursig (2010). The Dusky Dolphin: Master Acrobat Off Different Shores. Academic Press. pp. 156–. ISBN 978-0-12-373723-6. Retrieved 26 November 2012.
+* ^ Edward F. Gibbons, Jr.; Barbara Susan Durrant; Jack Demarest (1995). Conservation Endangered Spe: An Interdisciplinary Approach. SUNY Press. pp. 435–. ISBN 978-0-7914-1911-3. Retrieved 26 November 2012.
+* ^ Georgetown University Medical Center. "Dolphins’ "Remarkable" Recovery from Injury Offers Important Insights for Human Healing". Retrieved July 26, 2011.
+* ^ US National Marine Mammal Foundation (2010-02-18). "Scientists Find Clues in Dolphins to Treat Diabetes in Humans". Retrieved February 20, 2010.
+* ^ The Dolphin Institute. "How Dolphins Perceive Their World". Retrieved March 24, 2009.
+* ^ Jeanette A. Thomas and Ronald A. Kastelein., ed. (1990). A Proposed Echolocation Receptor for the Bottlenose Dolphin (Tursiops truncatus): Modelling the Receive Directivity from Tooth and Lower Jaw Geometry NATO ASI Series A: Sensory Abilities of Cetaceans 196. NY: Plenum. pp. 255–267. ISBN 978-0-306-43695-6.
+* ^ Heidi E. Harley and Caroline M. DeLong (2008). "Echoic Object Recognition by the Bottlenose Dolphin". Retrieved November 6, 2011.
+* ^ "Indus River Delta". World Wildlife Fund.
+* ^ SeaWorld. "Bottlenose Dolphins – Senses". Retrieved December 17, 2006.
+* ^ Bjorn Mauck, Ulf Eysel and Guide Dehnhardt (2000). "Selective heating of vibrissal follicles in seals (Phoca vitulina) and dolphins (Sotalia fluviatilis guianensis)". Retrieved March 11, 2007.
+* ^ Laurie Stepanek (1998). "Amazon River Dolphin (Inia geoffrensis)". Archived from the original on February 6, 2007. Retrieved March 11, 2007.
+* ^ Davidson College, biology department (2001). "Bottlenose Dolphins – Altruism". Archived from the original on January 6, 2010. Retrieved March 12, 2008.
+* ^ Lilley, Ray (2008-03-12). "Dolphin Saves Stuck Whales, Guides Them Back to Sea". National Geographic. Associated Press. Retrieved July 8, 2012.
+* ^ "Dolphins save swimmers from shark". CBC News. 2004-11-24. Retrieved March 11, 2007.
+* ^ Celizic, Mike (2007-11-08). "Dolphins save surfer from becoming shark’s bait". MSNBC. Retrieved 2007-11-08.
+* ^ Rowan Hooper (2005). "Dolphins teach their children to use sponges". Retrieved December 17, 2006.
+* ^ Nic Fleming, Science correspondent for the Telegraph (December 5, 2007, 2008). "Dolphins woo females with bunches of weeds". The Daily Telegraph (London). Retrieved February 11, 2008.
+* ^ Dr. George Johnson. "Is Flipper A Senseless Killer?". Retrieved December 17, 2006.
+* ^ Mark Simmonds, Whales and Dolphins of the World, New Holland Publishers (2007), Ch. 1, p. 32 ISBN 1845378202.
+* ^ Volker Sommer, Paul L. Vasey (2006). "Chapter 4". Homosexual Behaviour in Animals - an Evolutionary perspective.
+* ^ Bruce Bagemihl (1999). Biological Exuberance - Animal Homosexuality and Natural Diversity.
+* ^ "Aggression in bottlenose dolphins: evidence for sexual coercion, male-male competition, and female tolerance through analysis of tooth-rake marks and behavior". 2005. Archived from the original on August 20, 2007. Retrieved September 18, 2007. |coauthors=
+
+requires |author=
+
+(help)
+* ^ "chapter 15 Marine Mammals: Fisheries, Tourism and Management Issues". Cetaceans that are typically lonely and seek human company. 2003. pp. 266–268. Retrieved December 17, 2006. |coauthors=
+
+requires |author=
+
+(help)
+* ^ a b c d Whalefacts.org - Dolphin’s diet, article retrieved 8 September 2013.
+* ^ U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service. "Coastal Stock(s) of Atlantic Bottlenose Dolphin: Status Review and Management Proceedings and Recommendations from a Workshop held in Beaufort, North Carolina, 13 September 1993 – 14 September 1993". pp. 56–57.
+* ^ Gregory K. Silber, Dagmar Fertl (1995) - Intentional beaching by bottlenose dolphins (Tursiops truncatus) in the Colorado River Delta, Mexico.
+* ^ M.B. Santos, R. Fernández, A. López, J.A. Martínez and G.J. Pierce (2007). "Variability in the diet of bottlenose dolphin, Tursiops truncatus, in Galician waters, north-western Spain, 1990–2005". Journal of the Marine Biological Association of the UK 87: 231. doi:10.1017/S0025315407055233.
+* ^ "Brazil's sexiest secret". The Daily Telegraph (London). 2006-03-08. Retrieved March 11, 2007.
+* ^ Dr. Moti Nissani (2007). "Bottlenose Dolphins in Laguna Requesting a Throw Net Supporting material for Dr. Nissani's presentation at the 2007 International Ethological Conference". Retrieved February 13, 2008.
+* ^ Viegas, Jennifer (2011). "Dolphins Talk Like Humans". Discovery News. Retrieved September 19, 2011.
+* ^ Au, W. W. L. (1993). The Sonar of Dolphins. New York: Springer. ISBN 978-3-540-97835-0.
+* ^ "Dolphins 'call each other by name'". July 22, 2013.
+* ^ "Marine Mammal vocalizations: language or behavior?". August 24, 2013.
+* ^ "Dolphins keep lifelong social memories, longest in a non-human species". August 24, 2013.
+* ^ Emily T. Griffiths - Whistle repertoire analysis of the short beaked Common Dolphin, Delphinus Delphis, from the Celtic Deep and the Eastern and the Eastern Tropical Pacific Ocean, page 7.
+* ^ Melba C. Caldwell Et Al. - Statistical Evidence for Signture Whistles in the Spotted Dolphin, Stenella Plagiodon.
+* ^ Melba C. Caldwell Et Al. - Statistical Evidence for Signture Whistles in the Pacific Whitesided Dolphin, Lagenorhynchus Obliquidens.
+* ^ Rüdiger Riesch Et Al. - Stability and group specificity of stereotyped whistles in resident killer whales, Orcinus orca, off British Columbia.
+* ^ a b D. Weihs (2002), Dynamics of Dolphin Porpoising Revisited.
+* ^ David Lusseau (2006), Why do dolphins jump? Interpreting the behavioural repertoire of bottlenose dolphins (Tursiops sp.) in Doubtful Sound, New Zealand
+* ^ Corey Binns - LiveScience (2006), How Dolphins Spin, and Why, article retrieved 8 September 2013.
+* ^ a b c Robin D. Paulos (2010), Play in Wild and Captive Cetaceans
+* ^ Brenda McCowan; Lori Marino; Erik Vance; Leah Walke; Diana Reiss (2000). "Bubble Ring Play of Bottlenose Dolphins (Tursiops truncatus):Implications for Cognition". Journal of Comparative Psychology l14 (1): 98. doi:10.1037//0735-7036.114.1.98.
+* ^ Mark H. Deakos et al. (2010), Two Unusual Interactions Between a Bottlenose Dolphin (Tursiops truncatus) and a Humpback Whale (Megaptera novaeangliae) in Hawaiian Waters.
+* ^ Cathy Hayes for Irish Central (2011), Amazing footage of a dog playing with a dolphin off the coast of Ireland, article retrieved 8 September 2013.
+* ^ Mukhametov, L. M.; Supin, A. Ya. (1978). "Sleep and vigil in dolphins". Marine mammals. Moscow: Nauka.
+* ^ Mukhametov, Lev (1984). "Sleep in marine mammals". Experimental Brain Research. Experimental Brain Research Supplementum. 8 (suppl.): 227–238. doi:10.1007/978-3-642-69554-4_17. ISBN 978-3-642-69556-8.
+* ^ Dallas Grasby (1994). "Excerpts from "Sleep in marine mammals", L.M. Mukhametov". Experimental Brain Research. 8 (suppl.). Retrieved February 11, 2008.
+* ^ James G. McCormick (PhD), Department of Anesthesiology, Wake Forest University School of Medicine, Winston-Salem, North Carolina (2007). "Behavioral Observations of Sleep and Anesthesia in the Dolphin: Implications for Bispectral Index Monitoring of Unihemispheric Effects in Dolphins". Retrieved February 11, 2008.
+* ^ BBC (2008-02-20). "Sperm whales caught 'cat napping'". BBC News. Retrieved April 9, 2008.
+* ^ G. Neil Martin, Neil R. Carlson, William Buskist (1997), Psychology, third edition, Pearson Allyn & Bacon, p. 383 ISBN 978-0-273-71086-8.
+* ^ Michael R. Heithaus (1999), Predator-prey and competitive interactions between sharks (order Selachii) and dolphins (suborder Odontoceti): a review
+* ^ Emine Sinmaz for the Daily Mail (2013), Eight-ton orca leaps 15ft into the air to finally capture dolphin he wanted for dinner after two-hour chase, article retrieved 8 September, 2013.
+* ^ Nadia Drake for WIRED (2013), Photographer Captures Stunning Killer Whale Attack on Dolphin, article retrieved 8 September, 2013.
+* ^ Gregory D. Bossart (2007), Emerging Diseases in Manatees and Dolphins: From Tumors to Toxins.
+* ^ James C. Woodard et al. (1969), Some Parasitic Diseases of Dolphins.
+* ^ Douglas Williams for Shanghai Daily (2006-12-04). "Yangtze dolphin may be extinct". Retrieved December 9, 2006.
+* ^ "TED: Stephen Palumbi: Following the mercury trail". Youtube.com. 2010-06-30. Retrieved 2011-07-25.
+* ^ Clover, Charles. (2004). The End of the Line: How overfishing is changing the world and what we eat. Ebury Press, London. ISBN 978-0-09-189780-2.
+* ^ Díaz López, Bruno; Shirai, J.A. (2006). "Bottlenose dolphin (Tursiops truncatus) presence and incidental capture in a marine fish farm on the north-eastern coast of Sardinia (Italy)". Journal of Marine Biological Ass. UK 87: 113–117. doi:10.1017/S0025315407054215.
+* ^ Díaz López, Bruno (2006). "Interactions between Mediterranean bottlenose dolphins (Tursiops truncatus) and gillnets off Sardinia, Italy". ICES Journal of Marine Science 63 (5): 946–951. doi:10.1016/j.icesjms.2005.06.012.
+* ^ Matsutani, Minoru (2009-09-23). "Details on how Japan's dolphin catches work". Japan Times. p. 3.
+* ^ Johnston, Eric (2009-09-23). "Mercury danger in dolphin meat". Japan Times. p. 3.
+* ^ CBC news (2003-10-09). "Navy sonar may be killing whales, dolphins". CBC News. Retrieved October 27, 2008.
+* ^ "Npower renewables Underwater noise & vibration, section 9.4". Retrieved October 27, 2008.
+* ^ Thomas I. White (2007). In defense of dolphins: the new moral frontier. Blackwell Public Philosophy Series. ISBN 978-1-4051-5778-0.
+* ^ Jonathan Leake and Helen Brooks for The Sunday Times (2010), Scientists say dolphins should be treated as 'non-human persons', article retrieved January 4, 2010.
+* ^ Land, Graham (29 July 2013). Dolphin rights: The world should follow India’s lead. Asiancorrespondent.com. Hybrid News Ltd. Accessed on 29 July 2013.
+* ^ Policy on establishment of dolphinarium
+* ^ "Taras". Retrieved 3 October 2010.
+* ^ Eyers, Jonathan (2011). Don't Shoot the Albatross!: Nautical Myths and Superstitions. A&C Black, London, UK. ISBN 978-1-4081-3131-2.
+* ^ a b William Broad (1999-07-06). "An article on the aggressive nature of dolphins". Fishingnj.org. Retrieved 2011-07-25.
+* ^ Pilkington, Ed (2010-02-25). "Killer whale Tilikum to be spared after drowning trainer by ponytail". The Guardian (London).
+* ^ "Killer whale bumps but doesn't bite boy". Juneau Empire – Alaska's Capital City Online Newspaper. 2005-08-19. Retrieved 2011-07-25.
+* ^ Wong, David. "The 6 Cutest Animals That Can Still Destroy You". Cracked.com. Retrieved 2011-07-25.
+* ^ "Male Dolphin Kills Man". Science-frontiers.com. Sep–Oct 1995. Retrieved 2011-07-25.
+* ^ "LONE DOLPHINS – FRIEND OR FOE?". BBC. 2002-09-09. Retrieved 2012-02-05.
+* ^ Antonioli, C; Reveley, MA (2005). "Randomised controlled trial of animal facilitated therapy with dolphins in the treatment of depression". BMJ (Clinical research ed.) 331 (7527): 1231. doi:10.1136/bmj.331.7527.1231. JSTOR 25455488. PMC 1289317. PMID 16308382.
+* ^ Biju Basil, Maju Mathews (2005). "Methodological concerns about animal-facilitated therapy with dolphins". BMJ 331 (7529): 1407. doi:10.1136/bmj.331.7529.1407. PMC 1309662. PMID 16339258.
+* ^ Lori Marino, Scott O. Lilienfeld (2007). "Dolphin-Assisted Therapy: more flawed data and more flawed conclusions" (PDF). Anthrozoos 20 (3): 239–49. doi:10.2752/089279307X224782. Retrieved 2008-02-20.
+* ^ PBS – Frontline. "The Story of Navy dolphins". Retrieved June 8, 2008.
+* ^ "Iran buys kamikaze dolphins". BBC News. 2000-03-08. Retrieved June 7, 2008.
+* ^ R. Scott Sheffield (July 2009). "When Speaking as a Scientist Is Not Enough: Leo Szilard on Playing with Dolphins" (pdf). Newsletter of the History of Science Society 38 (2): 20–23.
+* ^ McCurry, Justin (2009-09-14). "Dolphin slaughter turns sea red as Japan hunting season returns". The Guardian (London). Retrieved 24 May 2010.
+* ^ Dolphin meat widely available in Peru. recordnet.com (2003-06-08)
+* ^ "イルカの味噌根菜煮" [Dolphin in Miso Vegetable Stew]. Cookpad (in Japanese). 2010. Retrieved 16 May 2011.
+* ^ 2008/6/13 熊本日日新聞記事「鯨から高濃度水銀」 2008/6/16 AERA「『鯨の町』住民から水銀40倍」について
+* ^ "Taiji residents relieved to hear "it's safe" again", Asahi Shinbun, May 31, 2012.
+* ^ 平成１５年６月３日に公表した「水銀を含有する魚介類等の 摂食に関する注意事項」について
+* ^ World Health Organisation / United Nations Environment Programme DTIE Chemicals Branch (2008). "Guidance for identifying populations at risk from mercury exposure". p. 36. Retrieved 29 August 2013. "The Faroe Islands population was exposed to methylmercury largely from contaminated pilot whale meat, which contained very high levels of about 2 mg methylmercury/kg. However, the Faroe Islands populations also eat significant amounts of fish. The study of about 900 Faroese children showed that prenatal exposure to methylmercury resulted in neuropsychological deficits at 7 years of age."
+
+Further reading* Carwardine, M., Whales, Dolphins and Porpoises, Dorling Kindersley, 2000. ISBN 978-0-7513-2781-6.
+* Williams, Heathcote, Whale Nation, New York, Harmony Books, 1988. ISBN 978-0-517-56932-0.
+
+External linksConservation, research and news:
+
+* De Rohan, Anuschka. "Why dolphins are deep thinkers", The Guardian, July 3, 2003.
+* The Dolphin Institute
+* The Oceania Project, Caring for Whales and Dolphins
+* Tursiops.org: Current Cetacean-related news
+* Understanding Dolphins
+
+Photos:
+
+* Red Sea Spinner Dolphin – Photo gallery
+* PBS NOVA: Dolphins: Close Encounters
+* David's Dolphin Images
+* Images of Wild Dolphins in the Red Sea
