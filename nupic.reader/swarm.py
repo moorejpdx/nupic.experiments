@@ -98,7 +98,7 @@ def printSwarmSizeWarning(size):
   elif size is "medium":
     print "= Medium swarm. Sit back and relax, this could take awhile."
   else:
-    print "= LARGE SWARM! Might as well load up the Star Wars Trilogy."
+    print "= LARGE SWARM! Strap in! Might as well load up the Star Wars Trilogy."
 
 
 

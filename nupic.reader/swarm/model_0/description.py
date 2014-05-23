@@ -35,7 +35,7 @@ from nupic.frameworks.opf.expdescriptionhelpers import importBaseDescription
 # the sub-experiment configuration
 config ={
   'aggregationInfo' : {'seconds': 0, 'fields': [], 'months': 0, 'days': 0, 'years': 0, 'hours': 0, 'microseconds': 0, 'weeks': 0, 'minutes': 0, 'milliseconds': 0},
-  'modelParams' : {'sensorParams': {'encoders': {'_classifierInput': {'fieldname': 'word', 'classifierOnly': True, 'type': 'SDRCategoryEncoder', 'w': 21, 'n': 121}, u'word': {'type': 'SDRCategoryEncoder', 'fieldname': 'word', 'name': 'word', 'w': 21, 'n': 121}}}, 'spParams': {'synPermInactiveDec': 0.0020002084241801648}, 'tpParams': {'minThreshold': 11, 'activationThreshold': 16, 'pamLength': 4}, 'clParams': {'alpha': 0.080438477995228103}},
+  'modelParams' : {'sensorParams': {'encoders': {'_classifierInput': {'fieldname': 'word', 'classifierOnly': True, 'type': 'SDRCategoryEncoder', 'w': 21, 'n': 121}, u'word': {'type': 'SDRCategoryEncoder', 'fieldname': 'word', 'name': 'word', 'w': 21, 'n': 121}}}, 'spParams': {'synPermInactiveDec': 0.0033188416230477843}, 'tpParams': {'minThreshold': 10, 'activationThreshold': 12, 'pamLength': 1}, 'clParams': {'alpha': 0.017711953846979257}},
 
 }
 

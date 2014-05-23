@@ -43,10 +43,10 @@ SWARM_DESCRIPTION = {
   "inferenceType": "TemporalMultiStep",
   "inferenceArgs": {
     "predictionSteps": [
-      1
+      1,2,3,4,5,6
     ],
     "predictedField": "word"
   },
   "iterationCount": -1,
-  "swarmSize": "large"
+  "swarmSize": "medium"
 }

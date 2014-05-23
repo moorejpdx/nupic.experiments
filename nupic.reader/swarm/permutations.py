@@ -93,10 +93,10 @@ report = [
 # used by RunPermutations.
 # NOTE: The value is used as a regular expressions by RunPermutations.py's
 #       report generator
-# (generated from minimize = "multiStepBestPredictions:multiStep:errorMetric='avg_err':steps=\[1\]:window=1000:field=word")
-minimize = "multiStepBestPredictions:multiStep:errorMetric='avg_err':steps=\[1\]:window=1000:field=word"
+# (generated from minimize = "multiStepBestPredictions:multiStep:errorMetric='avg_err':steps=\[1, 2, 3, 4, 5, 6\]:window=1000:field=word")
+minimize = "multiStepBestPredictions:multiStep:errorMetric='avg_err':steps=\[1, 2, 3, 4, 5, 6\]:window=1000:field=word"
 
-minParticlesPerSwarm = 15
+minParticlesPerSwarm = 5
 
 inputPredictedField = 'auto'
 
@@ -104,9 +104,9 @@ inputPredictedField = 'auto'
 
 
 
-tryAll3FieldCombinationsWTimestamps = True
 
 
+maxModels = 200
 
 #############################################################################
 def permutationFilter(perm):

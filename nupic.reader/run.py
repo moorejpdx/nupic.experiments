@@ -71,29 +71,80 @@ def runIoThroughNupic(inputData, model, filePath):
   # skip header rows
   #print inputFile
 
-  print ("[%s]:[%s]", 'word', 'prediction')
+  print ("[%s]:[%s]", ['word'], ['prediction'])
 
   output = nupic_output.NuPICFileOutput([name])
 
-  counter = 0
+  #counter = 0
+  #make model smarter
+  for i in range(100):
+    with open(filePath, "rb") as f:
+      for text in f:
+        word = text.strip()
+        #counter += 1
+        #if (counter % 100 == 0):
+          #print
+          #print "Read %i lines..." % counter
+        #print word,
+        result = model.run({
+          "word": word,
+        })
+        #print ("[%s]:[%s]", word, prediction)
+        prediction1 = result.inferences["multiStepBestPredictions"][1]
+        prediction2 = result.inferences["multiStepBestPredictions"][2]
+        prediction3 = result.inferences["multiStepBestPredictions"][3]
+        prediction4 = result.inferences["multiStepBestPredictions"][4]
+        prediction5 = result.inferences["multiStepBestPredictions"][5]
+        prediction6 = result.inferences["multiStepBestPredictions"][6]
+        print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+        output.write([word], [prediction1])
+
+
+
+        #print "result:  " + repr(result)
+        #print
+        #print
 
   with open(filePath, "rb") as f:
-    for word in f:
-      #print word
-      counter += 1
-      if (counter % 100 == 0):
-        print
-        print "Read %i lines..." % counter
+    for text in f:
+      word = text.strip()
       #print word,
       result = model.run({
         "word": word,
       })
-      prediction = result.inferences["multiStepBestPredictions"][1]
-      print ("[%s]:[%s]", word, prediction)
-      output.write([word], [prediction])
+      prediction1 = result.inferences["multiStepBestPredictions"][1]
+      prediction2 = result.inferences["multiStepBestPredictions"][2]
+      prediction3 = result.inferences["multiStepBestPredictions"][3]
+      prediction4 = result.inferences["multiStepBestPredictions"][4]
+      prediction5 = result.inferences["multiStepBestPredictions"][5]
+      prediction6 = result.inferences["multiStepBestPredictions"][6]
+      print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+      output.write([word], [prediction1])
+
+      print "result:  " + repr(result)
+      print
+      print "****************************************************"
+
+
+
+  word = "gorilla"
+  result = model.run({
+    "word": word,
+  })
+  prediction1 = result.inferences["multiStepBestPredictions"][1]
+  prediction2 = result.inferences["multiStepBestPredictions"][2]
+  prediction3 = result.inferences["multiStepBestPredictions"][3]
+  prediction4 = result.inferences["multiStepBestPredictions"][4]
+  prediction5 = result.inferences["multiStepBestPredictions"][5]
+  prediction6 = result.inferences["multiStepBestPredictions"][6]
+  print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+  output.write([word], [prediction1])
+
+  print "result:  " + repr(result)
+  print
+  print "****************************************************"
 
   output.close()
-
 
 
 def runModel(filePath):

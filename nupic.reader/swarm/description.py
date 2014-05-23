@@ -259,7 +259,7 @@ config = {
 
             # This is set after the call to updateConfigFromSubConfig and is
             # computed from the aggregationInfo and predictAheadTime.
-            'steps': '1',
+            'steps': '1,2,3,4,5,6',
         },
 
         'anomalyParams': {   u'anomalyCacheRecords': None,
@@ -295,14 +295,14 @@ applyValueGettersToContainer(config)
 
 control = {
   # The environment that the current model is being run in
-  "environment": 'grok',
+  "environment": 'nupicExperiment',
 
   # Input stream specification per py/nupic/frameworks/opf/jsonschema/stream_def.json.
   #
   'dataset' : {   u'info': u'foxeat',
         u'streams': [   {   u'columns': [u'*'],
                             u'info': u'Rec Center',
-                            u'source': u'file://texts/simpletext.txt'}],
+                            u'source': u'file://texts/wordlist.txt'}],
         u'version': 1},
 
   # Iteration count: maximum number of iterations.  Each iteration corresponds
@@ -318,12 +318,12 @@ control = {
   # A dictionary containing all the supplementary parameters for inference
   "inferenceArgs":{u'inputPredictedField': 'auto',
  u'predictedField': u'word',
- u'predictionSteps': [1]},
+ u'predictionSteps': [1, 2, 3, 4, 5, 6]},
 
   # Metrics: A list of MetricSpecs that instantiate the metrics that are
   # computed for this experiment
   'metrics':[
-    MetricSpec(field=u'word', metric='multiStep', inferenceElement='multiStepBestPredictions', params={'window': 1000, 'steps': [1], 'errorMetric': 'avg_err'})
+    MetricSpec(field=u'word', metric='multiStep', inferenceElement='multiStepBestPredictions', params={'window': 1000, 'steps': [1, 2, 3, 4, 5, 6], 'errorMetric': 'avg_err'})
   ],
 
   # Logged Metrics: A sequence of regular expressions that specify which of
