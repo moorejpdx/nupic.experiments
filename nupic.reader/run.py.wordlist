@@ -27,16 +27,11 @@ import importlib
 import sys
 import datetime
 import os
-import io
-import re
 from optparse import OptionParser
 
-#nupic libraries
 from nupic.frameworks.opf.modelfactory import ModelFactory
-from utils import nupic_output
 
-#pattern libraries
-from pattern.en import parsetree
+from utils import nupic_output
 
 
 DESCRIPTION = (
@@ -76,53 +71,25 @@ def runIoThroughNupic(inputData, model, filePath):
   # skip header rows
   #print inputFile
 
-  #print ("[%s]:[%s]", ['word'], ['prediction'])
+  print ("[%s]:[%s]", ['word'], ['prediction'])
 
-#  output = nupic_output.NuPICFileOutput([name])
+  output = nupic_output.NuPICFileOutput([name])
 
-  with io.open(filePath, "rU") as f:
-    l_text = f.read()
-    print l_text
-
-    # cleanup periods to always have 2 spaces after them if there's a single space
-    l_text = re.sub(r'([!\.\?]) (\w)', r'\1  \2', l_text)
-    # cleanup odd unicode quotes to be normal single quotes
-    l_text = re.sub(u'[\u2019]', r"'", l_text)
-    # unicode dash to normal dash
-    l_text = re.sub(u'[\u2014]', r"-", l_text)
-    # unicode dash to double quotes
-    l_text = re.sub(u'[\u201c]', r'"', l_text)
-    l_text = re.sub(u'[\u201d]', r'"', l_text)
-
-    # remove the rest of the unicode "stuff"
-    l_text = l_text.encode('ascii','ignore')
-
-    l_parsetree = parsetree(l_text)
-
-    #build RE matches
-    re_first_letter = re.compile(r'^[A-Z]')
-    re_punct = re.compile(r'[\.\?!]$')
-
-    for sentence in l_parsetree:
-      #print sentence.string
-      match = re_first_letter.search(sentence.string.strip())
-      if not match:
-        #print ("    NO CAPS")
-        continue
-
-      match = re_punct.search(sentence.string.strip())
-      if not match:
-        #print ("    NO PUNCTUATION")
-        continue
-
-      print sentence.string
-      for l_word in sentence.words:
-        #print "  word: " + repr(l_word)
-        print "  word: " + l_word.string
-
+  #counter = 0
+  #make model smarter
+  for i in range(100):
+    with open(filePath, "rb") as f:
+      for text in f:
+        word = text.strip()
+        #counter += 1
+        #if (counter % 100 == 0):
+          #print
+          #print "Read %i lines..." % counter
+        #print word,
         result = model.run({
           "word": word,
         })
+        #print ("[%s]:[%s]", word, prediction)
         prediction1 = result.inferences["multiStepBestPredictions"][1]
         prediction2 = result.inferences["multiStepBestPredictions"][2]
         prediction3 = result.inferences["multiStepBestPredictions"][3]
@@ -132,9 +99,50 @@ def runIoThroughNupic(inputData, model, filePath):
         print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
         output.write([word], [prediction1])
 
-        print "result:  " + repr(result)
-        print
-        print "****************************************************"
+
+
+        #print "result:  " + repr(result)
+        #print
+        #print
+
+  with open(filePath, "rb") as f:
+    for text in f:
+      word = text.strip()
+      #print word,
+      result = model.run({
+        "word": word,
+      })
+      prediction1 = result.inferences["multiStepBestPredictions"][1]
+      prediction2 = result.inferences["multiStepBestPredictions"][2]
+      prediction3 = result.inferences["multiStepBestPredictions"][3]
+      prediction4 = result.inferences["multiStepBestPredictions"][4]
+      prediction5 = result.inferences["multiStepBestPredictions"][5]
+      prediction6 = result.inferences["multiStepBestPredictions"][6]
+      print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+      output.write([word], [prediction1])
+
+      print "result:  " + repr(result)
+      print
+      print "****************************************************"
+
+
+
+  word = "gorilla"
+  result = model.run({
+    "word": word,
+  })
+  prediction1 = result.inferences["multiStepBestPredictions"][1]
+  prediction2 = result.inferences["multiStepBestPredictions"][2]
+  prediction3 = result.inferences["multiStepBestPredictions"][3]
+  prediction4 = result.inferences["multiStepBestPredictions"][4]
+  prediction5 = result.inferences["multiStepBestPredictions"][5]
+  prediction6 = result.inferences["multiStepBestPredictions"][6]
+  print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+  output.write([word], [prediction1])
+
+  print "result:  " + repr(result)
+  print
+  print "****************************************************"
 
   output.close()
 
@@ -142,8 +150,7 @@ def runIoThroughNupic(inputData, model, filePath):
 def runModel(filePath):
   name = os.path.splitext(os.path.basename(filePath))[0]
   print "Creating model from %s..." % name
-  #model = createModel(getModelParamsFromName(name)) 
-  model = None
+  model = createModel(getModelParamsFromName(name))
   inputData = "%s.txt" % (filePath.replace(" ", "_"))
   runIoThroughNupic(inputData, model, filePath)
 
