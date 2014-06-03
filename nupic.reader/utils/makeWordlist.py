@@ -67,7 +67,8 @@ def makeWordlist(filePath):
       #print sentence.string
       for l_word in sentence.words:
         #print "  word: " + repr(l_word)
-        print l_word.string
+        if l_word.string.isalnum():
+          print l_word.string
 
 
 
