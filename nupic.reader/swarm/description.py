@@ -302,7 +302,7 @@ control = {
   'dataset' : {   u'info': u'foxeat',
         u'streams': [   {   u'columns': [u'*'],
                             u'info': u'Rec Center',
-                            u'source': u'file://texts/octopus_words.txt'}],
+                            u'source': u'file://texts/octopus_wordlist.txt'}],
         u'version': 1},
 
   # Iteration count: maximum number of iterations.  Each iteration corresponds
