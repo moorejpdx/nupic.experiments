@@ -60,6 +60,7 @@ def getModelParamsFromName(filePath):
   importName = "model_params.%s_model_params" % (
     filePath.replace(" ", "_").replace("-", "_")
   )
+  importName = "model_params.Universal_model_params"
   print "Importing model params from %s" % importName
   try:
     importedModelParams = importlib.import_module(importName).MODEL_PARAMS
@@ -104,7 +105,7 @@ def runIoThroughNupic(inputData, model, filePath):
     re_punct = re.compile(r'[\.\?!]$')
 
     for sentence in l_parsetree:
-      #print sentence.string
+      print sentence.string
       match = re_first_letter.search(sentence.string.strip())
       if not match:
         #print ("    NO CAPS")
@@ -123,20 +124,20 @@ def runIoThroughNupic(inputData, model, filePath):
         result = model.run({
           "word": word,
         })
-        prediction1 = result.inferences["multiStepBestPredictions"][1]
-        prediction2 = result.inferences["multiStepBestPredictions"][2]
-        prediction3 = result.inferences["multiStepBestPredictions"][3]
-        prediction4 = result.inferences["multiStepBestPredictions"][4]
-        prediction5 = result.inferences["multiStepBestPredictions"][5]
-        prediction6 = result.inferences["multiStepBestPredictions"][6]
-        print (word, prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
-        output.write([word], [prediction1])
+        #prediction1 = result.inferences["multiStepBestPredictions"][1]
+        #prediction2 = result.inferences["multiStepBestPredictions"][2]
+        #prediction3 = result.inferences["multiStepBestPredictions"][3]
+        #prediction4 = result.inferences["multiStepBestPredictions"][4]
+        #prediction5 = result.inferences["multiStepBestPredictions"][5]
+        #prediction6 = result.inferences["multiStepBestPredictions"][6]
+        #print ("prediction: %s, %s, %s,%s,%s,%s" %  prediction1, prediction2,prediction3,prediction4,prediction5,prediction6)
+        #output.write([word], [prediction1])
 
         print "result:  " + repr(result)
         print
         print "****************************************************"
 
-  output.close()
+  #output.close()
 
 
 def runModel(filePath):
